@@ -13,7 +13,7 @@ columns_to_drop = ['duplicate_id', 'misc_notes', 'temporary_code', 'student_note
 print("Merge the key values onto the mock sheet")
 merged_df = pd.merge(
     garbled_df,
-    key_df[['student_id', 'first_name', 'last_name']],
+    key_df[['student_id', 'first_name', 'last_name', 'age', 'major']],
     on = 'student_id',
     how = 'left',
     suffixes = ('', '_key')
@@ -21,6 +21,12 @@ merged_df = pd.merge(
 
 
 print("Merged df columns:", merged_df.columns)
+
+if key_df.isnull().values.any(): 
+    print("Found Nulls in the key dataset stopping script")
+    sys.exit(0)
+else:
+    print("No missing values on the key dataset")
 
 print("Checking the names and replacing if they are missing")
 # Check key_df for null values before applying the fix. Make sure the key data is good and trustworthy.
@@ -32,6 +38,16 @@ garbled_df['first_name'] = merged_df.apply(
 
 garbled_df['last_name'] = merged_df.apply(
     lambda row: row['last_name_key'] if pd.notna(row['last_name_key']) and row['last_name'] != row['last_name_key'] else row['last_name'],
+    axis = 1
+)
+
+garbled_df['age'] = merged_df.apply(
+    lambda row: row['age_key'] if pd.notna(['age_key']) and row['age'] != row['age_key'] else row['age'],
+    axis = 1
+)
+
+garbled_df['major'] = merged_df.apply(
+    lambda row: row['major_key'] if pd.notna(['major_key']) and row['major'] != row['major_key'] else row['major'],
     axis = 1
 )
 
