@@ -7,6 +7,19 @@ print("Reading in key dataset")
 key_path = "Mock_Data_Key.csv"
 key_df = pd.read_csv(key_path)
 
+# ------------- Start of Functions ---------------#
+def update_column(data, key_data, column_name):
+    return key_data.apply(
+        lambda row: row[f"{column_name}_key"]
+        if pd.notna(row[f"{column_name}_key"]) and row[column_name] != row[f"{column_name}_key"]
+        else row[column_name],
+        axis = 1
+    )
+
+# ------------- End of Functions -------------------#
+
+
+
 #Define columns that need to be dropped
 columns_to_drop = ['duplicate_id', 'misc_notes', 'temporary_code', 'student_notes', 'is_graduated', 'name_combined', 'archived']
 
@@ -28,29 +41,10 @@ if key_df.isnull().values.any():
 else:
     print("No missing values on the key dataset")
 
-print("Checking the names and replacing if they are missing")
-# Check key_df for null values before applying the fix. Make sure the key data is good and trustworthy.
-garbled_df['first_name'] = merged_df.apply(
-    lambda row: row['first_name_key'] if pd.notna(row['first_name_key']) and row['first_name'] != row['first_name_key'] else row['first_name'],
-    axis = 1
-
-)
-
-garbled_df['last_name'] = merged_df.apply(
-    lambda row: row['last_name_key'] if pd.notna(row['last_name_key']) and row['last_name'] != row['last_name_key'] else row['last_name'],
-    axis = 1
-)
-
-garbled_df['age'] = merged_df.apply(
-    lambda row: row['age_key'] if pd.notna(['age_key']) and row['age'] != row['age_key'] else row['age'],
-    axis = 1
-)
-
-garbled_df['major'] = merged_df.apply(
-    lambda row: row['major_key'] if pd.notna(['major_key']) and row['major'] != row['major_key'] else row['major'],
-    axis = 1
-)
-
+garbled_df['first_name'] = update_column(garbled_df, merged_df, 'first_name')
+garbled_df['last_name'] = update_column(garbled_df, merged_df, 'last_name')
+garbled_df['age'] = update_column(garbled_df, merged_df, 'age')
+garbled_df['major'] = update_column(garbled_df, merged_df, 'major')
 # Drop unwanted columns
 garbled_df.drop(columns = columns_to_drop, inplace = True)
 
