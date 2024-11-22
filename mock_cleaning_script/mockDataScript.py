@@ -21,12 +21,14 @@ def update_column(data, key_data, column_name):
 
 
 #Define columns that need to be dropped
-columns_to_drop = ['duplicate_id', 'misc_notes', 'temporary_code', 'student_notes', 'is_graduated', 'name_combined', 'archived']
+columns_to_keep = ['student_id', 'first_name', 'last_name', 'age', 'major', 'GPA', 'enrollment_date', 'graduation_date', 'advisor']
+
+garbled_df = garbled_df[columns_to_keep]
 
 print("Merge the key values onto the mock sheet")
 merged_df = pd.merge(
     garbled_df,
-    key_df[['student_id', 'first_name', 'last_name', 'age', 'major']],
+    key_df[columns_to_keep],
     on = 'student_id',
     how = 'left',
     suffixes = ('', '_key')
@@ -41,12 +43,15 @@ if key_df.isnull().values.any():
 else:
     print("No missing values on the key dataset")
 
-garbled_df['first_name'] = update_column(garbled_df, merged_df, 'first_name')
-garbled_df['last_name'] = update_column(garbled_df, merged_df, 'last_name')
-garbled_df['age'] = update_column(garbled_df, merged_df, 'age')
-garbled_df['major'] = update_column(garbled_df, merged_df, 'major')
-# Drop unwanted columns
-garbled_df.drop(columns = columns_to_drop, inplace = True)
+for column in columns_to_keep:
+    if column != 'student_id':
+        garbled_df[column] = update_column(garbled_df, merged_df, column)
+    elif column == 'enrollment_date' or column == 'graduation_date':
+        garbled_df[column] = update_column(garbled_df, merged_df, column).dt.strftime('%Y-%m-%d')
+
+garbled_df = garbled_df.sort_values(by = 'student_id', ascending = True)
+garbled_df = garbled_df.drop_duplicates(subset = 'student_id', keep = 'first')
+
 
 cleaned_file_path = "cleaned_mock_data.csv"
 garbled_df.to_csv(cleaned_file_path, index=False)
