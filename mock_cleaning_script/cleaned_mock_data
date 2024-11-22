@@ -1,0 +1,1101 @@
+student_id,first_name,last_name,age,major,GPA,enrollment_date,graduation_date,advisor,study_mode,stuDent_loCAtion,duplicate_id,misc_notes,temporary_code
+1,Jaquelyn,Craze,twenty-five,Computer Science,2.53,10/18/2021,04/08/2023,Jaquelyn Craze,Online,off campus,1,Check GPA,
+2,Sergei,Gowers,twenty-five,,0.65,10/09/2019,01/26/2024,Sergei Gowers,Full-time, On-Campus ,2_,Advisor not assigned,
+3,Cloris,Jouanny,19,CompSci,0.57,08/01/2020,09/12/2023,Cloris Jouanny,Full-time,on-campus,3-dup,Check GPA,ABC999
+4,Madlin,Bassindale,20,history,1.03,2021-08-09,09/30/2025, Madlin Bassindale ,Full-time, On-Campus ,4-repeat,Needs follow-up,
+5,Lexie,Axelby,23,Computer Science,1.53error,2020-12-18,2023-09-13,Lexie Axelby,Full-time,OFFCAMPUS,5 extra,Check GPA,
+6,Gallard,McGinlay,23,,3.9,2021-10-11,09/27/2024, Gallard McGinlay ,Full-time,on-campus,6-dup,Advisor not assigned,XYZ6
+7,Liliane,Slatter,25,History,1.69,2019-07-01,2025-04-11,Liliane Slatter,Full-time,OFFCAMPUS,7-repeat,Check GPA,ABC999
+8,Randell,Sweetman,22,Computer Science,1.97,03/20/2021,2024-01-19,Randell Sweetman,Part-time,off campus,8_,Needs follow-up,
+9,Rochell,Padson,21,histqry,3.89,06/22/2020,12/18/2023, Rochell Padson ,Hybrid,on-campus,9_,,ABC999
+10,Natal,Patesel,25,,3.61,invalid-date,2023-10-24,Natal Patesel,Full-time,on-campus,10-dup,,XYZ10
+11,Quentin,Bouldstridge,unknown,BIOLOGY,3.12,11/15/2019,04/19/2024,Quentin Bouldstridge,Full-time,on-campus,11 extra,Advisor not assigned,
+12,Ellery,Braikenridge,unknown,biolmgy,3.7,2019-07-15,07/17/2023,Ellery Braikenridge,Full-time,on-campus,12,Advisor not assigned,
+13,Janel,Gosneye,20,History,1.5,2019-09-21,2025-04-26, Janel Gosneye ,Part-time,oncampus ,13-dup,,
+14,Letty,O'Mullaney,twenty-five,BIOLOGY,2.65,10/16/2023,01/30/2019,Letty O'Mullaney,Online,on-campus,14,OK,
+15,Sybila,McCambridge,14,History,0.51,07/19/2020,2024-02-08,Sybila McCambridge,Hybrid,on-campus,15-repeat,,
+16,Gasper,Strelitzer,20,COMPUTER SCIENCE,2.41,2019-02-19,2023-06-05,Gasptr Strelitzer,Part-time,oncampus ,16 extra,,ABC999
+17,Rica,O'Cannon,19,COMPUTER SCIENCE,2.91,05/25/2019,2025-02-09,Rica O'Cannon,Hybrid,on-campus,17,Check GPA,ABC999
+18,Victor,Dennerley,25,Biologb,1.85,2019-02-11,12/05/2025,Victor Dennerley,Part-time,off campus,18,Check GPA,
+19,Minda,Greveson,21,History,15.0,2019-05-28,09/15/2025, Minda Greveson ,Hybrid,OFFCAMPUS,19,,XYZ19
+20,Estella,Beeston,25,Computer Scicnce,10.13,invalid-date,2023-04-04,Estella Beeston,Full-time,off campus,20-repeat,Advisor not assigned,ABC999
+21,Libbie,Avery,26,Biology,0.76,06/26/2020,2025-08-03,Libbie Avery,Part-time,on-campus,21_,Needs follow-up,ABC999
+22,Janetta,Crossfield,21,Computer Science,1.97,08/13/2020,10/10/2025, Janetta Crossfield ,Online,on-campus,22 extra,Needs follow-up,
+23,Ardene,Rowland,15,Biology,3.46,01/05/2020,03/03/2023,Ardene Rowland,Hybrid, On-Campus ,23-repeat,,
+24,Rocky,Mynard,19,,2.85,07/15/2019,02/23/2023,Rocky Mynard,Full-time,OFFCAMPUS,24_,Needs follow-up,
+25,Kenn,Roblett,19,Computer Science,10.35,2019-02-04,2023-09-18,Kenn Roblett,Full-time,on-campus,25 extra,,
+26,Carina,Hawker,20,History,1.15,2019-09-30,2024-12-03, Carina Hawker ,Full-time,on-campus,26-dup,,ABC999
+27,Hilda,Couves,21,Biology,3.7error,03/19/2019,06/25/2024,Hilda Couves,Part-time,OFFCAMPUS,27,,XYZ27
+28,Gregorius,Wiggett,20,Computer Science,2.97,09/25/2020,2025-06-22,Gregorius Wiggett,Full-time,on-campus,28 extra,,
+29,Delia,Snare,19,History,12.08,04/15/2021,2023-01-08, Deqia Snare ,Full-time,,29-dup,,
+30,Scarface,Scones,25,,2.5,03/19/2021,10/31/2025,Scarface Scones,Hybrid,off campus,30-repeat,Needs follow-up,
+31,Tann,Shreenan,23,History,-3.0,2019-02-15,2024-06-10,Tann Shreenan,Full-time,off campus,31_,Advisor not assigned,
+32,Odell,McIlmorow,22,Biology,2.45,2020-12-27,01/14/2023, Odell McIlmorow ,Part-time,OFFCAMPUS,32 extra,Advisor not assigned,
+33,Callie,McFee,18,CompSci,0.26,09/08/2019,,Callie McFee,Part-time,oncampus ,33,Needs follow-up,ABC999
+34,Midge,Osler,18,Computer Science,11.879999999999999,2020-11-24,2025-10-04,Midge Osler,Part-time,off campus,34,Good,XYZ34
+35,Frayda,Klasing,18,Biology,15.0,2020-03-10,2025-11-19,Frayda Klasing,Online,OFFCAMPUS,35-dup,OK,
+36,Blancha,Mugford,24,Biology,1.8,12/26/2019,09/20/2024, Blancha Mugford ,Hybrid, On-Campus ,36-dup,Needs follow-up,
+37,Caresse,Barca,24,COMPUTER SCIENCE,3.88,2019-10-25,2025-05-12,Caresse Barca,Full-time,off campus,37-dup,,XYZ37
+38,Kerrie,Van der Kruijs,19,,1.76,06/29/2019,03/29/2025,,Online,OFFCAMPUS,38_,,XYZ38
+39,Carmella,Tarply,twenty-five,History,1.76,2021-09-11,2023-05-31,Carmella Tarply,Part-time, On-Campus ,39-repeat,OK,
+40,Hayward,Lukianovich,21,Computer Science,3.57,2021-11-07,06/29/2023,Hayward Lukianovich,Full-time,oncampus ,40 extra,Needs follow-up,XYZ40
+41,Wilton,Lorden,29,History,3.53,04/26/2020,2023-06-26,Wilton Lorden,Full-time,off campus,41_,Check GPA,
+42,Tallie,Bendel,14,Computer Science,3.82,2020-07-07,05/12/2023,Tallie Bendel,Hybrid, On-Campus ,42,Good,ABC999
+43,Maxi,Santen,20,history,1.36,,2025-06-05, Maxi Savten ,Part-time,on-campus,43,Advisor not assigned,
+44,Kelsey,Bevington,25,Biology,1.98,2019-12-09,09/17/2025,Kelsey Bevington,Full-time, On-Campus ,44_,Good,
+45,Shelly,Brigge,18,Computer Science,1.43,2019-04-08,2023-02-07, Shelly Brigge ,Part-time,off campus,45,Advisor not assigned,XYZ45
+46,Beale,Orteu,25,Biology,1.45,01/31/2019,11/13/2024, Beale Orteu ,Part-time,off campus,46-dup,,XYZ46
+47,Wittie,Margach,13,CompSci,3.74,2020-10-22,2025-04-25,Wittie Margach,Part-time,on-campus,47_,Needs follow-up,
+48,Orelle,Bosward,23,History,3.7error,03/03/2020,10/10/2023,Orelle Bosward,Hybrid, On-Campus ,48-dup,Check GPA,
+49,Vassili,Loxton,22,History,3.47,2020-06-25,12/29/2023, Vassili Loxton ,Full-time,oncampus ,49 extra,Advisor not assigned,
+50,Barney,Woodrow,20,,11.78,2020-11-18,09/27/2024, Barney Woodrow ,Part-time,,50-repeat,OK,
+51,Caressa,Veldens,18,Computer Science,1.0,2019-10-15,2025-10-17,Caressa Veldens,Online,oncampus ,51_,,XYZ51
+52,Isidoro,Vasnev,22,History,-3.0,invalid-date,03/10/2023,Isidoro Vasnev,Full-time,on-campus,52 extra,Needs follow-up,XYZ52
+53,Kaia,Bestall,25,Computer Science,0.54,04/30/2021,03/07/2025,Kaia Bestall,Part-time, On-Campus ,53 extra,,
+54,Natty,Tiltman,21,Historh,0.37,2020-05-20,2023-06-10,Natty Tiltman,Full-time,on-campus,54_,OK,
+55,Lishe,Conor,25,Biology,0.69,08/29/2021,2023-06-28,Lishe Comor,Full-time,OFFCAMPUS,55,Needs follow-up,XYZ55
+56,Livy,Sidgwick,18,HISTORY,0.42,11/17/2019,2023-02-22, Livy Sidgwick ,Full-time,oncampus ,56,Advisor not assigned,
+57,Deane,Tobias,22,History,2.72,2020-12-02,2024-12-12,Deane Tobias,Hybrid,off campus,57 extra,,ABC999
+58,Laurie,Tonn,20,Computer Science,-0.12,01/27/2019,2025-05-20, Laurie Tonn ,Online,off campus,58-repeat,Check GPA,ABC999
+59,Rudolph,Rosenblath,24,History,0.53,2019-04-15,08/10/2025,Rudolph Rosenblath,Online,oncampus ,59-repeat,Needs follow-up,
+60,Gallagher,Barszczewski,21,Biology,11.85,2019-06-20,11/25/2024,Gallagher Barszczewski,Full-time, On-Campus ,60-repeat,Needs follow-up,
+61,Kiele,O'Shevlan,22,COMPUTER SCIENCE,3.31,2019-10-20,, Kiele O'Shevlfn ,Full-time,off campus,61-repeat,Check GPA,ABC999
+62,Stormie,Lob,23,HISTORY,1.71,2019-01-22,2023-07-12,Stormie Lob,Online,on-campus,62-dup,,
+63,Stormy,Le feaver,19,Biology,3.37,2020-09-08,01/28/2025,Stormy Le feaver,Online,OFFCAMPUS,63_,Needs follow-up,
+64,Gloriane,Eaglen,twenty-five,Biology,0.33,2020-04-12,2023-12-18,Gloriane Eaglen,Online,off campus,64-repeat,Needs follow-up,
+65,Jeno,Rathbone,22,Computer Science,2.05,07/19/2019,02/07/2024,,Part-time,off campus,65,,ABC999
+66,Seymour,O' Dornan,24,History,1.31,10/13/2021,2023-03-21, Seymour O' Dornan ,Full-time,off campus,66-dup,Check GPA,
+67,Nichols,McGrudder,25,HISTORY,2.4,11/30/2021,01/23/2023,Nichols McGrudder,Part-time,on-campus,67 extra,,
+68,Hallie,Winsome,18,Computer Science,1.75,2019-11-19,2023-10-11,Hallie Winsome,Full-time,off campus,68-dup,Needs follow-up,
+69,Oralie,Winterbottom,25,Computer Science,1.11,2020-02-01,2025-01-04, Oralie Winterbottom ,Hybrid,,69-repeat,Check GPA,
+70,Lisette,Strothers,21,HISTORY,-0.08,10/12/2021,08/22/2023,,Full-time,on-campus,70 extra,,
+71,Sile,Carman,23,,2.59,2021-08-18,2024-02-17,Sile Carman,Full-time,on-campus,71_,Good,
+72,Artus,Pietron,19,Biology,1.96,2025-07-11,2019-12-11, Artus Pietron ,Part-time,oncampus ,72 extra,OK,XYZ72
+73,Huey,St. John,-5,History,10.37,02/23/2019,2023-05-04,Huey St. John,Online,on-campus,73-repeat,Check GPA,
+74,Benn,Bottomore,21,Biology,-3.0,2021-09-26,2025-11-09,Benn Bottomore,Full-time,on-campus,74_,Check GPA,
+75,Margalo,McDowell,102,Biology,2.09,2021-03-16,07/05/2023,Margalo McDowell,Part-time,OFFCAMPUS,75-repeat,OK,
+76,Reba,Pauluzzi,-5,History,3.71,09/28/2019,2025-01-26,Reba Pauluzzi,Part-time,on-campus,76 extra,,
+77,Germaine,Lamplugh,20,,good,2020-05-25,03/10/2024, Germaine Lamplugh ,Part-time,off campus,77-repeat,Check GPA,
+78,Gladi,Clampe,unknown,CompSci,2.47,2019-06-23,,Gladi Clampe,Online, On-Campus ,78-repeat,,
+79,Carly,Jablonski,19,BIOLOGY,2.05,2019-11-29,2023-12-26,Carly Jablonski,Part-time,on-campus,79 extra,,
+80,Abbott,Woolley,22,Computer Science,15.0,2020-03-06,2023-06-16,Abbott Woolley,Full-time,oncampus ,80-dup,,
+81,Stacey,Hambers,21,Biology,3.43,2021-11-25,06/20/2023,Stacey Hambers,Part-time,oncampus ,81-repeat,Advisor not assigned,
+82,Sherlock,Darter,19,History,2.55,03/16/2019,03/15/2023,Sherlock Darter,Online,on-campus,82_,,
+83,Agnella,Moroney,19,CompSci,2.59,2020-09-02,04/04/2023, Agnella Moroney ,Hybrid,off campus,83,,
+84,Cello,Emps,unknown,Computer Science,0.37,2020-02-27,12/09/2025,Cello Emps,Part-time,,84-repeat,,XYZ84
+85,Fabian,Colcomb,29,Computer Science,0.36,04/14/2021,02/16/2023,qabian Colcomb,Online, On-Campus ,85 extra,Advisor not assigned,
+86,Roosevelt,Lambourne,twenty-five,History,2.98,08/18/2021,08/03/2023, Roosevelt Lambourne ,Full-time,oncampus ,86 extra,Check GPA,ABC999
+87,Zondra,McVicar,25,History,0.81,2020-08-25,2025-02-22,Zondra McVicar,Full-time, On-Campus ,87-repeat,,
+88,Pauletta,Pond,20,,0.03,2020-09-18,07/27/2023,Pauletta Pond,Online, On-Campus ,88 extra,OK,ABC999
+89,Vere,Woosnam,-5,Computer Spience,2.8,03/19/2019,2025-02-05, Vere Woosnam ,Full-time, On-Campus ,89_,Advisor not assigned,
+90,Katie,Jonk,24,HISTORY,15.0,01/01/2021,2023-12-21,Katie Jonk,Online,on-campus,90,Check GPA,
+91,Delainey,Bemand,18,Hisgory,1.63,2019-06-27,05/23/2023, Delainey Bemand ,Full-time, On-Campus ,91_,,ABC999
+92,Jeremias,Tarbatt,18,CompSci,2.69,06/29/2021,08/28/2023,Jeremias Tarbatt,Full-time,on-campus,92-dup,,
+93,Sharla,Kleeborn,22,Biology,3.19,,2025-05-17, SharlacKleeborn ,Full-time,off campus,93,,
+94,Emmalyn,Dyte,24,Computer Science,15.0,2019-06-19,2025-12-02, Emmalyn Dyte ,Full-time,on-campus,94,Check GPA,
+95,Reidar,Beggi,23,BIOLOGY,1.17,10/23/2021,08/16/2023, Reidar Beggi ,Online, On-Campus ,95_,Good,
+96,Stormi,Fitton,22,Computer Science,3.71,07/21/2020,2024-04-17,Stormi Fitton,Part-time,oncampus ,96-repeat,,ABC999
+97,Hatti,Pasley,20,Biology,0.8,2021-09-13,2025-07-19,Hatti Pasley,Part-time,off campus,97 extra,OK,
+98,Tara,Fitzsymonds,21,Biology,-3.0,05/20/2019,11/20/2024,Tara Fitzsymonds,Full-time, On-Campus ,98 extra,,ABC999
+99,Atlante,Billion,22,History,1.57,01/06/2021,2025-12-02,,Full-time,oncampus ,99 extra,Needs follow-up,XYZ99
+100,Babbie,Murley,unknown,CompSci,12.77,2019-10-04,03/07/2025,,Online, On-Campus ,100_,Check GPA,ABC999
+101,Charley,Danher,20,History,0.29,2020-10-02,2024-11-05,Charley Danher,Part-time,oncampus ,101,,
+102,Ole,Pridie,twenty-five,History,2.38,2019-01-08,03/18/2025,Ole Pridie,Hybrid,on-campus,102_,Advisor not assigned,XYZ102
+103,Hilliard,Branchett,18,History,0.69,invalid-date,2023-06-08,Hilliard Branchmtt,Full-time,off campus,103_,Check GPA,XYZ103
+104,Kylie,Dumphy,25,History,10.13,01/26/2019,01/27/2023,Kylie Dumphy,Full-time,OFFCAMPUS,104 extra,,
+105,Claudie,Safont,20,History,1.67,02/25/2021,07/29/2025,Claudie Safont,Part-time,OFFCAMPUS,105_,Needs follow-up,
+106,Lian,Mechic,23,Biology,2.56,05/28/2021,2023-08-02,Lian Mechic,Full-time,oncampus ,106_,Advisor not assigned,ABC999
+107,Dacey,Leitche,22,History,0.15,07/28/2020,10/09/2023, Dacey Leitche ,Full-time, On-Campus ,107-repeat,Check GPA,
+108,Corey,de Almeida,19,,good,2019-05-07,2023-05-31, Corey de Almeida ,Part-time,OFFCAMPUS,108-dup,,
+109,Terry,Whitefoot,25,Biology,0.45,11/29/2019,02/22/2025,Terry Whitefoot,Part-time, On-Campus ,109_,,
+110,Gradey,Cheale,19,Biology,3.92,01/08/2021,2025-11-24,Gradey Cheale,Online, On-Campus ,110-repeat,Advisor not assigned,
+111,Guinevere,Van der Spohr,-5,Computer Science,2.86,2020-07-27,10/16/2025,Guinevere Van der Spohr,Part-time,oncampus ,111 extra,Needs follow-up,
+112,Garrek,Sans,27,Biology,2.26,06/30/2020,2025-02-20,Garrek Sans,Part-time,oncampus ,112 extra,Check GPA,
+113,Tracie,Fishlock,25,History,2.02,2021-01-03,03/07/2024,Tracie Fishlock,Full-time, On-Campus ,113 extra,Needs follow-up,XYZ113
+114,Giles,Forsaith,25,Computer Science,2.63,12/10/2019,05/17/2024, Giles Foraaith ,Full-time,off campus,114-repeat,Check GPA,
+115,Cecelia,Pickthall,20,Computer Science,1.14,04/13/2021,2024-06-30,Cecelia Pickthall,Full-time,off campus,115-repeat,Advisor not assigned,XYZ115
+116,Natassia,Bergeon,19,Computer Science,3.17,03/19/2019,05/26/2024, Natassia Bergeon ,Part-time, On-Campus ,116,OK,
+117,Doti,McCuthais,18,History,0.88,2021-04-30,10/03/2024,Doki McCuthais,Part-time,off campus,117-dup,,XYZ117
+118,Ezri,Carrier,21,Computer Science,0.73,12/23/2021,06/15/2025,Ezri Carrier,Full-time,on-campus,118-dup,OK,
+119,Caryl,Dyte,23,Computer Science,2.31,08/02/2019,06/08/2023,Caryl Dyte,Full-time,on-campus,119 extra,Good,
+120,Cherlyn,Bertrand,18,Computer Science,2.71,12/13/2021,2023-03-10,Cherlyn Bertrand,Part-time, On-Campus ,120_,Check GPA,XYZ120
+121,Gino,Bickerdike,22,Computer Science,2.91,2020-05-17,01/16/2023,Gino Bickerdike,Part-time,OFFCAMPUS,121_,Advisor not assigned,ABC999
+122,Dal,Shutler,21,,1.54,2021-04-25,05/05/2023, Dal Shutler ,Full-time,oncampus ,122-dup,OK,XYZ122
+123,Davis,Ebbutt,26,,0.1,invalid-date,09/03/2023,Davis Ebbutt,Full-time,off campus,123-repeat,,
+124,Jorge,Girardez,102,Computer Science,3.31,2020-07-31,03/15/2025,Jorge Girardez,Full-time,on-campus,124-dup,Needs follow-up,
+125,Joshuah,Surcombe,19,Computer Science,15.0,08/08/2023,2019-08-09,Joshuah Surcombe,Full-time, On-Campus ,125_,Needs follow-up,
+126,Marijn,Gulk,25,CompSci,1.0,11/12/2023,10/02/2021,Marijn Gulk,Part-time,on-campus,126_,,
+127,Darby,Kilfedder,102,Biology,2.75,09/10/2020,04/29/2023,Darby Kilfedder,Full-time,off campus,127 extra,Good,ABC999
+128,Joshua,Pidler,22,Hiutory,1.45,2020-03-12,2025-06-16, Joshua Pidler ,Full-time,on-campus,128_,,
+129,Sherye,Magauran,twenty-five,,0.13,02/05/2021,10/23/2025, Sherye Magauran ,Full-time,,129 extra,,
+130,Dalenna,Kiellor,25,Biology,0.29,11/07/2021,08/20/2023,Dalenna Kiellor,Full-time,off campus,130,,ABC999
+131,Lynnelle,Yuill,twenty-five,Computer Science,2.48,2019-05-11,11/19/2025,Lynnelle Yuill,Full-time,off campus,131-dup,Needs follow-up,
+132,Shirlene,Markie,21,Computer Science,15.0,07/30/2020,,khirlene Markie,Full-time,off campus,132_,,ABC999
+133,Gipsy,Grestye,20,Hibtory,0.8,06/06/2020,10/13/2025,Gipsy Grestye,Part-time,off campus,133 extra,Needs follow-up,ABC999
+134,Brander,Godard,18,History,3.27,04/25/2020,08/15/2025,Brander Godard,Full-time,off campus,134-repeat,Advisor not assigned,
+135,Keri,Pernell,102,,15.0,11/27/2021,05/22/2025,Keri Pernell,Part-time,oncampus ,135 extra,Advisor not assigned,
+136,Cathleen,Dreakin,22,History,0.27,,2023-05-17,Cathleen Dreakin,Hybrid,,136_,Advisor not assigned,
+137,Raul,Fussey,25,History,3.9,2019-06-27,2023-10-28, Rxul Fussey ,Full-time, On-Campus ,137 extra,,
+138,Lita,Costellow,18,Historq,1.03,2019-03-31,09/20/2023,Lita Costellow,Full-time, On-Campus ,138,,
+139,Marjie,Correa,24,Biology,0.61,2019-03-12,2025-01-30,Marjie Correa,Hybrid,on-campus,139-repeat,,XYZ139
+140,Bernie,Ancketill,18,History,1.18,11/30/2020,08/04/2024, Bernie Ancketill ,Hybrid,off campus,140_,Check GPA,ABC999
+141,Magdalene,Foreman,18,Computer Science,good,2021-05-16,2024-10-25,Magdalene Foreman,Full-time,off campus,141-repeat,Advisor not assigned,
+142,Minetta,Wynter,18,computer science,2.42,2019-06-29,2023-06-02,Minetta Wynter,Hybrid,on-campus,142-repeat,Check GPA,XYZ142
+143,Claudie,Geare,20,,3.47,2019-12-19,09/02/2024,Claudie Geare,Part-time,off campus,143-dup,Good,
+144,Matthiew,Gartsyde,18,Computer Science,3.39,2021-01-23,2023-07-17,Matthiew Gartsyde,Full-time,on-campus,144-repeat,,
+145,Griswold,Popping,21,History,good,04/28/2021,2023-05-04, Griswold Popping ,Hybrid,OFFCAMPUS,145,Check GPA,
+146,Thomas,Turnor,21,Computer Science,3.85,2025-08-19,,Thomas Turnor,Full-time,off campus,146-dup,Check GPA,
+147,Cosetta,Dyet,19,Biology,3.85,2021-11-06,2025-03-22, Cosetta Dyet ,Full-time,on-campus,147 extra,Check GPA,
+148,Geralda,Doniso,19,History,4.09,2021-02-09,2023-02-12,Geralda Doniso,Full-time,on-campus,148_,OK,
+149,Else,Silvers,19,COMPUTER SCIENCE,15.0,07/25/2025,2021-09-05, Else pilvers ,Full-time,,149 extra,Advisor not assigned,ABC999
+150,Van,Preddle,20,CompSci,-3.0,03/03/2020,2023-11-02,Van Preddle,Part-time, On-Campus ,150_,Advisor not assigned,
+151,Osbourne,Towson,22,BIOLOGY,1.34,12/30/2021,2023-04-20,Osbourne Towson,Full-time,off campus,151 extra,,
+152,Ethel,Lambertazzi,18,Computer Science,11.73,12/08/2025,07/12/2019,Ethel Lambertazzi,Online, On-Campus ,152,Needs follow-up,
+153,Milly,Gimbart,22,Biology,3.57,09/12/2021,12/17/2023,Milly Gimbart,Full-time,off campus,153,Check GPA,
+154,Leslie,Korb,23,Baology,0.76,2019-06-01,01/26/2023, Leslie Korb ,Full-time,off campus,154-repeat,Check GPA,XYZ154
+155,Shae,Triswell,28,Biology,0.2,2024-07-23,03/16/2020,Shae Triswell,Full-time,on-campus,155,Needs follow-up,
+156,Klarrisa,Dumbare,22,history,0.21,2020-04-25,2025-03-25, Klarrisa Dumbare ,Online,on-campus,156,Advisor not assigned,XYZ156
+157,Noak,Brecknell,22,Computer Science,1.06,invalid-date,05/28/2021,Noak Brecknell,Full-time,off campus,157,,
+158,Ellsworth,Nice,102,HISTORY,0.32,2019-10-05,2023-11-12, Ellsworth Nice ,Full-time,on-campus,158-dup,Needs follow-up,ABC999
+159,Corissa,Flannery,23,Biology,0.4,07/16/2019,11/24/2025, Corissa Flannery ,Full-time,off campus,159-repeat,Advisor not assigned,ABC999
+160,Bourke,Iannetti,20,Computer Science,2.79,10/19/2019,2025-12-22, Bourke Iannetti ,Part-time,on-campus,160,,
+161,Sidney,McKeag,22,,3.58,2019-12-13,2023-04-29, Sidney McKeag ,Part-time,off campus,161,Advisor not assigned,
+162,Elfrida,Hebburn,24,Biology,0.62,2020-10-02,10/06/2025,Elfrida Hebburn,Online,on-campus,162-dup,,
+163,Rodi,Nevill,18,Computer Science,0.91,2019-10-23,2023-07-01,Rodi Nevill,Hybrid,off campus,163-dup,Needs follow-up,
+164,Tan,Dugood,18,Computer Science,10.69,09/07/2021,2023-03-14,Tan Dugood,Part-time,on-campus,164-repeat,Advisor not assigned,
+165,Dar,Renouf,20,Biology,3.18,02/07/2019,12/01/2024,Dar Renouf,Full-time,off campus,165 extra,,XYZ165
+166,Kimberli,McVity,20,Biology,11.65,2019-08-07,06/27/2025,Kimberli McVity,Full-time,OFFCAMPUS,166,OK,
+167,Berne,Pimblott,23,COMPUTER SCIENCE,0.77,03/19/2021,04/02/2023,Berne Pimblott,Full-time,off campus,167 extra,Good,XYZ167
+168,Horten,Schlagtmans,19,Hiseory,0.18,09/08/2020,2024-05-15,Horten Schlagtmans,Full-time,off campus,168-dup,Check GPA,
+169,Edwin,Woolnough,19,History,3.37,2020-01-25,2023-04-09, Edwin Woolnough ,Online, On-Campus ,169,,
+170,Broddy,Cobb,-5,Biology,0.79error,2020-04-25,01/21/2023,Broddy Cobb,Full-time, On-Campus ,170-dup,Good,
+171,Ariel,Knoles,20,History,2.2,03/27/2021,2025-06-18, Ariel Knoles ,Part-time,oncampus ,171-repeat,Check GPA,
+172,Irv,Nisco,25,CompSci,0.0,2021-03-31,07/31/2025,Itv Nisco,Full-time,OFFCAMPUS,172-repeat,Check GPA,
+173,Donal,Elington,21,History,10.01,2021-05-20,2023-02-26, Donal Elington ,Online,on-campus,173-repeat,,XYZ173
+174,Joshuah,Jankin,22,CompSci,2.9,09/26/2019,2025-01-11, Joshuah Jankin ,Full-time, On-Campus ,174-repeat,OK,XYZ174
+175,Meghan,Ithell,25,Computer Science,3.73,2021-08-22,12/28/2024, Meghan Ithell ,Part-time,off campus,175-dup,Needs follow-up,
+176,Grayce,Kleinholz,18,,1.35,09/24/2019,2023-01-02,Grayce Kleinholz,Full-time,on-campus,176-repeat,Check GPA,ABC999
+177,Uriah,Braunes,18,niology,12.7,2023-01-21,2020-05-18,Uriah Braunes,Part-time,on-campus,177_,Advisor not assigned,XYZ177
+178,Margy,Peatheyjohns,20,,1.36,2021-05-14,invalid-date,Margy Peatheyjohns,Online,off campus,178,OK,
+179,Enrica,Larenson,18,Computer Science,2.01,04/24/2020,06/02/2023,Enrica Larenson,Part-time,OFFCAMPUS,179,Needs follow-up,
+180,Rhett,Tiernan,24,biology,2.62,09/10/2021,2025-05-26, Rhett Tiernan ,Online, On-Campus ,180-dup,Needs follow-up,
+181,Chlo,Ratcliffe,25,Computer Science,0.67,10/24/2020,2024-05-16, Chlo Ratcliffe ,Full-time,,181 extra,,
+182,Marybeth,Clementson,18,Biology,1.78,09/28/2021,invalid-date,,Full-time,on-campus,182-dup,,
+183,Anatollo,Tetley,22,Computer Science,2.05,2020-01-10,2025-10-04,Anatollo Tetley,Online,on-campus,183 extra,OK,ABC999
+184,Gerda,Fickling,22,Computer Science,10.33,10/17/2019,09/18/2025,Gerda Fickling,Online,off campus,184-repeat,Needs follow-up,
+185,Della,Astell,22,Biology,0.48,2020-02-05,2023-06-09,Della Astell,Full-time,,185 extra,Advisor not assigned,
+186,Cloris,Iacavone,23,CompSci,3.62,2020-04-21,2025-03-26, Cloris Iacavone ,Part-time,oncampus ,186-repeat,Check GPA,
+187,Carolyne,Delgaty,18,Biology,1.73,2021-01-20,01/30/2024, Carolyne Delgaty ,Full-time,on-campus,187 extra,OK,
+188,Beau,Battrick,17,Biology,1.02,2021-02-08,2025-11-18,Beau Battrick,Hybrid,on-campus,188,Advisor not assigned,ABC999
+189,Kathryne,Pontefract,23,Biology,2.68,05/26/2019,09/10/2024,,Online,on-campus,189-repeat,Needs follow-up,
+190,Hale,Rubenczyk,18,Biology,1.85,,2024-02-24,Hale Rubenczyk,Full-time,OFFCAMPUS,190 extra,Check GPA,ABC999
+191,Leonie,Bitchener,24,Biology,15.0,06/01/2021,2023-04-11,Leonie Bitchener,Part-time,off campus,191-dup,,ABC999
+192,Katharina,McAlroy,18,Computer Science,1.03,2021-06-24,2023-08-24,Katharina McAlroy,Full-time,on-campus,192 extra,,
+193,Kirstyn,Swainger,25,History,2.46,07/16/2021,2024-09-09,Kisstyn Swainger,Full-time,on-campus,193 extra,Advisor not assigned,
+194,Cherry,Headey,21,Computer Science,0.28,2021-03-21,09/20/2023,Cherry Headey,Hybrid,on-campus,194-dup,,
+195,Haleigh,Click,13,,2.5,2020-05-12,2023-12-23, Haleigh Click ,Part-time,off campus,195_,Advisor not assigned,
+196,Krystle,Rooson,19,Biology,0.27,2019-09-21,2024-06-08,Krystlp Rooson,Full-time,on-campus,196,Check GPA,
+197,Correna,Biddulph,19,Computer Science,1.5,07/07/2020,invalid-date, Correna Biddulph ,Full-time, On-Campus ,197-dup,OK,ABC999
+198,Clevie,Houdhury,22,CompSci,0.55,2019-04-09,03/28/2023, Clevie Houdhury ,Full-time,on-campus,198-repeat,Needs follow-up,XYZ198
+199,Oralia,Wenderott,24,Computer Science,0.5,,11/05/2023,Oralia Wenderott,Full-time,oncampus ,199-dup,,
+200,Alanson,McClosh,18,,2.18,2020-09-19,08/03/2025,Alanson McClosh,Full-time,off campus,200-repeat,Advisor not assigned,XYZ200
+201,Guillema,Parrett,15,Biology,2.66,02/26/2021,,Guileema Parrett,Full-time,off campus,201 extra,Good,XYZ201
+202,Louie,Sumpter,20,,3.08,2020-03-25,11/29/2023,Louie Sumpter,Online,,202_,,
+203,Karney,Shrimptone,19,Biology,0.64,07/15/2021,2023-03-31,Karney Shrimptone,Hybrid, On-Campus ,203,Check GPA,
+204,Irwinn,Bowerman,25,Biology,15.0,2020-04-10,07/25/2025, yrwinn Bowerman ,Full-time,off campus,204-dup,Advisor not assigned,XYZ204
+205,Dario,Tansley,22,History,1.05,09/24/2020,2023-02-09,Dario Tansley,Full-time,oncampus ,205 extra,Needs follow-up,ABC999
+206,Melonie,Clawley,19,Biology,1.34error,01/17/2020,2025-09-09,Melonie Cuawley,Part-time,OFFCAMPUS,206 extra,,
+207,Dietrich,Lewknor,23,CompSci,2.84,2021-04-15,12/12/2025,Dietrich Lewknor,Part-time, On-Campus ,207-dup,Check GPA,
+208,Danica,Chopin,25,Biology,3.1,2020-01-27,2024-09-17,Danisa Chopin,Part-time,OFFCAMPUS,208-dup,Needs follow-up,
+209,Briggs,Gorrie,21,History,13.4,2020-01-21,08/30/2023,BriggsdGorrie,Full-time,on-campus,209_,,ABC999
+210,Ailbert,Cocks,21,CompSci,13.58,2021-09-20,06/29/2024,Ailbert Cocks,Full-time,on-campus,210,Check GPA,ABC999
+211,Taddeo,Skitt,21,Biology,0.55,07/20/2024,2019-06-27, Taddeo Skitt ,Hybrid,on-campus,211_,Advisor not assigned,
+212,Alidia,Clyde,24,Biology,0.57,2019-06-04,06/05/2023,Alidia Clyde,Online,off campus,212-dup,OK,XYZ212
+213,Joachim,Babington,23,History,1.44,06/20/2020,06/05/2023,Joachim Babington,Full-time, On-Campus ,213 extra,OK,ABC999
+214,Correy,Yakovitch,18,Computer Science,13.36,06/26/2019,04/10/2025, Correy Yakovitch ,Part-time,on-campus,214,Needs follow-up,
+215,Perrine,Pirt,20,CompSci,1.36,2021-07-22,02/24/2024,Perrine Pirt,Full-time, On-Campus ,215-dup,Check GPA,
+216,Pierre,Pischof,22,History,1.35,2021-12-03,04/19/2025,Pierre Pischof,Full-time,on-campus,216,,
+217,Balduin,Dasent,24,Computer Science,10.54,06/21/2021,2023-04-23,Balduin Dasent,Part-time, On-Campus ,217-repeat,Check GPA,XYZ217
+218,Eada,McGready,25,HISTORY,1.08,12/27/2020,09/18/2023,Eada McGready,Full-time,OFFCAMPUS,218-repeat,OK,XYZ218
+219,Arturo,McEnery,25,Biology,0.8,01/25/2020,08/19/2023,Arturo McEnery,Full-time,,219-dup,,
+220,Emerson,Najara,25,History,0.24,2020-02-15,,Emerson Najara,Part-time,OFFCAMPUS,220_,Advisor not assigned,ABC999
+221,Roberto,Splevings,22,History,-3.0,2020-07-04,01/26/2023,Roberto Splevings,Full-time,on-campus,221 extra,,
+222,Ardelis,Jacobovitz,25,Histork,2.19,2019-01-12,03/20/2025,Ardelis Jacobovitz,Online,on-campus,222-repeat,OK,
+223,Benson,Brando,23,Bivlogy,1.76,06/27/2019,2023-01-31,Benson Brando,Hybrid,off campus,223_,,
+224,Waverly,Piscopo,unknown,CompSci,2.75,01/23/2021,05/25/2024, Waverly Piscopo ,Full-time,oncampus ,224 extra,Needs follow-up,XYZ224
+225,Arabelle,Earsman,20,History,0.31,08/07/2020,09/07/2025,Arabelle Earsman,Full-time,,225 extra,Check GPA,
+226,Garrott,Trudgeon,22,CompSci,-3.0,2019-03-29,07/07/2023,carrott Trudgeon,Full-time,on-campus,226_,,
+227,Eddy,Hutable,19,Biology,2.36,2020-01-14,05/04/2025,Eddy Hutable,Hybrid,off campus,227-repeat,,
+228,Weider,Breffitt,21,Computer Science,15.0,2021-06-29,2025-02-18,Weider Breffitt,Full-time,on-campus,228-dup,Needs follow-up,
+229,Shandy,O'Regan,19,BIOLOGY,3.42error,07/15/2021,02/28/2025, Shandy O'Regan ,Full-time,off campus,229,OK,
+230,Tremain,Slayford,19,,2.67,08/19/2021,2023-06-07,Tremain Slayford,Part-time,off campus,230-dup,,
+231,Elinore,Blucher,25,Computer Science,3.58,04/07/2019,10/15/2023,Elinore Blucher,Full-time,oncampus ,231-dup,Check GPA,ABC999
+232,Waneta,Bangley,102,History,-0.38,2020-08-09,2025-11-01,Waneta Bangley,Full-time,on-campus,232,Check GPA,ABC999
+233,Appolonia,Cloake,20,Biology,0.98,11/07/2020,2024-07-08, Appolonia Cloake ,Full-time,off campus,233 extra,,XYZ233
+234,Ursulina,Stave,-5,,-3.0,12/17/2020,2024-12-27,Ursulina Stave,Online,off campus,234_,OK,XYZ234
+235,Mile,Glaister,23,Biology,0.09,,04/06/2024, Mile Glaister ,Part-time,off campus,235 extra,Needs follow-up,
+236,Shawn,Bertholin,21,History,1.11,2020-03-12,2024-02-08, Shawn Bertholin ,Full-time,off campus,236_,Needs follow-up,
+237,Gustav,Hegel,21,Biology,0.19,2020-08-07,2023-01-28, Gustav Hegel ,Full-time,oncampus ,237 extra,Check GPA,ABC999
+238,Valaree,Ramsbottom,-5,Biology,0.17,2025-08-31,09/29/2020,Valaree Ramsbottom,Part-time,off campus,238 extra,,XYZ238
+239,Gustavus,Fawdry,22,Biology,3.14,07/10/2020,08/15/2024, Gustavus Fawdry ,Full-time,off campus,239-repeat,Check GPA,
+240,Kiel,Halewood,20,,0.3,2019-06-09,06/15/2023, Kiel Halewood ,Part-time,,240 extra,,
+241,Doralynn,Kennicott,19,computer science,3.29,2019-12-25,2025-01-03, Doralynn Kennicott ,Part-time,off campus,241,,XYZ241
+242,Emilia,Hadkins,20,history,3.34,01/10/2019,01/30/2024, Emilia Hadkins ,Full-time,on-campus,242_,Check GPA,XYZ242
+243,Damaris,Dedenham,23,,1.07,02/05/2020,02/10/2024,Damaris Dedenham,Part-time,oncampus ,243_,,
+244,Kain,Gilfoy,19,History,12.82,10/13/2019,2024-01-07,Kain Gilfoy,Online,OFFCAMPUS,244-repeat,,ABC999
+245,Marchelle,Gillham,unknown,,3.76,2019-07-20,10/31/2024,Marchelte Gillham,Full-time,,245,,XYZ245
+246,Dorey,Peinton,-5,Biology,2.88,2021-08-16,10/26/2025,Dorey Peinton,Online,on-campus,246_,Advisor not assigned,
+247,Esther,Garlee,20,Computer Science,3.83,2019-02-14,03/17/2023,Esther Garlee,Online,off campus,247-dup,,
+248,Welby,Daice,18,,3.05,2020-01-12,10/03/2025,Welby Daice,Full-time, On-Campus ,248 extra,Advisor not assigned,XYZ248
+249,Mirna,Leroux,19,History,-3.0,invalid-date,02/24/2024,Mirna Leroux,Full-time,off campus,249-dup,,
+250,Erena,Rex,18,Computer Science,2.24,2021-12-28,,Erena Rex,Full-time, On-Campus ,250-repeat,Check GPA,XYZ250
+251,Torey,Island,24,Biology,0.81,2021-04-04,2024-06-30, Torey Island ,Part-time,on-campus,251_,Advisor not assigned,XYZ251
+252,Doro,Kollasch,24,,2.22,2019-04-06,2023-02-09, Doro Kollasch ,Online,off campus,252_,Good,ABC999
+253,Cecile,Tidbury,-5,History,2.46,05/04/2019,2024-11-20,Cecile Tidbury,Full-time, On-Campus ,253-dup,Needs follow-up,
+254,Giovanna,Maccari,23,Biology,-3.0,invalid-date,, Giovanna Maccari ,Full-time, On-Campus ,254,Check GPA,
+255,Margret,Hugonet,18,Biology,-0.03,02/08/2020,03/26/2025, Margret Hugonet ,Part-time,OFFCAMPUS,255_,Advisor not assigned,
+256,Aldric,Diss,20,Biology,0.26,2020-03-05,07/17/2025,Aldric Diss,Full-time,on-campus,256_,Advisor not assigned,
+257,Mellicent,Drewet,18,History,2.01,2019-09-06,05/29/2024, Mellicent Drewet ,Full-time,off campus,257-dup,Check GPA,
+258,Cleveland,Blaes,-5,XISTORY,3.09,2021-09-06,2025-12-09,Cleveland Blaes,Part-time,on-campus,258-repeat,Good,
+259,Cyndia,Hastler,21,History,1.79,03/15/2019,05/05/2024, Cyndia Hastler ,Full-time,on-campus,259-repeat,Needs follow-up,
+260,Miriam,Androsik,23,BIOLOGY,0.98,03/16/2020,11/21/2023, Miriam Androsik ,Full-time,off campus,260-dup,Advisor not assigned,ABC999
+261,Ambrose,Thoms,22,Biology,2.61,04/17/2020,08/04/2023,Ambrose Thoms,Full-time,OFFCAMPUS,261-dup,OK,
+262,Reggi,Collicott,21,History,2.44,2019-03-05,05/10/2023,Reggi Collicott,Full-time, On-Campus ,262 extra,Good,XYZ262
+263,Ivette,Wilkin,20,Computer Science,1.09,05/07/2021,2023-12-16,Ivette Wilkin,Full-time,on-campus,263-repeat,Good,
+264,Bernardine,Crommett,twenty-five,CompSci,0.83,08/13/2019,2024-11-20,Bernardine Crommett,Part-time, On-Campus ,264-dup,Needs follow-up,XYZ264
+265,Consolata,Shurville,20,history,3.62,11/20/2021,2025-01-31,,Full-time,off campus,265_,,
+266,Cicely,Walbrook,102,computer science,1.76,10/19/2021,11/09/2025,Cicely Wrlbrook,Full-time,on-campus,266_,Needs follow-up,XYZ266
+267,Hewitt,Fridaye,19,CompSci,1.16,09/20/2019,2024-12-22,,Part-time,off campus,267 extra,,ABC999
+268,Leonidas,Spada,25,History,1.28,08/29/2019,2023-07-11,Leonidas Spada,Part-time, On-Campus ,268-dup,Check GPA,
+269,Rhona,Wodeland,unknown,,1.15,2019-10-10,08/15/2025,Rhona Wodeland,Full-time,on-campus,269 extra,,
+270,Gilemette,Watsam,twenty-five,Biology,3.11,2021-06-25,04/25/2024,Gilemette Watsam,Part-time, On-Campus ,270_,Check GPA,
+271,Ervin,Gress,-5,Computer Science,1.38,07/23/2020,11/11/2024, Ervin Gress ,Full-time,off campus,271 extra,Advisor not assigned,ABC999
+272,Reinald,Semmens,18,Biology,15.0,07/22/2019,2023-02-05,Reinald Semmens,Online,oncampus ,272-dup,Good,
+273,Arnie,Quartermain,23,History,3.17,2020-09-27,2024-12-14,Arnie Quartermain,Full-time,on-campus,273-repeat,Advisor not assigned,ABC999
+274,Inge,Kynvin,18,,3.52,,2023-10-10,Inge Kynvin,Full-time,OFFCAMPUS,274-dup,OK,ABC999
+275,Luciano,Jahnisch,23,Computer Science,1.41,05/03/2021,11/14/2025, Luciano Jahnisah ,Full-time,on-campus,275 extra,OK,
+276,Julius,Monument,19,Computer Science,3.2,10/04/2019,05/28/2023, Julius Monument ,Full-time,on-campus,276-repeat,,
+277,Christa,Brownsea,19,Computer Science,3.26,05/05/2019,2023-01-01, Christa Brownsea ,Part-time,OFFCAMPUS,277-repeat,Advisor not assigned,ABC999
+278,Aubrette,Payton,unknown,history,2.25,2019-04-10,03/13/2025,Aubrette Payton,Full-time,on-campus,278 extra,Check GPA,XYZ278
+279,Michal,Gibbard,20,Biology,3.91,2019-10-16,12/09/2024,Midhal Gibbard,Full-time,on-campus,279,,ABC999
+280,Jone,Dimanche,20,Computer Science,1.12error,01/31/2019,2025-05-10,Jone Dimanche,Online,off campus,280_,Good,
+281,Agata,Mant,23,Histpry,3.61error,04/15/2021,09/10/2024,Agata Mant,Full-time,on-campus,281,,
+282,Germaine,Crudge,twenty-five,History,0.76,2019-04-01,2025-06-18,Germaine Crudge,Hybrid,off campus,282 extra,,
+283,Lianna,L'Hommee,-5,Hpstory,good,07/26/2020,10/31/2023,Lianna L'Hommee,Online,off campus,283-dup,Good,
+284,Jakob,Cordner,29,Biflogy,0.93,05/09/2019,03/11/2025,Jakob Cordner,Full-time,on-campus,284-dup,Needs follow-up,XYZ284
+285,Floris,Judkins,23,Biology,2.55,2019-11-10,06/29/2023,Floris Judkins,Part-time,off campus,285_,OK,
+286,Alick,Oldall,25,Biology,-3.0,2020-04-21,07/24/2023,Alick Oldall,Online,OFFCAMPUS,286 extra,,
+287,Lula,Mc Pake,13,History,0.24,2020-01-29,2025-03-10, Lula Mc Pake ,Part-time,on-campus,287 extra,,
+288,Abbi,Benns,18,,2.08,08/04/2021,03/27/2025, Abbi Benns ,Full-time, On-Campus ,288 extra,Advisor not assigned,
+289,Glen,Keese,25,Computer Science,0.83,01/17/2020,11/20/2025,Glen Keese,Full-time,on-campus,289_,Needs follow-up,
+290,Andria,Bartke,18,History,0.79,2021-09-08,04/15/2024,Andria Bartke,Online, On-Campus ,290-repeat,Advisor not assigned,
+291,Carlita,Filon,23,Biologi,-3.0,2019-01-05,2025-12-23, Carlita Filon ,Online, On-Campus ,291,Needs follow-up,
+292,Teodoro,Ricards,18,Biology,-3.0,11/10/2021,10/15/2025,Teodoro Ricards,Full-time,on-campus,292-dup,Advisor not assigned,
+293,Fonzie,Voysey,19,Computer Science,0.09,09/17/2020,2024-11-07,Fonzie Voysey,Full-time,,293-dup,,
+294,Cole,Bubb,17,Computer Science,3.5,03/25/2020,07/19/2025,Cole Bubb,Part-time,oncampus ,294_,Needs follow-up,ABC999
+295,Rob,Pendlenton,21,biology,1.91,,2025-06-26,Rob Pendlenton,Full-time, On-Campus ,295_,OK,
+296,Britney,Wilne,24,Historo,0.51,2019-02-27,01/27/2024,Britney Wilne,Full-time,on-campus,296,,
+297,Pascale,Harries,18,Computer Science,2.51,2024-05-28,2020-03-18,Pascale Harries,Full-time,on-campus,297-repeat,Check GPA,
+298,Jenine,Tilbrook,25,History,2.24,2021-02-01,2024-08-21, Jenine Tilbrokk ,Full-time,off campus,298-repeat,,
+299,Dominik,Lumsdon,23,CompSci,2.42,2021-05-28,2023-11-01, Dominik Lumsdon ,Part-time,on-campus,299,OK,
+300,Brittney,Yushankin,21,,13.39,07/29/2019,invalid-date,Brittney Yushankin,Online,OFFCAMPUS,300,Check GPA,XYZ300
+301,Bobine,Fassam,unknown,Computer Science,-3.0,12/20/2019,06/18/2025,Bobine Fassam,Hybrid, On-Campus ,301-dup,Needs follow-up,ABC999
+302,Temple,Diter,22,Biology,2.25,2020-11-20,2023-04-17,Temple Diter,Full-time,on-campus,302-repeat,Advisor not assigned,XYZ302
+303,Lanni,Sproule,twenty-five,,1.98,2019-07-28,2023-01-27, Lanni Sproule ,Hybrid,oncampus ,303-dup,,
+304,Lois,Sprionghall,19,Biology,11.69,05/14/2019,2023-09-13, LoisqSprionghall ,Part-time,on-campus,304-dup,,
+305,Trudey,Aynscombe,24,History,1.91,2021-03-01,2025-07-28,Trudey Aynscombe,Hybrid,off campus,305_,Check GPA,
+306,Emilio,Frere,25,History,good,2020-12-11,, Emilio Frere ,Part-time,on-campus,306_,Needs follow-up,
+307,Tabor,Mosconi,-5,CompSci,2.53,2021-03-18,01/23/2025, Tabor Mosconi ,Full-time,on-campus,307,,
+308,Land,Lethibridge,24,Biology,1.74,2019-10-25,10/21/2024, Land Lethibridge ,Full-time,off campus,308,,
+309,Myrilla,Sirrell,-5,biology,2.86,2021-06-29,2023-04-24,,Hybrid, On-Campus ,309 extra,OK,
+310,Cort,Bellee,21,Biology,1.77,12/06/2023,03/24/2021, Cort Bellee ,Full-time,off campus,310,,
+311,Vilma,Muneely,24,Biology,1.14,07/03/2019,06/19/2025, Vilma Muneely ,Full-time,on-campus,311_,Needs follow-up,
+312,Constance,Pedican,21,History,2.01,2019-01-04,2023-01-08,Constance Pedican,Full-time,oncampus ,312-dup,Advisor not assigned,
+313,Sibeal,Tomadoni,twenty-five,Biology,-3.0,12/20/2019,09/28/2024,Sibeal Tomadoni,Full-time,off campus,313 extra,Needs follow-up,
+314,Lucila,Morriss,23,COMPUTER SCIENCE,0.31,11/11/2019,2024-06-19,Lucila Morriss,Full-time,on-campus,314-dup,Check GPA,ABC999
+315,Erasmus,Utterson,18,Computer Science,3.62,2019-02-24,06/15/2025, Erasmus Utterson ,Full-time,on-campus,315 extra,,
+316,Maurine,Neat,21,CompSci,2.39,2019-03-16,01/23/2023,Maurine Neat,Part-time, On-Campus ,316_,,XYZ316
+317,Rayna,Rains,18,History,3.29,02/19/2019,2023-03-10,Rayna Rains,Online,,317-repeat,Check GPA,XYZ317
+318,Janella,Flewin,19,Computer Science,15.0,2020-01-13,01/24/2023,Janella Flewin,Full-time,on-campus,318-dup,Check GPA,XYZ318
+319,Cyndia,Bogges,19,Biology,2.04,2020-06-23,09/14/2023,Cyndia Bogges,Full-time,off campus,319_,Needs follow-up,
+320,Ashly,Sudy,20,Computer Science,3.83,2021-04-06,2023-11-11, Ashly Sudy ,Full-time,oncampus ,320_,Check GPA,
+321,Randee,Peidro,18,History,0.98,11/12/2025,06/13/2020, Randee Peidro ,Full-time,on-campus,321 extra,Check GPA,XYZ321
+322,Siffre,Woodson,25,BIOLOGY,3.52,11/04/2020,04/05/2024, Siffre Woodson ,Part-time,OFFCAMPUS,322,,
+323,Sheela,Ledwich,22,Computer Science,1.2,2021-05-11,08/05/2024,Sheela Ledwich,Part-time,on-campus,323 extra,Check GPA,
+324,Wain,Wetherill,19,,13.870000000000001,2020-02-29,2023-07-11,Wain Wetherill,Full-time,,324_,Advisor not assigned,
+325,Alvina,Lambdean,19,History,0.97,10/19/2021,03/06/2025,Alvina Lambdean,Full-time,off campus,325-dup,Good,XYZ325
+326,Christy,Heggadon,unknown,History,11.21,2021-11-27,2023-08-12,Christy Heggadon,Full-time,OFFCAMPUS,326 extra,Check GPA,
+327,Aldwin,Wines,25,Biology,2.87,2019-07-14,08/20/2024,Aldwin Wines,Online, On-Campus ,327_,Check GPA,
+328,Zorana,Skoggins,23,,3.11,06/26/2020,2023-05-28,,Full-time,on-campus,328_,Needs follow-up,
+329,Eadith,Ward,unknown,Biology,1.01,12/21/2021,05/09/2023, Eadith Ward ,Hybrid,on-campus,329-repeat,OK,
+330,Perle,Ezzy,18,CompSci,1.23,12/31/2020,2024-04-05, Perle Ezzy ,Full-time,on-campus,330-repeat,,
+331,Lorne,Hewlings,20,Computer Science,4.28,05/31/2019,2024-02-12,Lorne Hewlings,Full-time,oncampus ,331 extra,,
+332,Geordie,Mountstephen,29,Biology,1.76,2020-01-06,09/05/2025,Geordie Mountstephen,Full-time,on-campus,332,Check GPA,
+333,Belita,Perrot,25,History,2.91,11/22/2020,05/11/2023,Belita Perrot,Online,oncampus ,333 extra,Check GPA,
+334,Ellswerth,Chason,21,Biology,2.03,2019-11-19,2025-11-30,Ellswerth Chason,Hybrid,on-campus,334-dup,Good,XYZ334
+335,Bernardine,Jeandeau,25,biology,-3.0,11/06/2019,2025-04-29,Bernardine Jeandeau,Part-time, On-Campus ,335 extra,Needs follow-up,
+336,Corie,Holston,18,History,3.39,invalid-date,07/17/2023,Corie Holston,Full-time,on-campus,336-repeat,Needs follow-up,
+337,Pegeen,Petry,20,Histbry,10.45,2021-01-19,10/06/2025, Pegeen Petry ,Full-time, On-Campus ,337,Needs follow-up,
+338,Elbert,Charlwood,26,Biology,0.76,01/09/2020,2024-10-16, Elbert Charlwood ,Part-time,on-campus,338 extra,Advisor not assigned,
+339,Dimitry,Clemits,twenty-five,Biology,2.15,04/18/2021,09/05/2025, Dimitry Clemits ,Hybrid,off campus,339-dup,Advisor not assigned,
+340,Sterne,Yanuk,24,,2.33,12/11/2024,2020-01-30,Sterne Yanuk,Part-time,off campus,340-repeat,Check GPA,ABC999
+341,Ranee,Arnout,19,Computer Science,3.15,2020-09-12,2024-12-26, Ranee Arnout ,Part-time,off campus,341-dup,Check GPA,
+342,Gard,Guild,24,Computer Science,2.9,2019-01-17,10/27/2023,Gird Guild,Part-time,off campus,342,Needs follow-up,
+343,Amandie,Cornelissen,24,History,2.09,invalid-date,2024-08-01,Amagdie Cornelissen,Full-time,off campus,343-dup,,
+344,Shalom,Burl,18,Biology,0.75error,2021-02-14,04/03/2025,Shalom Burl,Full-time,off campus,344-repeat,,
+345,Bobby,Tookey,25,Biology,0.34,10/21/2019,11/13/2024,,Hybrid,off campus,345_,OK,ABC999
+346,Fremont,Sulley,25,Hiatory,good,08/20/2019,04/21/2023,Fremont Sulley,Online,on-campus,346-dup,Check GPA,ABC999
+347,Jacquelynn,Sked,23,Biology,3.77,08/06/2019,2025-11-22, Jacquelynn Sked ,Full-time,on-campus,347_,Check GPA,XYZ347
+348,Itch,Frantz,22,Computer Science,2.13,10/30/2021,2025-04-18,Itch Frantz,Full-time, On-Campus ,348-dup,,
+349,Kevyn,Swainston,23,History,1.38,2021-10-14,02/19/2024, Kevyn Swainstow ,Full-time,on-campus,349 extra,,XYZ349
+350,Etienne,Gounot,18,History,good,12/21/2021,2025-12-04, Etieune Gounot ,Full-time,oncampus ,350,Advisor not assigned,XYZ350
+351,Tamiko,Gisburne,22,Biology,10.61,03/26/2021,2024-10-21,Tamiko Gisburne,Part-time, On-Campus ,351_,Good,
+352,Althea,Cornewall,20,Compyter Science,2.24,2020-01-13,10/08/2024, Althea Cornewall ,Full-time,on-campus,352_,Needs follow-up,
+353,Fianna,Andrus,19,,1.07,02/28/2021,04/14/2023, Fianna Andrus ,Hybrid,on-campus,353 extra,,
+354,Kelby,Aberchirder,22,Biology,13.19,06/10/2021,2025-10-19,Kelby Aberchirder,Online, On-Campus ,354-dup,Check GPA,XYZ354
+355,Julie,Piolli,22,biology,1.19,2019-06-29,04/11/2023,Julie Piolli,Full-time,OFFCAMPUS,355-dup,Check GPA,
+356,Lem,MacNulty,14,,2.91,02/29/2020,06/04/2025, Lem MacNulty ,Full-time, On-Campus ,356-repeat,Good,
+357,Sanders,Houlton,20,Biology,1.71,08/19/2019,2023-10-30,Sanders Houoton,Full-time,off campus,357-dup,Advisor not assigned,
+358,Yettie,Murricanes,20,History,10.89,05/27/2021,2023-11-08,Yettie jurricanes,Full-time,OFFCAMPUS,358-dup,OK,
+359,Osborn,Sybbe,unknown,Biology,1.02,09/27/2019,2025-06-01,Osborn Sybbe,Hybrid, On-Campus ,359-dup,Advisor not assigned,
+360,Alia,Gobat,20,CompSci,3.8,07/04/2019,09/19/2025,Alia Gobat,Full-time,on-campus,360-dup,Advisor not assigned,
+361,Miriam,Tollmache,21,Computer Science,1.12,2021-03-15,2024-06-07,Miriam Tollmache,Part-time,on-campus,361 extra,Good,
+362,Vivyanne,Allcorn,22,,1.55,2021-08-17,invalid-date,Vivyanne Allcorn,Part-time,on-campus,362-repeat,,
+363,Audre,Tolerton,21,Biology,0.37,2019-12-29,2025-05-30, Audre Tolerton ,Hybrid,oncampus ,363,,
+364,Ezmeralda,Banbrook,24,Biology,1.81error,2020-08-29,09/09/2024,Ezmeralda Banbrook,Full-time,on-campus,364_,Check GPA,
+365,Burg,Nerne,-5,History,0.43,2019-12-20,2025-02-24,Burg Nerne,Hybrid,off campus,365-repeat,Advisor not assigned,
+366,Chloette,Elesander,24,history,2.8,2019-04-20,07/06/2024, Chloette Elesander ,Online,off campus,366_,Advisor not assigned,XYZ366
+367,Ramonda,Ivushkin,21,Computer Science,2.03,2019-08-07,2024-07-01,Ramonda Ivushkin,Full-time,off campus,367-repeat,OK,ABC999
+368,Ruddie,Hawkins,19,History,3.0,09/07/2021,04/18/2023,Ruddie Hawkins,Full-time,off campus,368,OK,
+369,Lemuel,Pyle,25,Biology,1.21,2021-12-12,2025-02-17, Lemuel Pyle ,Online,off campus,369 extra,Check GPA,ABC999
+370,Melanie,Goscar,22,,2.3,2019-11-16,05/31/2025,Melanie Goscar,Full-time,OFFCAMPUS,370 extra,,
+371,Faye,Dargue,22,,1.71,2020-05-31,2023-06-28, FayeaDargue ,Hybrid,on-campus,371-dup,OK,
+372,Smith,Fruser,20,Biology,1.54,2019-03-01,2023-04-25, Smith Fruser ,Online, On-Campus ,372-dup,,
+373,Jefferson,Doumic,-5,Computer Science,1.1,11/21/2020,08/01/2024,Jefferson Doumic,Part-time,,373_,Advisor not assigned,
+374,Christiano,Palluschek,24,History,2.76,07/28/2021,2023-06-24, Christiano Palluschek ,Full-time,oncampus ,374,OK,XYZ374
+375,Roxana,Ceccoli,17,Biology,0.59,09/17/2021,2023-12-06, Roxana Ceccoli ,Full-time,on-campus,375_,Good,
+376,Amii,Monard,22,biologa,1.02,05/11/2020,02/18/2024,Amii Monard,Online,on-campus,376-dup,,
+377,Frederique,Huggin,24,History,11.14,,03/31/2025,Frederique Huggin,Part-time,off campus,377-dup,Advisor not assigned,XYZ377
+378,Jobina,Gentle,23,Biology,15.0,2019-08-01,12/12/2023,Jobina Gentle,Part-time,off campus,378-repeat,OK,XYZ378
+379,Jenna,Eden,20,CompSci,2.16,2020-05-14,2025-10-22,Jenna Eden,Full-time, On-Campus ,379_,OK,
+380,Piper,Iwanczyk,20,History,0.75,2019-01-13,2024-11-23,Piper Iwanczyk,Part-time,oncampus ,380 extra,Advisor not assigned,
+381,Massimiliano,D'Onisi,19,Bidlogy,good,05/13/2021,2024-12-16,Massimiliano D'Onisi,Full-time,off campus,381-dup,Advisor not assigned,
+382,Rickert,Tireman,102,Biology,good,03/02/2020,01/29/2024,Rickert Tireman,Part-time,on-campus,382-dup,,XYZ382
+383,Forbes,Steljes,23,Biology,1.62,08/05/2021,2024-09-26,Forbes Steljxs,Part-time,off campus,383-dup,Check GPA,
+384,Juana,Brunsden,24,Biology,0.49,12/08/2019,02/14/2023,Juana Brunsden,Full-time,off campus,384-repeat,Needs follow-up,
+385,Dre,Gilchrest,23,Biology,2.94,2019-07-05,2025-07-13,Dre Gilchrest,Part-time,on-campus,385,Advisor not assigned,XYZ385
+386,Callean,Weekly,102,History,1.11,10/22/2021,08/31/2024,Callean Weekly,Full-time,OFFCAMPUS,386-dup,,ABC999
+387,Cass,Sheal,16,Biology,3.76,12/28/2020,12/04/2025, Cass Sheal ,Online,oncampus ,387,,
+388,Windham,Beach,23,,1.92,12/10/2021,07/29/2025,Windham Beach,Full-time,OFFCAMPUS,388 extra,Needs follow-up,
+389,Jenna,Emburey,unknown,CompSci,3.11,2021-11-05,11/01/2024,Jenna Emburey,Online,off campus,389_,OK,
+390,Fulton,Hammarberg,-5,CompSci,2.67,2019-11-05,2024-02-22,Fulton Hammarberg,Full-time,on-campus,390,,
+391,Westley,Hadden,25,computer science,1.32,07/20/2020,11/16/2023,Westley Hadden,Full-time, On-Campus ,391,,
+392,Alice,Redgrove,20,Biology,2.48,2020-01-10,09/29/2024, Alice Redgrove ,Full-time,,392,,
+393,Edyth,Edgeley,22,Biology,3.8,10/14/2020,2023-07-15,Edyth Edgeley,Part-time,oncampus ,393_,,
+394,Rebbecca,Blackburne,25,History,3.97,2020-11-23,2024-01-04, Rebbecca Blackburne ,Full-time,on-campus,394,Check GPA,ABC999
+395,Chrystel,Hulson,20,Hostory,2.44,05/01/2021,2024-08-20, Chrystel Hulson ,Full-time,off campus,395-dup,Needs follow-up,ABC999
+396,Myles,Batrip,19,Computer Science,2.9,04/04/2021,2025-02-20,Myles Batrip,Full-time,off campus,396 extra,,
+397,Roselle,Geekin,28,,1.42,2020-02-10,05/19/2023,Roselle Geekin,Hybrid,on-campus,397_,Needs follow-up,
+398,Dora,Babbidge,17,,1.4,08/13/2019,2025-10-05,,Part-time,on-campus,398-repeat,Needs follow-up,ABC999
+399,Ginny,Pharaoh,19,Biology,3.98,03/26/2019,2025-10-27,Ginny Pharaoh,Full-time,OFFCAMPUS,399-dup,Advisor not assigned,
+400,Evey,Rohloff,22,Biology,3.23,04/26/2020,04/17/2023, Evey Rohloff ,Full-time,OFFCAMPUS,400_,,
+401,Kelsey,Placidi,18,Biology,0.83,2019-11-02,2025-01-29, Kelsey Placidi ,Full-time,on-campus,401_,Advisor not assigned,
+402,Merrel,Spilsburie,25,Computer Science,15.0,06/19/2019,2023-03-25,Merrel Spilsburie,Online, On-Campus ,402-repeat,,ABC999
+403,Rabi,Elion,unknown,Computer Science,3.6,2021-01-03,2025-08-01, Rabi Elion ,Online,off campus,403 extra,OK,XYZ403
+404,Maureen,Rounsefell,22,History,0.09,09/12/2019,2024-05-02,Maureen Rounsefell,Full-time,off campus,404,Needs follow-up,XYZ404
+405,Norrie,Gallardo,20,Computer Science,3.62,04/20/2020,10/01/2023, Norrie Gallardo ,Part-time,off campus,405_,OK,ABC999
+406,Trina,Schukert,21,BIOLOGY,0.9,09/07/2020,2025-09-16,Trina Schukert,Part-time,on-campus,406 extra,Good,
+407,Lu,Corton,twenty-five,History,1.46,2019-07-03,01/23/2024, Lu Corton ,Full-time,on-campus,407-repeat,OK,
+408,Roy,Murgatroyd,21,History,2.52,12/17/2020,2024-04-22,Roy Murgatroyd,Online,off campus,408_,,
+409,Derk,Zanotti,18,Computer Science,2.9,2023-02-22,10/12/2020, Derk Zanotti ,Online,on-campus,409_,,ABC999
+410,Herculie,Kimmings,-5,,2.9,08/15/2021,2024-03-02, Herculie Kimmings ,Part-time,off campus,410-repeat,Advisor not assigned,
+411,Lilllie,Melville,24,,0.42error,05/12/2019,2025-11-04, Lilllie Melville ,Full-time, On-Campus ,411-repeat,,
+412,Denni,Sedger,19,Biology,10.2,02/05/2019,2023-07-18,Denni Sedger,Part-time,on-campus,412-repeat,Needs follow-up,XYZ412
+413,Jacquelynn,Wardle,twenty-five,computer science,2.01,2019-03-24,2024-10-06,Jacquelynn Wardle,Full-time,on-campus,413 extra,,
+414,Dredi,Southon,20,Hhstory,0.75,06/27/2021,2024-10-14,Dredi Southon,Part-time,off campus,414 extra,OK,ABC999
+415,Anselm,Ditch,19,HISTORY,good,01/03/2020,2025-02-23,Anselm Ditch,Hybrid,oncampus ,415-dup,Needs follow-up,
+416,Wernher,Davy,twenty-five,Computer Science,12.6,11/23/2021,2025-05-05,Wernher Davy,Full-time,on-campus,416,Advisor not assigned,
+417,Rossy,Marval,18,History,0.66,01/17/2020,06/03/2025,Rossy Marval,Full-time,on-campus,417 extra,Advisor not assigned,ABC999
+418,Madelon,Foltin,20,Computer Science,3.28,02/09/2019,2024-10-26,Madelon Foltin,Online,off campus,418 extra,Advisor not assigned,
+419,Gary,Langhor,21,Computer Science,0.98,12/20/2021,05/20/2025,Gary Langhor,Full-time,OFFCAMPUS,419-repeat,Needs follow-up,
+420,Ilse,Wescott,14,Computer Science,2.28,2019-12-12,10/02/2023,Ilse Wescott,Full-time,off campus,420,Needs follow-up,
+421,Gabriele,Geeson,23,Biology,2.26,2021-05-11,2024-11-22,Gabgiele Geeson,Hybrid,on-campus,421_,OK,
+422,Maddi,de Castelain,21,Biology,1.47,03/22/2020,2025-12-29,Maddi de Castelain,Full-time,on-campus,422,Check GPA,
+423,Carmelle,Lochhead,unknown,Computer Science,2.38,2021-10-06,04/18/2024, Carmelle Lochhead ,Online,on-campus,423-repeat,OK,
+424,Jack,Melmore,25,CompSci,15.0,02/27/2019,2023-07-28, JackfMelmore ,Full-time,oncampus ,424-dup,Needs follow-up,
+425,Raul,De Winton,22,History,15.0,2019-06-03,01/11/2024,Raul De Winton,Full-time,on-campus,425,OK,XYZ425
+426,Lusa,Schimpke,21,Computer Science,3.61error,2021-02-04,2024-12-12, Lusa Schimpke ,Part-time,on-campus,426-repeat,Check GPA,XYZ426
+427,Denna,Dellow,21,,3.5,12/02/2023,05/31/2020,Denna Dellow,Part-time,on-campus,427 extra,Check GPA,
+428,Roland,Jakubowski,23,,2.98,01/06/2019,02/04/2025,Roland Jakubowski,Part-time,off campus,428,Needs follow-up,
+429,Salim,Creigan,25,History,2.97,2021-06-26,09/12/2023,Salim Creigan,Part-time,off campus,429-repeat,Advisor not assigned,
+430,Cazzie,Cobbe,25,Biology,12.34,2025-10-10,2019-04-18,Cazzie Cobbe,Full-time,on-campus,430_,Good,ABC999
+431,Sybil,Dryburgh,-5,Biology,0.36,2021-01-15,invalid-date, Sybil Dryburgh ,Part-time,OFFCAMPUS,431,,
+432,Leicester,Durdan,21,Computer Science,1.51,03/23/2021,,Leicester Durdan,Online,OFFCAMPUS,432 extra,Advisor not assigned,
+433,Muhammad,Crimes,21,Biology,2.79,03/05/2019,2024-12-13,Muhammad brimes,Full-time,off campus,433 extra,Check GPA,
+434,Kayne,Curteis,22,eiology,2.43,08/14/2019,2023-03-18,Kayne Curteis,Part-time,oncampus ,434 extra,Needs follow-up,
+435,Glenden,Santen,23,Biology,0.39,09/03/2021,2025-04-19, Glenden Santen ,Full-time,off campus,435_,Check GPA,ABC999
+436,Gonzales,Corden,21,Computer Science,1.82,invalid-date,04/01/2024, Gonzales Corden ,Full-time,on-campus,436_,Needs follow-up,
+437,Willetta,Purselow,25,COMPUTER SCIENCE,2.4,2019-07-19,2023-10-31,Willetta Purselow,Online,OFFCAMPUS,437_,,XYZ437
+438,Orlan,Darby,19,CompSci,2.01,12/05/2019,06/02/2025,Orlan Darby,Full-time,OFFCAMPUS,438-dup,Needs follow-up,
+439,Alicia,Gaven,24,Computer Science,0.7,2023-09-05,2019-12-23, Alicia Gaven ,Part-time,off campus,439,,XYZ439
+440,Alfy,Celier,23,Biology,2.76,07/21/2021,08/22/2025,Alfy Celier,Full-time, On-Campus ,440-repeat,Check GPA,ABC999
+441,Forster,Stitcher,twenty-five,Computer Science,2.46,02/17/2020,03/29/2024,Forster Stitcher,Part-time,on-campus,441-dup,Good,ABC999
+442,Decca,Boneham,unknown,computer science,1.62,2019-01-25,11/19/2024,Decca Boneham,Full-time,off campus,442_,Check GPA,
+443,Reyna,Genner,23,Computer Science,2.05,10/10/2021,10/04/2024,Reyna Genneu,Part-time,OFFCAMPUS,443_,,XYZ443
+444,Bond,Noirel,twenty-five,BIOLOGY,0.25,2021-12-04,2024-12-08,Bond Noirel,Part-time,on-campus,444-repeat,,
+445,Drusi,Toffoletto,25,Biology,2.28,02/25/2021,2024-05-25, Drusi Toffolntto ,Full-time,on-campus,445,Check GPA,XYZ445
+446,Rand,Tubbs,23,Computer Science,good,,02/11/2023,Rand Tubbs,Online,off campus,446 extra,,ABC999
+447,Galvan,Hardwich,24,Computer Science,11.78,,11/17/2023,Galvan eardwich,Full-time, On-Campus ,447 extra,,
+448,Jennifer,Brosoli,24,bionogy,1.8,05/25/2021,03/15/2024,Jennifep Brosoli,Part-time,on-campus,448_,Needs follow-up,XYZ448
+449,Nani,Flacknoe,22,Computer Science,3.76,07/26/2023,2020-08-05,Nani Flacknoe,Hybrid,oncampus ,449_,Advisor not assigned,ABC999
+450,Brien,Gorcke,102,Biology,0.63,12/13/2020,2023-10-27,Brien Gorcke,Full-time,off campus,450,,ABC999
+451,Howard,Goddard,21,Computer Science,3.24,03/24/2020,2024-04-08,Howard Goddard,Online,on-campus,451-repeat,OK,
+452,Gabe,Emblow,21,Computer Science,2.02error,07/27/2020,invalid-date, Gabe Emblow ,Full-time,off campus,452 extra,Check GPA,
+453,Cord,Giacovetti,24,Biology,2.82,09/20/2020,04/28/2025, Cord Giacovetti ,Online, On-Campus ,453-repeat,Needs follow-up,XYZ453
+454,Arther,Schruurs,23,BIOLOGY,0.69,08/13/2020,2024-09-30,Arther Schruurs,Full-time,on-campus,454-repeat,Needs follow-up,
+455,Dalenna,Crighton,23,Biology,3.68,06/13/2021,08/21/2023,Dalenna Crightwn,Full-time,off campus,455_,Good,XYZ455
+456,Fiann,Youster,21,COMPUTER SCIENCE,0.81error,2021-05-22,07/11/2024,Fiann Youster,Part-time, On-Campus ,456-dup,OK,ABC999
+457,Joycelin,Fawlks,24,,good,01/06/2021,2025-11-11, Joycelin Fawlks ,Online,off campus,457,Needs follow-up,ABC999
+458,Kristine,Whitty,21,Biology,1.23,2019-07-07,10/11/2024, Kristine Whitty ,Hybrid,oncampus ,458-dup,Needs follow-up,
+459,Ogdon,Mitham,20,history,1.26,2019-09-21,2024-03-06,Ogdon Mitham,Full-time, On-Campus ,459_,Needs follow-up,
+460,Thaddus,McGuigan,22,,2.25,01/15/2019,2023-05-05,Thaddus McGuigan,Online,on-campus,460,,XYZ460
+461,Finley,Blackman,22,Computer Science,2.27,03/03/2021,2024-11-25,Finley Blackman,Online,on-campus,461,Advisor not assigned,ABC999
+462,Christiane,Petofi,22,history,0.78,03/05/2021,2023-03-07, Christiane Petofi ,Full-time, On-Campus ,462 extra,Check GPA,
+463,Isaac,Lapthorne,25,Biology,1.95,02/16/2019,2023-05-24,Isaac Lapthorne,Part-time,on-campus,463 extra,Advisor not assigned,
+464,Merell,Barnardo,18,,2.34,01/22/2019,12/10/2023,Merell Barnardo,Full-time,on-campus,464 extra,,
+465,Bank,MacSween,19,History,2.93,07/22/2020,2025-06-24, Bank MacSween ,Hybrid,on-campus,465 extra,Advisor not assigned,
+466,Keenan,Doniso,24,History,0.64,2021-03-04,2025-12-13,Keenan Doniso,Full-time,on-campus,466,Advisor not assigned,
+467,Jeremy,Ferryman,25,Biology,1.19,2021-05-14,2025-04-30,Jeremy Ferryman,Part-time,off campus,467_,Needs follow-up,
+468,Joshia,Patrone,-5,Biology,15.0,02/19/2021,04/06/2024, Joshia Patrone ,Part-time,on-campus,468,,XYZ468
+469,Jayne,Bower,24,,0.84,12/24/2019,12/01/2024,Jayne Bower,Full-time,,469,Needs follow-up,XYZ469
+470,Archibaldo,Cawsey,unknown,BIOLOGY,-3.0,04/13/2019,2024-03-24,Archibaldo Cawsey,Part-time,oncampus ,470,Advisor not assigned,XYZ470
+471,Edd,McAvinchey,unknown,,2.45,07/03/2020,,Edd McAvinchey,Online,oncampus ,471_,,
+472,Nataniel,Thickins,24,Computer Science,-3.0,2019-12-08,2023-10-16,,Online,off campus,472,Needs follow-up,
+473,Ryun,Aldie,19,Computer Science,15.0,2020-03-06,07/30/2025,Ryun Aldie,Part-time, On-Campus ,473-repeat,Advisor not assigned,ABC999
+474,Marissa,Von Der Empten,19,Computer Science,1.75,06/04/2019,2024-03-29, Marissa Von Der Empten ,Full-time,OFFCAMPUS,474,Advisor not assigned,
+475,Lu,Robertet,21,History,13.39,2020-09-26,02/16/2024,Lu Robertet,Online,off campus,475,Needs follow-up,
+476,Tulley,Baughen,20,,0.82,02/28/2021,10/19/2024,,Part-time,on-campus,476_,Advisor not assigned,ABC999
+477,Ferne,Seckington,23,Computer Science,3.93,,2023-06-01,Ferne Seckington,Full-time,on-campus,477-repeat,,
+478,Quincey,Golthorpp,18,Biology,2.56,07/31/2020,12/23/2024,,Full-time,off campus,478 extra,Advisor not assigned,XYZ478
+479,Winthrop,Joutapaitis,23,Biology,0.58,06/16/2025,11/21/2019,Winthrop Joutapaitis,Full-time,on-campus,479-repeat,,XYZ479
+480,Mehetabel,Durram,18,BIOLOGY,1.45,05/03/2021,2025-04-22,Mehetabel Durram,Online,oncampus ,480,,ABC999
+481,Karna,Rillatt,-5,History,2.69,09/15/2020,2023-11-30,Karna Rillatt,Hybrid,OFFCAMPUS,481_,,
+482,Garwin,Whieldon,22,Biology,0.23,11/02/2021,2024-11-10,Gnrwin Whieldon,Online,oncampus ,482-repeat,Advisor not assigned,
+483,Alia,Alger,22,History,1.35,invalid-date,2025-09-17,Alia Alger,Hybrid,OFFCAMPUS,483-dup,Check GPA,
+484,Cozmo,Medendorp,18,History,3.38error,03/25/2021,04/18/2025,,Part-time,on-campus,484 extra,OK,ABC999
+485,Eustacia,Keggins,21,Biology,-3.0,2019-06-18,2023-05-17,Eustacia Keggins,Full-time,oncampus ,485-dup,OK,
+486,Brit,Eseler,-5,Computer Science,1.63,05/17/2020,2024-08-20, Brit Eseler ,Full-time,on-campus,486 extra,Good,
+487,Katee,Ferrara,24,,0.75,04/04/2021,2025-01-20, Katee Ferrara ,Full-time,on-campus,487-dup,Needs follow-up,
+488,Yorgo,Maund,24,Computer Science,2.25,11/14/2019,08/18/2023, Yorgo Maund ,Full-time,on-campus,488 extra,Needs follow-up,XYZ488
+489,Oliviero,Bratton,20,Biology,1.73,02/07/2020,2025-01-16, Oliviero Bratton ,Full-time,on-campus,489 extra,,
+490,Shirlene,Hawlgarth,25,Hiutory,3.78,2020-12-30,04/07/2023,Shirlene Hawlgarth,Full-time,OFFCAMPUS,490,Advisor not assigned,
+491,Des,Deroche,twenty-five,BIOLOGY,0.25,06/11/2025,07/24/2021, Des Deroche ,Full-time,off campus,491,,
+492,Guilbert,Silcocks,20,biology,2.21,07/21/2021,04/01/2024, Guilbert Silcocks ,Part-time,off campus,492,Check GPA,
+493,Rebeka,MacKissack,21,Biology,0.18,2020-07-04,07/18/2024,Rebeka Maclissack,Hybrid,OFFCAMPUS,493-dup,Check GPA,
+494,Horton,Hymans,23,Computer Science,0.86,06/26/2021,11/15/2024,,Part-time, On-Campus ,494 extra,,
+495,Marna,MacRory,23,History,3.19,2019-03-31,2024-06-12,Marna MacRory,Part-time,OFFCAMPUS,495-repeat,,ABC999
+496,Ethel,Ranyard,unknown,,3.2,10/30/2020,01/26/2023,Ethel Ranyard,Full-time,on-campus,496,OK,
+497,Elva,Heake,unknown,Computer Science,2.64,11/29/2020,2024-03-23, Elva Heake ,Full-time,off campus,497 extra,Advisor not assigned,
+498,Zandra,Robak,30,Biology,0.6,2019-05-16,07/02/2023,Zandra Robak,Part-time,on-campus,498 extra,OK,
+499,Jennica,Bathurst,22,,1.17,11/18/2021,02/25/2024,Jennica Bathurst,Online,OFFCAMPUS,499-dup,Advisor not assigned,ABC999
+500,Marie-jeanne,Walby,-5,,3.5,,05/24/2025,Marie-jeanne Walby,Full-time,OFFCAMPUS,500,Advisor not assigned,
+501,Ernie,Dorkins,24,Biology,0.53,02/10/2021,09/18/2023,Ernie Dorkins,Full-time,off campus,501-dup,Needs follow-up,
+502,Grissel,Goeff,21,history,3.93,12/07/2021,04/27/2024,,Full-time,OFFCAMPUS,502_,Advisor not assigned,
+503,Ernestine,Poulter,23,CompSci,3.25,2020-05-15,10/27/2024,Ernestine Poulter,Part-time,on-campus,503,,
+504,Gertrude,Tomkiss,20,Biology,0.33,2020-01-12,06/25/2023, Gertrude Tomkiss ,Full-time, On-Campus ,504_,Advisor not assigned,
+505,Kellsie,Christie,21,History,2.67,2020-04-20,2025-09-01, Kellsie Christie ,Part-time,on-campus,505,Advisor not assigned,ABC999
+506,Alexandr,Josipovitz,102,Biology,0.82,02/23/2020,01/20/2024, Alexandr Josipovitz ,Full-time, On-Campus ,506-dup,Check GPA,
+507,Maureene,Chisman,21,History,2.73,06/11/2020,03/23/2025,Maureene Chisman,Part-time, On-Campus ,507-dup,,
+508,Cheri,Leasor,25,Biology,0.14,2019-02-13,2024-05-11,Cheri Leasor,Part-time,,508_,,XYZ508
+509,Kit,Goodridge,24,Computer Science,1.91,02/13/2025,2020-05-03,Kit Goodridge,Part-time,oncampus ,509,Needs follow-up,
+510,Eada,Machel,22,Computer Science,0.74,invalid-date,02/19/2023, Eada Machel ,Full-time,on-campus,510_,OK,XYZ510
+511,Lynn,Oneile,19,History,1.05,03/16/2019,2023-12-18,Lynn Oneile,Full-time,off campus,511 extra,Needs follow-up,
+512,Ferdy,Illem,20,,0.56,2021-09-02,11/23/2024, Ferdy Illeb ,Full-time,off campus,512 extra,,XYZ512
+513,Alvie,Fudger,19,Biology,3.03,,,Alvie Fudger,Part-time,off campus,513_,Needs follow-up,XYZ513
+514,Mariette,Saintsbury,18,Biology,0.91,03/07/2019,11/18/2025,Mariette Saintsbury,Part-time,off campus,514_,OK,
+515,Etty,Fawltey,unknown,Biology,1.7error,2021-05-08,2023-10-12, Etty Fawltey ,Part-time,on-campus,515 extra,Needs follow-up,XYZ515
+516,Alix,Viger,24,Biology,0.89,02/11/2019,11/24/2025, Alix Viger ,Part-time, On-Campus ,516,Good,ABC999
+517,Ursa,Czajkowski,24,Computer Science,3.56,02/09/2019,2024-06-24, Ursa Czajkowski ,Part-time,on-campus,517_,Good,
+518,Paulina,Henaughan,21,,1.35,2020-02-15,2024-04-20,Paulina Henaughan,Hybrid,on-campus,518 extra,,ABC999
+519,Mari,Curee,21,History,1.69,2020-09-29,2023-02-28,Mari Curee,Part-time,on-campus,519 extra,Check GPA,XYZ519
+520,Averil,Audenis,19,,2.88error,08/28/2025,2020-10-08,Averil Audenis,Part-time,on-campus,520_,OK,
+521,Skip,Rains,19,Computer Science,1.51,2020-11-20,, Skip Rains ,Hybrid,on-campus,521-repeat,Check GPA,
+522,Wileen,Bracegirdle,18,CompSci,0.46,2021-02-04,2025-05-05,Wileen Bracegirdle,Full-time,on-campus,522-repeat,,
+523,Gabriello,McErlaine,22,Biology,1.68,01/12/2021,2025-03-30,Gabriello McErlaine,Full-time,off campus,523,Check GPA,ABC999
+524,Preston,Pococke,21,Biology,4.0,02/13/2020,2023-11-17,Preston Pococke,Part-time,off campus,524 extra,Advisor not assigned,ABC999
+525,Leeland,Brogden,18,Biology,good,2021-11-09,09/22/2025,Leeland Brogden,Full-time,off campus,525 extra,Advisor not assigned,
+526,Marin,MacColl,14,CompSci,3.13,11/17/2020,2023-12-24, Marin MacColl ,Full-time,on-campus,526,Advisor not assigned,
+527,Betsy,Trevarthen,19,Biology,2.34,05/25/2020,2025-12-15,Bewsy Trevarthen,Hybrid,on-campus,527 extra,,XYZ527
+528,Manfred,Bilovus,25,Computer Science,0.67,2021-07-24,2025-09-09, Manfred Bilovus ,Full-time,off campus,528-repeat,,ABC999
+529,Claribel,Rooksby,18,Computer Science,3.8,2021-05-09,02/17/2024,Claribel Rooksby,Online,on-campus,529_,Check GPA,XYZ529
+530,Leonhard,Battey,20,history,0.69,2019-10-11,invalid-date,Leonhard Battey,Full-time,oncampus ,530-repeat,Check GPA,
+531,Ashil,Doerrling,19,Computer Science,3.42,2019-12-08,11/08/2024, Ashil Doerrling ,Full-time,on-campus,531 extra,OK,
+532,Ad,Lukianov,23,History,3.96,02/12/2019,03/23/2023,Ad Lukeanov,Full-time,on-campus,532 extra,Check GPA,
+533,Sheridan,Crowth,23,,1.84,2021-08-06,12/26/2025,Sheridan Crowth,Full-time,off campus,533,Advisor not assigned,
+534,Lorrayne,Klimentov,24,History,2.62,11/19/2021,2024-12-20,Lorrayne Klimentov,Full-time,off campus,534-dup,,
+535,Alexandrina,Wilde,22,History,15.0,05/13/2019,2024-03-04, Alexandrina Wilde ,Full-time, On-Campus ,535 extra,Needs follow-up,
+536,Konstanze,Litster,unknown,Biology,3.58,12/14/2021,12/18/2024,,Full-time,on-campus,536 extra,Advisor not assigned,
+537,Simon,Scotchbrook,23,Computer Science,1.76error,2019-01-01,08/29/2023, Simon Scotchbrook ,Full-time,off campus,537_,Advisor not assigned,
+538,Kelsy,Dunsmuir,21,Computer Science,good,2021-07-23,10/24/2023, pelsy Dunsmuir ,Part-time,on-campus,538_,,ABC999
+539,Dix,Vondrasek,25,History,0.46,2019-08-15,05/06/2024, Dix Vondrasek ,Full-time,on-campus,539-repeat,Check GPA,
+540,Trixy,Chiommienti,twenty-five,ComputeroScience,good,06/04/2020,2025-01-15,Trixy Chiommienti,Part-time,oncampus ,540,OK,XYZ540
+541,Selestina,Embury,20,Computer Science,12.57,2019-09-04,invalid-date,,Part-time,off campus,541 extra,Check GPA,
+542,Godwin,Champerlen,twenty-five,computer science,0.65,01/08/2021,12/11/2024,Godwin Champerlen,Part-time,off campus,542 extra,,
+543,Merl,Haitlie,21,Biology,3.22,08/07/2021,12/26/2024,Merl Haitlie,Full-time,on-campus,543 extra,Advisor not assigned,
+544,Ferdinande,MacGowing,30,CompSci,1.17,2021-09-04,2024-06-11,Ferdinande MycGowing,Hybrid,off campus,544 extra,Needs follow-up,
+545,Lorne,Marchment,21,History,2.05,03/03/2020,08/24/2025,Lorne Marchment,Full-time,on-campus,545 extra,,
+546,Livvie,Bastow,19,Computer Science,good,09/25/2019,2024-08-29,Livvie Bastow,Full-time,on-campus,546 extra,OK,
+547,Marlyn,Doge,twenty-five,History,0.18,2021-02-24,2023-09-04,Marlyn Doge,Online, On-Campus ,547_,,ABC999
+548,Melisande,Smither,20,History,2.25,2019-08-12,01/19/2023,Meliaande Smither,Part-time,on-campus,548-dup,Check GPA,XYZ548
+549,Deanna,MacKee,102,Computer Science,2.73,2019-05-06,07/20/2024, Deanna MacKee ,Part-time,on-campus,549_,Needs follow-up,
+550,Jason,Hachette,24,CompSci,1.25error,2019-04-25,07/17/2024, Jason Hachette ,Full-time,off campus,550-dup,Check GPA,
+551,Janice,Bussey,19,,3.6,06/04/2021,03/23/2024,Janice Bussey,Full-time,off campus,551,OK,
+552,Dell,Sante,18,Computer Science,1.76,2019-02-20,02/08/2023, Dell Sante ,Part-time,on-campus,552-repeat,,ABC999
+553,Antonetta,Brokenshire,19,Computer Science,3.98error,invalid-date,2025-09-04, Antonetta Brokenshire ,Online,off campus,553-dup,OK,
+554,Marchall,Ashbrook,-5,Biology,2.97,11/28/2019,2024-01-02,Marchall Ashbrook,Full-time,off campus,554 extra,Check GPA,ABC999
+555,Gradeigh,Reedshaw,23,History,2.52,09/21/2019,05/16/2025,Gradeigh Reedshaw,Full-time,off campus,555 extra,Check GPA,ABC999
+556,Ambrosio,Matysiak,22,Computer Science,1.89,02/11/2021,2024-01-04,Ambrosio Matysiak,Online,on-campus,556_,Advisor not assigned,XYZ556
+557,Nate,Issatt,-5,ComputerqScience,0.52,2020-05-21,07/21/2023,Nate Issatt,Part-time,off campus,557 extra,OK,
+558,Emalee,Dodwell,25,Computer Science,3.25,09/14/2021,,Emalee Dodwell,Online, On-Campus ,558 extra,,
+559,Yul,McQueen,30,,3.14,09/26/2020,03/01/2024,Yul McQueen,Part-time,on-campus,559-dup,OK,
+560,Burg,Manuele,-5,History,1.23,2019-07-16,2023-01-28,Burg Manuele,Online,OFFCAMPUS,560-dup,,
+561,Caz,Threadgill,18,Computer Science,1.5,2020-05-20,2023-06-03, Caz Threadgill ,Full-time,on-campus,561 extra,,
+562,Hermie,Vooght,24,Biology,3.7,11/26/2021,04/10/2025,Hermie Vooght,Part-time,,562 extra,Good,XYZ562
+563,Nappie,Parriss,25,CompSci,0.56error,04/30/2019,2023-08-27,Nappie Parriss,Part-time,OFFCAMPUS,563-dup,,
+564,Berny,Noto,25,Biology,0.87,2020-05-01,02/09/2025, Berny Noto ,Online,on-campus,564 extra,,
+565,Konstance,Bonicelli,24,Computer Science,3.33,2021-06-16,2024-11-16,Konstance Bonicelli,Online,on-campus,565,Needs follow-up,
+566,Dionysus,Dewsnap,18,HISTORY,0.81error,04/04/2021,11/05/2024,Dionysus Dewsnap,Part-time,off campus,566-repeat,OK,
+567,Theodoric,Rountree,20,Computer Science,2.28,invalid-date,06/16/2023,Theodoric Rountree,Full-time,on-campus,567-dup,Needs follow-up,XYZ567
+568,Jareb,Strettell,-5,Biology,15.0,invalid-date,2024-04-13, Jareb Strettell ,Full-time, On-Campus ,568-repeat,Needs follow-up,
+569,Waiter,Dowry,24,History,0.01,01/04/2021,2025-05-30,Waiter Dowry,Online,,569 extra,Good,
+570,Theodor,Jarnell,20,Biology,0.13,10/26/2020,10/31/2024,TheodoreJarnell,Full-time,,570-repeat,Check GPA,
+571,Lucienne,Clayworth,23,,1.42,12/18/2019,2025-04-30,Lucienne Clayworth,Part-time,off campus,571-dup,Check GPA,
+572,Elwyn,Spanswick,19,Computer Science,2.61error,05/25/2020,2023-08-03,Elwyn Spanswick,Full-time,on-campus,572 extra,Advisor not assigned,ABC999
+573,Pearl,Mickleburgh,19,Computer Science,1.01,05/18/2021,08/15/2023,Pearl Mickleburgh,Full-time,on-campus,573-dup,,XYZ573
+574,Ferne,Mickleburgh,22,biology,2.53,2020-06-12,01/18/2025,Ferne Mickleburgh,Online,oncampus ,574,,XYZ574
+575,Augustina,Jerratsch,21,Computer Science,3.06error,10/24/2020,08/06/2024,Augustina Jerratsch,Full-time,on-campus,575_,Advisor not assigned,
+576,Crista,Helwig,22,History,2.54,invalid-date,2024-09-19, Crista Helwig ,Full-time,oncampus ,576,,XYZ576
+577,Venita,Bernardon,19,Biology,0.85,12/25/2020,2023-04-22,Venita Bernardon,Full-time,OFFCAMPUS,577-repeat,Advisor not assigned,
+578,Kristan,Jesse,20,Computer Science,2.38,2020-10-20,05/25/2023, Ktistan Jesse ,Online,off campus,578-dup,,
+579,Betti,Scurr,unknown,biologw,2.41,2021-04-07,2025-07-12,Betti Scurr,Full-time,off campus,579 extra,,
+580,Margaret,Cucinotta,24,History,3.19,07/15/2019,2023-03-16,Margaret Cucinotta,Full-time,OFFCAMPUS,580-repeat,Check GPA,XYZ580
+581,Isis,Elan,24,Computer Science,2.78error,01/10/2019,2023-12-26, Isis Elan ,Full-time,off campus,581_,Check GPA,
+582,Felix,Kock,23,COMPUTER SCIENCE,1.2error,2020-06-17,2023-07-27,Felix Kocg,Full-time,off campus,582_,,
+583,Joan,Bennedsen,23,computer science,3.62,10/04/2020,2024-04-30,Joan Bennedsen,Online,on-campus,583_,Check GPA,
+584,Jennica,Lester,20,,1.94,06/17/2020,2024-05-06, Jennica Lester ,Part-time,oncampus ,584-repeat,OK,
+585,Chuck,Borchardt,twenty-five,Biology,10.68,03/20/2019,2025-07-16,Chuck Borchardt,Hybrid,,585,Advisor not assigned,
+586,Con,Ding,20,Computer Science,1.69,2020-05-05,2025-10-26, Con Ding ,Full-time, On-Campus ,586-dup,Check GPA,ABC999
+587,Seline,Ash,19,History,2.33,2019-12-09,,Seline Ash,Part-time,off campus,587,,ABC999
+588,Mitchell,Yurlov,24,Computer Science,3.14,07/15/2019,2025-12-16,Mitchell Yurlov,Part-time,on-campus,588-dup,Advisor not assigned,
+589,Milly,Plett,22,COMPUTER SCIENCE,3.72,2019-01-01,11/09/2024,Milly Plett,Hybrid, On-Campus ,589-repeat,,
+590,Julius,Ten Broek,unknown,History,0.39,05/25/2021,2024-11-25, Julius Ten Broek ,Part-time,off campus,590-dup,Advisor not assigned,
+591,Shirleen,Planks,21,,11.65,12/14/2019,03/19/2024,Shirleen Planks,Full-time,on-campus,591_,OK,
+592,Dario,Vernazza,23,History,4.04,01/08/2019,2024-04-20, Dario Vernazza ,Full-time,on-campus,592_,Check GPA,
+593,Evie,Brewood,21,Computer Science,1.75,2020-07-18,2025-08-06,Evie Brewood,Full-time,oncampus ,593-repeat,,
+594,Meta,De Benedetti,23,,1.02,09/05/2021,2025-04-30,Meta De Benedetti,Full-time, On-Campus ,594,Check GPA,
+595,Meryl,O'Feeney,23,Computer Science,0.91,2019-08-22,2024-04-28, Meryl O'Feeney ,Part-time,on-campus,595_,Check GPA,
+596,Pren,McFeat,20,,good,,2025-07-12,Pren McFeat,Online,on-campus,596-repeat,OK,
+597,Devland,Bromet,twenty-five,History,3.59,2019-08-24,2024-05-06,Devland Bromet,Part-time, On-Campus ,597_,OK,ABC999
+598,Randie,Giamelli,25,Hidtory,2.94,2024-09-15,2019-05-22,Randie Giamelli,Part-time,oncampus ,598_,OK,
+599,Calley,Ticic,24,History,1.46,01/18/2019,2023-12-03, Calley Ticic ,Full-time, On-Campus ,599-repeat,Advisor not assigned,
+600,Talbert,Platt,25,Computer Science,0.74,07/06/2019,12/23/2024,Talbera Platt,Online,OFFCAMPUS,600 extra,Check GPA,ABC999
+601,Leanna,Gookey,25,Computer Science,0.93,12/09/2020,2024-04-14,Leanna Gookey,Part-time,oncampus ,601-dup,,XYZ601
+602,Elysha,Sparshott,-5,History,3.75,2021-10-29,2023-11-15,Elysha Sparshott,Full-time,on-campus,602_,,
+603,Haslett,Panketh,19,Biology,2.32,2020-10-15,03/31/2024, Haslett Panketh ,Full-time, On-Campus ,603_,Advisor not assigned,
+604,Cordelia,Leber,23,History,15.0,10/08/2021,2023-08-14,,Full-time,on-campus,604-repeat,Good,
+605,Angele,Stiffell,18,Computer Science,1.16,09/30/2020,2024-12-31,Angele Stiffezl,Online,oncampus ,605,Advisor not assigned,
+606,Niko,Fintoph,24,History,0.81,2023-10-29,2020-12-18, Niko Fintoph ,Part-time,off campus,606_,,XYZ606
+607,Emile,Skewes,24,History,2.57,05/01/2020,10/31/2025,Emile Skewes,Full-time,on-campus,607-repeat,,ABC999
+608,Lillian,Chell,23,Computer Science,3.82,08/27/2019,2023-11-19,Lillian Chell,Full-time,off campus,608_,,
+609,Bernete,Cussons,24,Biology,2.45,,10/19/2024, Bernete Cussons ,Online,off campus,609_,Check GPA,XYZ609
+610,Etta,Millican,24,CompSci,good,12/29/2020,03/06/2025,Etta Millican,Full-time,off campus,610 extra,,
+611,Willie,Margiotta,24,Biology,1.26,invalid-date,2023-09-30,,Full-time, On-Campus ,611 extra,Check GPA,
+612,Bobby,Fowle,22,Computer Science,1.1,2019-08-01,2023-09-20,Bobby Fowle,Full-time,off campus,612_,OK,
+613,Frayda,McCord,18,CompSci,3.77,invalid-date,2025-02-04, Frayda McCord ,Full-time,off campus,613 extra,Advisor not assigned,XYZ613
+614,Blakeley,Skoughman,20,,-3.0,02/26/2021,11/17/2025, Blakeley Skoughman ,Full-time,on-campus,614-repeat,Advisor not assigned,
+615,Cinda,Englishby,twenty-five,Biology,good,07/30/2020,, Cinda Englishby ,Full-time,OFFCAMPUS,615 extra,OK,XYZ615
+616,Wyn,Gorry,23,History,good,2019-05-28,10/18/2024,Wyn Gorry,Full-time,off campus,616_,,
+617,Bertrand,Skough,102,history,2.87,2020-02-16,2025-10-27,,Part-time,,617,OK,ABC999
+618,Caddric,Overshott,22,Biology,0.95,02/08/2019,,Caddric Overshott,Full-time,off campus,618_,,
+619,Cobb,Mowling,21,History,good,2019-03-28,03/06/2023, Cobb Mowling ,Full-time,on-campus,619,OK,
+620,Roxy,Monteith,22,,1.88,01/08/2021,04/10/2025,Roxy Monteith,Full-time,off campus,620-repeat,OK,ABC999
+621,Gerhard,Harses,twenty-five,,3.13,02/02/2020,08/18/2024,Gerhard Harses,Online,on-campus,621,,XYZ621
+622,Heidi,Stait,19,Biology,0.62,2021-09-08,06/25/2023,Heidi Stait,Full-time,on-campus,622-repeat,Advisor not assigned,
+623,Hortensia,Farny,20,,0.66,2021-11-21,2025-12-02,Hortensia Farny,Part-time,oncampus ,623-dup,Check GPA,XYZ623
+624,Marty,Kulic,-5,Computer Science,0.45,03/07/2020,2023-02-25, Marty Kulic ,Hybrid,off campus,624_,Advisor not assigned,
+625,Frasquito,Bownd,21,Historq,3.82,01/03/2019,10/13/2025,Frasvuito Bownd,Full-time,oncampus ,625-repeat,,XYZ625
+626,Midge,Rohlfing,twenty-five,History,0.52,01/14/2020,2024-11-22,Midge Rohlfing,Online,on-campus,626 extra,Check GPA,
+627,Edwin,Roantree,21,,2.71,11/27/2020,05/10/2024,Edwin Roantree,Part-time,OFFCAMPUS,627 extra,Needs follow-up,
+628,Barny,Lamshead,25,Computer Science,0.09,2020-12-11,2023-04-06, Barny Lamshead ,Part-time,off campus,628,OK,
+629,Gunar,Culy,18,History,0.76,2019-11-26,2024-06-05,Gunar Culy,Part-time, On-Campus ,629,Check GPA,
+630,Nathan,Booler,25,Computer Science,1.08,2021-08-22,04/29/2025,Nathan Booler,Full-time, On-Campus ,630,Needs follow-up,XYZ630
+631,Cilka,Yurkin,23,Biology,3.72,2019-06-02,2023-10-12,Cilka Yurkin,Hybrid,off campus,631-dup,Advisor not assigned,XYZ631
+632,Broddie,Quinion,28,History,2.77,2020-11-15,04/23/2024,Broddie Quinion,Full-time,off campus,632-repeat,Advisor not assigned,
+633,Joni,Garz,20,,1.11,12/13/2021,2025-01-20,Joni Garz,Full-time,on-campus,633-dup,Needs follow-up,
+634,Marketa,Bonevant,24,History,good,10/29/2021,2024-06-12, Marketa Bonevant ,Part-time,off campus,634-dup,,XYZ634
+635,Berrie,Dusting,-5,Hiswory,0.51,2023-12-08,12/05/2020,,Full-time, On-Campus ,635_,Needs follow-up,
+636,Lyndsey,Buie,21,Biology,2.51,2019-05-08,02/18/2023,Lyndsey Buie,Full-time,off campus,636_,,
+637,Charlotte,Heffernan,14,History,good,01/22/2020,2025-05-03,Charlotte Heffernan,Online,OFFCAMPUS,637,Advisor not assigned,
+638,Griff,Eeles,24,Computer Science,0.54,2021-11-16,2024-09-22,Griff Eeles,Full-time,off campus,638,Good,
+639,Maurise,Barkshire,twenty-five,BUOLOGY,0.22,12/25/2021,2025-07-16,Maurise Barkshire,Part-time,off campus,639,Check GPA,
+640,Danyelle,Echalie,19,Computer Science,1.1,2020-08-19,05/09/2024,,Hybrid,on-campus,640-dup,,XYZ640
+641,Rennie,Scrowston,18,History,1.58,10/19/2019,03/03/2024,Rennie Scrowiton,Full-time,off campus,641_,Check GPA,XYZ641
+642,Rochette,Castles,21,Biology,2.04error,2020-08-15,08/03/2024,Rochette Castles,Full-time,off campus,642,Advisor not assigned,
+643,Costa,Caff,20,Computer Science,1.43,12/11/2020,2024-01-29,Costa Caff,Full-time,OFFCAMPUS,643_,Needs follow-up,
+644,Bud,Tibbles,18,Biology,good,11/12/2021,12/21/2023,BuduTibbles,Online, On-Campus ,644-dup,Check GPA,
+645,Laughton,Sisnett,unknown,History,1.88,2021-10-16,2025-11-21,Laughton Sisnett,Full-time,OFFCAMPUS,645-repeat,Advisor not assigned,
+646,Niles,Oldridge,24,History,1.37,2021-10-13,07/06/2025, Niles Oldridge ,Online, On-Campus ,646-dup,,
+647,Fitzgerald,Wallbridge,25,,0.2,03/24/2020,2023-03-24, Fitzgerald Wallbridge ,Full-time, On-Campus ,647_,Check GPA,
+648,Nicolas,Sherred,22,,4.01,2019-06-29,2025-06-24,Nicolas Sherred,Full-time,off campus,648-dup,Needs follow-up,
+649,Karin,Hansmann,18,CompSci,3.56,03/15/2021,2023-12-10,Karin Hansmann,Full-time,on-campus,649-repeat,,XYZ649
+650,Hashim,Lorkins,unknown,Biologn,15.0,2020-04-22,08/29/2024,Hashim Lorkins,Full-time,,650,Needs follow-up,
+651,Bruce,Treagust,23,Computer Science,3.44,invalid-date,2023-07-15,Bruce Treagust,Part-time,oncampus ,651-repeat,Check GPA,XYZ651
+652,Kaile,McGucken,21,History,0.46,06/09/2021,2023-04-16,Kaile McGucken,Part-time,off campus,652_,Check GPA,
+653,Galven,Jellis,25,Bivlogy,0.98,12/23/2020,2023-02-04,,Hybrid,off campus,653-repeat,Needs follow-up,XYZ653
+654,Kevon,Caustick,24,Biology,1.25,2020-01-24,07/27/2024, Kevon Caustick ,Full-time,off campus,654-repeat,Needs follow-up,
+655,Homer,Marqyes,23,Biology,0.38,12/18/2021,08/28/2025,Homer Marqyes,Full-time,off campus,655-dup,,
+656,Donnajean,Houndesome,24,History,1.07,03/21/2020,2023-11-10,Donnajean Houndesome,Full-time,on-campus,656,Check GPA,
+657,Felic,Stummeyer,18,Computer Science,0.34,2019-08-08,02/05/2024,Felic Stummeyer,Full-time,on-campus,657-repeat,Check GPA,ABC999
+658,Glennis,Le Noir,21,biology,1.61,2019-12-02,04/24/2024,,Online,on-campus,658 extra,,
+659,Mareah,Sparsholt,20,,1.82,05/18/2020,2025-11-02,Mareah Sparsholt,Full-time,off campus,659_,Check GPA,
+660,Wildon,Thring,25,,15.0,2019-06-09,2025-02-18,Wildon Thring,Full-time,on-campus,660,Check GPA,
+661,Shawn,Liquorish,25,Biology,1.94error,2020-11-09,2024-11-28,,Part-time,on-campus,661-dup,Check GPA,ABC999
+662,Tiffi,Cotes,twenty-five,History,good,2021-02-04,2023-09-16, Tiffi Cotes ,Full-time, On-Campus ,662 extra,Needs follow-up,
+663,Aeriel,Binner,23,History,good,07/22/2023,11/25/2021,,Online,oncampus ,663_,Check GPA,XYZ663
+664,Broddy,Belt,25,Biology,-3.0,05/17/2020,09/22/2023,Broddy Belt,Full-time,off campus,664,Advisor not assigned,
+665,Drucill,Blannin,20,Computer Science,2.9,2021-02-05,2023-01-08, Drucils Blannin ,Part-time,on-campus,665-repeat,Needs follow-up,
+666,Barth,Winspurr,20,COMPUTER SCIENCE,3.24,10/04/2021,09/21/2023, Barth Wiqspurr ,Full-time,oncampus ,666,Advisor not assigned,
+667,Ephrem,Hillaby,30,Biology,1.81,2021-02-05,2024-06-22,Ephrem Hillaby,Part-time,OFFCAMPUS,667_,Needs follow-up,XYZ667
+668,Maegan,Brownfield,20,History,1.15,06/16/2021,2025-04-12,Maegan Brownfield,Full-time,on-campus,668_,Advisor not assigned,
+669,Padget,Cosgry,20,History,0.14,05/23/2019,05/23/2023, Padget Cosgry ,Full-time,OFFCAMPUS,669_,Advisor not assigned,
+670,Konstantine,Pedri,22,History,0.49,03/09/2019,2024-10-27,Konstantine Pedri,Part-time,off campus,670 extra,,
+671,Nicolas,Lace,22,,2.88,2019-04-28,12/05/2024,Nicolas Lace,Full-time,off campus,671 extra,Needs follow-up,XYZ671
+672,Twila,Lowther,25,Computer Science,3.61,2020-03-09,2025-02-04,Twila Lowther,Part-time,on-campus,672-repeat,Check GPA,
+673,Sven,Antoszewski,18,History,0.62,06/13/2019,2025-06-05,Sven Antoszewski,Online,OFFCAMPUS,673-repeat,,
+674,Natasha,Abramovicz,18,History,good,2019-05-16,,Natasha Abramovicz,Online,OFFCAMPUS,674 extra,Advisor not assigned,ABC999
+675,Pollyanna,Paslow,19,History,1.81,2021-09-17,07/24/2025, Pollyanna Paslow ,Part-time,on-campus,675-dup,Good,ABC999
+676,Misti,Bjerkan,19,Computer Science,1.67,2020-11-30,08/30/2025,histi Bjerkan,Full-time, On-Campus ,676,Advisor not assigned,ABC999
+677,Andrey,Dayer,18,Biology,1.97,07/18/2023,03/09/2021,Andrey Dayer,Full-time, On-Campus ,677-repeat,Needs follow-up,
+678,Verna,Chaplin,23,Computer Science,2.26,2021-10-16,2024-09-21,Verna Chaplin,Part-time,on-campus,678-dup,,ABC999
+679,Reynard,Seiler,23,,3.43,03/20/2021,2023-07-14, Reynard Seiler ,Full-time,off campus,679-repeat,,XYZ679
+680,Roselia,Tongue,18,CompSci,2.85,2021-11-06,10/16/2023,Roselia Tojgue,Full-time,on-campus,680-repeat,Check GPA,XYZ680
+681,Jobie,Hatherill,21,History,2.81,2019-01-21,2025-10-18,Jobie Hatherill,Part-time,on-campus,681,Check GPA,
+682,Ned,Covil,24,Computer Science,good,2020-01-13,2025-04-30, Ned Covil ,Part-time,off campus,682,Check GPA,ABC999
+683,Amye,Peinke,24,Biology,3.63,06/04/2020,12/04/2023, Amye Peinke ,Full-time,,683_,OK,
+684,Aveline,Anthes,20,,0.03,2020-01-08,2024-02-23,Aveline Anthes,Full-time,on-campus,684_,Needs follow-up,
+685,Alexandrina,Finneran,21,CompSci,15.0,2019-03-17,2024-08-10,Alexandrina Finneran,Full-time,off campus,685-dup,Check GPA,
+686,Jareb,Larne,18,Computer Science,1.49,04/29/2020,01/11/2023,Jareb Larne,Hybrid,on-campus,686-repeat,Check GPA,ABC999
+687,Justino,Balaisot,25,History,-3.0,2019-10-30,12/14/2023,Justino Balaisot,Online,off campus,687_,,
+688,Louisette,Flament,20,Biulogy,2.91,01/08/2020,2024-07-22,Louisette Flament,Part-time, On-Campus ,688 extra,Needs follow-up,ABC999
+689,Ware,Revie,26,History,3.75,2019-04-24,08/05/2024,Ware Revie,Full-time,on-campus,689 extra,Needs follow-up,XYZ689
+690,Gretel,Richardes,19,,0.26,2021-02-27,03/26/2025,Gretel Richardes,Online,on-campus,690_,,
+691,Jess,Casacchia,-5,History,3.41,2019-01-27,2023-02-20, Jess Casacchia ,Part-time, On-Campus ,691-dup,Good,
+692,Annalise,Pietruszewicz,-5,,2.93,03/03/2021,06/14/2025,,Full-time,off campus,692,,
+693,Eveleen,Emanuele,19,Computer Science,0.53,,04/06/2023,Eveleen Emanuele,Full-time, On-Campus ,693 extra,,
+694,Maribelle,Cosyns,18,,0.3,09/28/2019,09/02/2025,Maribelle Cosyns,Online,oncampus ,694 extra,Advisor not assigned,XYZ694
+695,Saraann,Kenright,20,Biobogy,3.32,08/15/2019,2025-01-17,Saraann Kenright,Full-time,off campus,695-repeat,Needs follow-up,
+696,Karon,L'Episcopio,20,,2.83,05/27/2019,06/23/2023,Karon L'Episcopio,Hybrid,on-campus,696 extra,Check GPA,
+697,Nelle,Godball,23,Computer Science,good,02/08/2021,09/28/2024, Nelle Godball ,Hybrid,off campus,697 extra,Check GPA,
+698,Hester,Crix,20,Computer Science,3.7,2019-05-24,invalid-date,Hester Crix,Online,on-campus,698 extra,Advisor not assigned,
+699,Rudy,Angeau,25,Computer Science,0.82,2021-01-17,07/17/2024,Rudy Angeau,Hybrid,on-campus,699-repeat,,XYZ699
+700,Hans,Attfield,24,History,1.48,,2025-05-24,Hans Attfield,Part-time,off campus,700 extra,,
+701,Paxon,Linsay,22,Biology,1.12,2021-06-30,,Paxon Linsay,Hybrid,off campus,701 extra,OK,XYZ701
+702,Tina,Bewick,18,History,3.31,12/13/2021,2025-01-02,Tina Bewick,Full-time,off campus,702-repeat,OK,ABC999
+703,Sada,Sinclaire,unknown,Biology,1.78,2019-06-23,04/26/2023,,Full-time,on-campus,703 extra,Needs follow-up,
+704,Jeannie,Syddie,25,Biology,3.67error,12/10/2019,2025-01-26, Jeannie Syddie ,Full-time,on-campus,704 extra,,ABC999
+705,Jeralee,Scare,24,CompSci,2.24,10/11/2020,10/30/2023,Jeralee Scare,Full-time,OFFCAMPUS,705 extra,Check GPA,ABC999
+706,Pearle,Trippitt,21,History,10.52,2025-08-21,2020-03-25, Pearle Trippitt ,Online,off campus,706-repeat,Check GPA,
+707,Rosaleen,Holburn,25,computer science,1.12,03/12/2021,2023-10-16,Rosaleen Holburn,Full-time,on-campus,707-dup,OK,
+708,Clemmie,Hunnicutt,18,Computel Science,3.43,06/30/2019,2023-08-18,Clemmie Hunnicutt,Full-time,off campus,708 extra,Check GPA,
+709,Florentia,Meus,22,Computer Science,2.45,2019-02-18,10/31/2023, Florentia Meus ,Part-time, On-Campus ,709-repeat,,XYZ709
+710,Hamlin,Torrance,24,Biology,0.23,02/24/2019,02/08/2023,,Hybrid,on-campus,710_,Needs follow-up,
+711,Corrinne,Kedwell,102,Biology,3.39,2020-04-30,2023-04-15,Corrinne Kedwell,Online,on-campus,711 extra,Advisor not assigned,
+712,Aldon,Gristwood,23,CompSci,0.02,2019-01-27,2023-04-18,Aldon Gristwood,Full-time,off campus,712-repeat,Advisor not assigned,
+713,Ari,Gracey,24,Computer Science,3.11,10/30/2019,2024-11-25, Ari Gracey ,Full-time,off campus,713-dup,Advisor not assigned,ABC999
+714,Caz,Gillogley,-5,History,0.77,06/04/2020,02/11/2023, Caz Gillogley ,Online,off campus,714_,OK,
+715,Jeff,Durkin,21,giology,3.67,2025-02-04,04/02/2019,Jeff Durkin,Full-time,on-campus,715 extra,,
+716,Vi,Ead,20,Computer Science,-0.34,2021-03-07,2023-03-01,Vi Ead,Full-time,off campus,716-repeat,,XYZ716
+717,Chariot,Lofting,21,CompSci,1.52,11/24/2019,02/20/2024,Chariot Lofting,Online,on-campus,717 extra,Advisor not assigned,
+718,Quintina,McCullen,18,history,3.29,2021-11-08,12/03/2023, Quintina McCullen ,Hybrid,off campus,718-dup,Advisor not assigned,
+719,Edi,Sondland,19,History,1.7,03/11/2019,03/23/2025,,Part-time,off campus,719-dup,Needs follow-up,
+720,Richmond,Dickin,24,Biology,good,09/16/2021,03/09/2023,Richmond Dickin,Full-time,on-campus,720_,,
+721,Marika,Gilliver,24,History,3.34,2019-11-28,04/01/2024,Marika Gilliver,Full-time,,721-dup,Check GPA,XYZ721
+722,Giraud,Birchenough,18,Biology,3.98,06/12/2019,12/21/2025,Giraud Birchenough,Part-time,on-campus,722,,XYZ722
+723,Hallie,Sexcey,23,History,0.71,2020-08-15,2025-05-20, Hallie Sexcey ,Full-time, On-Campus ,723 extra,Advisor not assigned,
+724,Larry,Bushnell,19,History,2.46,01/21/2021,11/09/2025,Larry Bushnell,Full-time, On-Campus ,724-dup,,ABC999
+725,Andreas,Aspinall,24,,good,2019-01-23,2025-04-19,Andreas Aspinall,Full-time,OFFCAMPUS,725_,,
+726,Colas,Pantone,18,Biopogy,1.57,2020-11-18,11/25/2023,Colas Pantone,Full-time, On-Campus ,726_,Check GPA,
+727,Lavina,Surmeir,18,History,1.24,2019-06-24,04/06/2023,Lavina Surmeir,Full-time,off campus,727,Needs follow-up,
+728,Brendan,Karle,22,Computer Science,0.61,2019-01-08,08/04/2024, Brendan Kirle ,Hybrid,on-campus,728 extra,Good,
+729,Jarret,Sellack,25,,1.19,09/02/2020,2023-03-12, carret Sellack ,Part-time,OFFCAMPUS,729,,ABC999
+730,Shandee,Minnis,23,,1.68,07/20/2021,07/12/2023,Shandee Minnis,Hybrid,on-campus,730_,,XYZ730
+731,Jackie,Stayte,102,BIOLOGY,0.53,2019-09-27,05/16/2025,Jackie Stayte,Part-time,oncampus ,731_,Advisor not assigned,XYZ731
+732,Ericha,Hefferon,24,Biology,3.65,2021-01-02,09/02/2025, Ericha Hefferon ,Online,on-campus,732,Check GPA,
+733,Koenraad,Ogan,24,Computer Science,1.16,09/18/2025,2020-05-01, Koenraad Ogan ,Part-time,oncampus ,733 extra,Advisor not assigned,
+734,Roxie,Tuley,21,,2.38,2021-01-03,01/29/2025, Roxie Tuley ,Online,off campus,734-repeat,OK,XYZ734
+735,Michaeline,Spindler,25,Computer Science,3.29,2019-08-12,2023-10-25,Michaeline Spindler,Part-time,on-campus,735 extra,,ABC999
+736,Bartholomew,Finey,25,Biology,1.62,2020-11-28,07/24/2025,Bartholomew Finey,Part-time,off campus,736 extra,,
+737,Gil,Girardey,18,Computer Science,2.17,2021-05-12,, Gil Gtrardey ,Part-time, On-Campus ,737-dup,OK,
+738,Myrtie,Rembrandt,19,CompSci,3.56,2019-05-04,2023-10-22,Myrtie Rembrandt,Full-time,on-campus,738_,,
+739,Goldy,Ivory,21,,1.44,08/10/2020,06/15/2023, poldy Ivory ,Full-time,on-campus,739_,Advisor not assigned,
+740,Kev,Kondratovich,22,History,0.36,invalid-date,11/17/2025,Kev Kondratovich,Part-time,on-campus,740-dup,Good,
+741,Hamlin,Ivanuschka,22,History,0.64,09/24/2020,10/23/2023,Hamlin Ivanuschka,Full-time,off campus,741,Advisor not assigned,
+742,Dolores,Dinan,23,Biology,2.59error,2019-10-30,06/04/2023, Dolores Dinan ,Full-time,off campus,742_,,
+743,Breanne,McKeand,22,,2.09,03/08/2020,2025-05-28,Breanne McKeand,Part-time,,743-repeat,,XYZ743
+744,Theodosia,Flory,25,Biology,2.69,01/18/2019,07/30/2025, Theodosia Flozy ,Hybrid,off campus,744_,Good,
+745,Del,Dooher,23,History,15.0,04/15/2021,04/08/2023, Del Dooher ,Part-time,off campus,745-dup,,XYZ745
+746,Katey,Blower,23,CompSci,3.96,2020-08-15,2023-12-17,Katey Blower,Full-time,oncampus ,746-repeat,Advisor not assigned,ABC999
+747,Salmon,Skayman,-5,CompSci,1.46,10/01/2021,2025-04-11,Salmon Skayman,Hybrid,on-campus,747-dup,,
+748,Bancroft,Knowller,22,BIOLOGY,3.65,03/29/2020,2025-06-18,Bancroft Knowller,Online,off campus,748,Advisor not assigned,ABC999
+749,Alexia,Forte,19,Biology,0.46,08/31/2023,05/16/2020,,Online,oncampus ,749_,,
+750,Silvain,Siemantel,20,Biology,1.46,10/26/2025,2019-10-04, Silvain Siemantel ,Full-time,on-campus,750 extra,Advisor not assigned,
+751,Demetre,Qualtro,25,Computer Scienhe,1.6,12/11/2021,07/24/2024,,Full-time,OFFCAMPUS,751_,Advisor not assigned,ABC999
+752,Estell,Beaford,25,Biology,1.88,2019-02-17,2023-05-03, Estell Beaford ,Full-time,off campus,752-dup,Advisor not assigned,
+753,Drugi,Statton,25,History,2.9,2020-11-14,2025-10-16, Drugi Statton ,Full-time, On-Campus ,753,,XYZ753
+754,Kayla,Briatt,25,Biology,2.67,09/12/2021,,,Part-time,off campus,754-repeat,,ABC999
+755,Arliene,Bendin,20,History,2.44,09/30/2021,invalid-date,Arliene Bendin,Full-time,on-campus,755 extra,OK,
+756,Josefina,Philipard,20,Computer Science,0.62,2021-06-13,2023-07-10,Josefina Philipard,Full-time,off campus,756 extra,,
+757,Brandea,Kernell,18,Computer Science,1.09,2020-07-03,01/28/2024,Brandea Kernell,Online, On-Campus ,757-repeat,,
+758,Ross,Straun,20,Biology,15.0,11/02/2019,2025-04-17,Ross Straun,Full-time, On-Campus ,758-repeat,,XYZ758
+759,Melly,Cicculini,19,CompSci,1.01,07/23/2020,2024-10-03,Melly Cicculini,Online,oncampus ,759-repeat,Needs follow-up,
+760,Joscelin,Swyn,19,History,2.79,2020-05-09,07/29/2025,Joscelin Swyn,Full-time,on-campus,760,Advisor not assigned,
+761,Howie,Canas,23,Biology,0.72,02/05/2020,09/17/2025,Howie Canas,Full-time,off campus,761_,,XYZ761
+762,Nichols,Kores,25,bomputer Science,good,2020-01-22,2024-09-17,Nichols Kores,Online,off campus,762-dup,Check GPA,XYZ762
+763,Kellina,De Leek,18,,1.74error,2021-12-24,2023-02-28,Kellina De Leek,Full-time,off campus,763-repeat,Check GPA,
+764,Arleen,Daubney,102,,2.23,06/29/2019,2024-12-14, Arleen Daubney ,Full-time,off campus,764 extra,Check GPA,ABC999
+765,Phyllys,Marchbank,unknown,Biology,3.12,2021-09-29,2023-08-08,,Full-time,oncampus ,765 extra,Needs follow-up,
+766,Alvy,Brandi,25,biology,1.9,2020-07-15,2025-02-02,Alvy Brendi,Online,off campus,766_,,ABC999
+767,Millie,Chidgey,unknown,Hcstory,good,2021-01-30,07/06/2024,Millie Chidgey,Full-time,on-campus,767 extra,Advisor not assigned,
+768,Lorelei,Stoute,19,Biology,1.92,2020-02-17,2025-02-21,Lorelei Stoute,Part-time, On-Campus ,768-dup,,
+769,Kakalina,Usmar,24,History,2.37,invalid-date,06/19/2025, Kakalina Usmar ,Full-time, On-Campus ,769_,Check GPA,
+770,Issi,Shyres,24,Hisgory,2.71,09/12/2020,2025-09-14, Issi Shyres ,Full-time,oncampus ,770-repeat,Advisor not assigned,
+771,Riki,Siret,20,Computer Science,2.26,2020-04-02,2025-02-05, Riki Siret ,Full-time,on-campus,771-repeat,OK,ABC999
+772,Claudina,Di Franceschi,20,history,1.64,2021-11-28,05/17/2023, Claudina Di Franceschi ,Part-time, On-Campus ,772-repeat,Needs follow-up,
+773,Aila,de Najera,23,,2.11,2021-01-12,06/01/2024,Aila de Najera,Online,OFFCAMPUS,773,,
+774,Holly,Crass,24,,3.83,06/24/2021,2023-09-05,Holly Crass,Full-time,off campus,774_,Needs follow-up,
+775,Tabbitha,Entwistle,102,,3.94,2020-03-26,08/08/2023,Tabbitha Entwistle,Full-time,off campus,775,,
+776,Nestor,Errichiello,23,,11.46,2021-01-31,2023-11-06, Nestor Errichiello ,Full-time,oncampus ,776,,
+777,Dalston,Walkden,19,HISTORY,0.84,12/07/2021,2025-04-16, Dalston Walkden ,Hybrid,,777,OK,
+778,Raul,Duinkerk,20,CompSci,1.67,2019-01-23,2025-07-24,,Hybrid,off campus,778-repeat,Check GPA,
+779,Tris,Nerney,24,Computer Science,1.52,2020-03-10,2023-11-20,Tris Nerney,Part-time,OFFCAMPUS,779-dup,Advisor not assigned,
+780,Kahaleel,Wimpress,23,Computer Science,0.11,02/17/2021,01/09/2024, Kahaleel Wimpress ,Full-time,off campus,780 extra,Advisor not assigned,
+781,Noe,Mansel,twenty-five,,2.2error,08/28/2019,01/30/2024,Noe Maqsel,Full-time,OFFCAMPUS,781-dup,Needs follow-up,
+782,Murry,Becraft,21,Computer Science,3.05,01/26/2021,06/20/2023,Murry Becraft,Full-time,oncampus ,782_,,
+783,Brier,Klasen,19,Computer Science,0.39,2019-10-14,03/02/2023,Brier Klasen,Full-time, On-Campus ,783 extra,Check GPA,
+784,Rene,Applin,-5,History,3.66error,05/25/2019,07/21/2023,Rene Applin,Hybrid,off campus,784_,OK,
+785,Talbert,Philps,25,Biology,1.63,12/06/2020,11/17/2025,Talbert Philps,Full-time, On-Campus ,785 extra,Advisor not assigned,
+786,Emery,Gadeaux,20,Biology,2.98,2020-07-28,10/14/2023, Emery Gadeaux ,Hybrid,off campus,786 extra,,
+787,Elene,Seignior,15,Biology,2.73,2019-07-26,05/30/2025,Elene Seignior,Part-time,off campus,787-repeat,OK,ABC999
+788,Nickie,Gravey,25,Computer Science,3.15,2020-10-26,11/23/2025,Nickie Gravey,Part-time,on-campus,788 extra,,XYZ788
+789,Lyell,McCowan,19,Biology,0.25,01/14/2019,2024-03-05, Lyell McCowan ,Online,on-campus,789,,
+790,Baird,Favel,19,History,0.58,2021-01-07,08/17/2025,Baird Favgl,Part-time,off campus,790 extra,,
+791,Nadean,Sedger,19,,good,2021-08-26,08/07/2024,,Online,on-campus,791,Needs follow-up,
+792,Dorisa,Magee,23,Biology,0.46,02/26/2020,05/16/2025,Dorisa Magee,Part-time,off campus,792_,Needs follow-up,
+793,Ofelia,Nisard,22,History,3.31,11/18/2020,06/30/2025,Ofelia Nisard,Part-time,off campus,793_,Needs follow-up,
+794,Ardith,Heningam,18,Computer Science,2.03,09/30/2020,06/08/2024, Ardith Heningam ,Full-time,on-campus,794,Advisor not assigned,
+795,Concettina,Ferrey,102,Biology,3.38,2021-02-07,06/27/2025,Concettina Ferrey,Full-time,oncampus ,795-repeat,OK,
+796,Vernen,Manna,19,,1.53,09/06/2019,2024-07-10,Vernen Manna,Full-time,off campus,796_,,
+797,Linus,Yukhnov,-5,History,1.64,2020-05-25,06/14/2024,Linus Yukhnov,Full-time,oncampus ,797-dup,Needs follow-up,
+798,Wynne,Ottewill,25,Biology,1.94,11/15/2023,2021-06-07,Wynne Ottewill,Full-time,off campus,798-repeat,Needs follow-up,
+799,Maddy,Raylton,19,Coxputer Science,2.09,2025-12-24,2020-11-25, Maddy Raylton ,Part-time,on-campus,799-repeat,Needs follow-up,
+800,Mechelle,Greenland,18,Biology,2.53,05/19/2019,02/15/2025,Mechelle Greenland,Part-time, On-Campus ,800 extra,Needs follow-up,XYZ800
+801,Madalyn,Mose,18,history,0.53,2020-08-20,01/03/2023,Maoalyn Mose,Full-time,off campus,801-dup,Check GPA,XYZ801
+802,Amelina,Grimoldby,22,Computer Science,1.08,2021-02-05,2025-05-26,Amelina Grimoldby,Part-time,,802 extra,Needs follow-up,
+803,Galen,Perillo,25,Biology,11.69,12/06/2020,,Galen Perillo,Full-time, On-Campus ,803-dup,,XYZ803
+804,Onida,Moff,19,BIOLOGY,3.02,,2023-12-19,Onida Moff,Hybrid,on-campus,804,,
+805,Keri,Snasel,19,Computer Science,2.46,2020-08-11,2024-03-17,Keri Snasel,Full-time,off campus,805-repeat,Good,
+806,Ariella,Carlow,17,Biology,0.68,09/11/2020,2024-01-10,Ariella Carlow,Hybrid,on-campus,806-dup,Advisor not assigned,
+807,Wit,Bollands,15,Biology,0.71,08/28/2019,01/03/2025, Wit Bollands ,Full-time,off campus,807,Needs follow-up,ABC999
+808,Ody,Torrie,102,Biology,good,2020-08-19,2024-09-20, Ody Torrie ,Part-time,off campus,808_,,
+809,Sean,Westwood,18,BIOLOGY,15.0,02/20/2021,2023-09-14,Sean Westwood,Hybrid, On-Campus ,809-repeat,OK,
+810,Aubrette,Pimblott,23,biology,0.59,07/24/2021,05/06/2024,Aubrette Pimblott,Part-time,OFFCAMPUS,810-repeat,Check GPA,
+811,Loree,Barwise,24,History,good,invalid-date,09/01/2021, Loree Barwise ,Online, On-Campus ,811-repeat,Check GPA,
+812,Frank,Rugiero,23,COMPUTER SCIENCE,0.59,07/24/2021,2024-04-14,Frank Rugiero,Full-time,oncampus ,812_,,
+813,Lusa,Moules,24,Biology,3.07error,04/25/2019,2025-05-07,,Full-time,on-campus,813 extra,Advisor not assigned,
+814,Mack,Kilcoyne,25,Biology,0.28,2020-03-23,2024-03-12,Mack Kilcoyne,Full-time,OFFCAMPUS,814,Check GPA,
+815,Egbert,Paschke,18,History,3.21,2019-03-29,2024-02-23,Egbert Paschke,Full-time,on-campus,815_,Advisor not assigned,ABC999
+816,Giana,Davydychev,22,Biology,0.18error,01/03/2020,01/30/2023,Giana Davydychev,Part-time, On-Campus ,816,,XYZ816
+817,Anetta,Virr,20,History,0.32,,2023-04-17,fnetta Virr,Hybrid,oncampus ,817-dup,Good,
+818,Niel,Bilovsky,18,History,0.25,2020-08-28,02/06/2023,Niel Bilovsky,Part-time,OFFCAMPUS,818_,Needs follow-up,
+819,Orsola,Wearne,27,Biosogy,2.96,09/10/2021,07/19/2024,,Online,off campus,819,Check GPA,
+820,Judith,Greensite,25,Hrstory,2.18,07/04/2021,2025-08-15,Judith Greensite,Full-time,OFFCAMPUS,820-repeat,Needs follow-up,
+821,Bobbie,Long,22,,3.25,12/30/2019,2023-09-26, Bobbie Long ,Full-time,off campus,821_,Check GPA,XYZ821
+822,Beryl,Goldsworthy,25,Biolfgy,2.98,08/20/2021,03/08/2023,,Part-time,on-campus,822-dup,Needs follow-up,
+823,Sloan,Calderon,24,,2.82,12/07/2019,2025-06-01,Sloan Calderon,Online,off campus,823_,Check GPA,
+824,Robin,Janout,102,CompSci,0.5,2020-11-09,05/17/2023, Robin Janout ,Full-time,on-campus,824_,,ABC999
+825,Karalee,Blonfield,20,,3.41,09/02/2019,03/09/2023, Karalee Blonfield ,Part-time,OFFCAMPUS,825,,
+826,Valentijn,MacAless,twenty-five,History,1.65,02/15/2021,,Valentijn MacAless,Full-time,on-campus,826-repeat,,
+827,Juliann,Viveash,23,History,3.18,2020-08-15,10/10/2024,Juliann Viveash,Hybrid,OFFCAMPUS,827_,Advisor not assigned,
+828,Marco,Nicklen,25,mistory,2.36,02/22/2019,01/06/2025, Marco Nicklen ,Full-time,off campus,828-repeat,Needs follow-up,XYZ828
+829,Jaimie,Williams,20,HISTORY,2.35,2021-06-04,01/17/2024, Jaimie killiams ,Part-time,on-campus,829 extra,,ABC999
+830,Humfrid,Sterman,19,COMPUTER SCIENCE,2.45,06/19/2019,2023-03-16,Humfrid Sterman,Full-time,on-campus,830_,Check GPA,ABC999
+831,Gayler,Moro,23,History,2.35,01/15/2020,07/12/2023, Gayler Moro ,Full-time,on-campus,831_,OK,
+832,Alvis,Mitchely,24,Computer Science,2.42,07/29/2024,invalid-date,Alvis Mitchely,Part-time,off campus,832-dup,Advisor not assigned,
+833,Clywd,Caselli,twenty-five,History,1.99,05/17/2020,08/01/2025, Clywd Caselli ,Part-time,OFFCAMPUS,833-repeat,,
+834,Adriano,Samsin,24,Computer Science,1.45,07/23/2020,,mdriano Samsin,Hybrid,OFFCAMPUS,834_,,ABC999
+835,Avrom,Beck,102,CompSci,3.64,2021-11-01,12/11/2024, Avrom Beck ,Online,on-campus,835_,,XYZ835
+836,Averyl,Patton,23,,1.09,04/03/2020,2025-12-05, Averyl Patton ,Full-time,off campus,836,,
+837,Gloriane,Mc Coughan,24,History,2.98,2020-08-22,01/22/2025,Gloriane Mc Coughan,Full-time,,837-dup,Advisor not assigned,
+838,Carmine,Fleote,19,History,1.48,10/14/2019,,Carmine Fleote,Full-time,off campus,838,Good,
+839,Klarika,Coppeard,18,History,2.88,2021-05-24,2025-01-15, Klarika Coppeard ,Full-time, On-Campus ,839-repeat,Advisor not assigned,
+840,Farly,Vlasyuk,-5,Biology,0.84,2021-08-28,2023-02-05,Farly Vlasyuk,Online,oncampus ,840-dup,Good,ABC999
+841,Scarface,Janouch,24,History,0.37,07/11/2020,03/13/2024,Scarface Janouch,Full-time,oncampus ,841_,Needs follow-up,
+842,Conney,Dowson,19,Biology,3.73,2021-09-03,2025-04-19, Conney Dowson ,Full-time,OFFCAMPUS,842_,Needs follow-up,ABC999
+843,Giorgi,Spain,22,CompSci,3.94,2020-03-17,2025-01-25,Gisrgi Spain,Online, On-Campus ,843 extra,Good,
+844,Christie,Krzyzowski,24,History,0.67,08/14/2019,08/02/2024,Christie Krzyzowski,Full-time,on-campus,844 extra,OK,
+845,Burton,Skittrell,20,biology,0.67,2019-07-28,12/14/2024,Burton Skittrell,Full-time,off campus,845_,,
+846,Freddy,Clink,102,Biology,2.88,2020-10-17,07/05/2024,Freddy Clink,Full-time,off campus,846_,Check GPA,ABC999
+847,Gwendolin,Farrent,18,Computer Science,13.379999999999999,05/16/2023,2021-10-27,Gwendolin Faruent,Part-time, On-Campus ,847,,
+848,Nessi,MacColgan,18,Biology,-3.0,12/08/2020,,Nessi MacColgan,Hybrid,off campus,848 extra,Advisor not assigned,
+849,Costa,Eusden,18,Computer Science,0.63,2019-06-09,06/05/2025,Costa Eusden,Part-time,,849-repeat,OK,
+850,Abbie,Pettman,25,history,2.37,11/16/2020,10/22/2023,,Full-time,off campus,850_,Needs follow-up,
+851,Cob,O'Carrol,18,History,0.5,11/21/2020,04/15/2025,Cob O'Carrol,Part-time,off campus,851-dup,Check GPA,
+852,Aymer,Mattiussi,-5,History,11.81,2019-12-24,2025-06-10,Aymer Mattiussi,Full-time, On-Campus ,852,Advisor not assigned,ABC999
+853,Dolf,Hardin,25,HISTORY,0.76,2019-03-05,03/26/2023,Dolf Hardin,Full-time,off campus,853-dup,Check GPA,
+854,Mill,Terbeek,20,,1.43,2020-11-03,2024-07-26,Mill Terbeek,Full-time,off campus,854-repeat,Check GPA,
+855,Honey,Kuschke,21,History,1.72error,2019-08-28,02/18/2023, Honey Kuschke ,Full-time,off campus,855-dup,Advisor not assigned,
+856,Kacy,Sconce,22,CompSci,3.44,2020-02-20,2025-06-29,Kacy Sconce,Online,on-campus,856 extra,,
+857,Lanny,Lante,18,Histdry,3.94,2021-11-22,07/31/2025,Lanny Lante,Full-time,off campus,857-repeat,,
+858,Annissa,Bassano,20,biology,1.76,02/02/2021,2024-06-30,Annissa Bassano,Part-time,on-campus,858 extra,Check GPA,
+859,Brynn,Gaskamp,22,biology,1.28,11/09/2019,2024-05-15,Brynn Gaskamp,Full-time,on-campus,859-repeat,Needs follow-up,XYZ859
+860,Calypso,Breinl,19,computer science,1.5,12/21/2020,2024-11-06,Calypso Breinl,Hybrid,OFFCAMPUS,860-dup,Needs follow-up,XYZ860
+861,Adham,Profit,21,History,13.61,2019-01-11,07/12/2025,Adham Profit,Full-time,off campus,861_,Needs follow-up,
+862,Bettina,Halms,25,History,3.99,07/23/2020,01/29/2023,Bettina Halms,Full-time,off campus,862 extra,Advisor not assigned,
+863,Vittorio,Yukhnini,21,Biowogy,0.72,,12/09/2023,Vittorio Yukhnini,Online,off campus,863-dup,,
+864,Emmit,Orsman,twenty-five,,2.11,2019-05-11,2025-04-10, Emmit Orsman ,Full-time,,864 extra,Check GPA,XYZ864
+865,Adam,Ruddell,102,Biology,15.0,2021-07-03,2023-11-25, Adam Ruddell ,Full-time,on-campus,865-dup,,
+866,Thadeus,Habbergham,25,COMPUTER SCIFNCE,15.0,,11/24/2023,Thadeus Habbergham,Part-time,on-campus,866,,ABC999
+867,Torey,Matthisson,20,History,0.5error,2020-07-08,2024-12-31,Torey Matthisson,Full-time,on-campus,867 extra,Good,ABC999
+868,Zena,Rasell,30,Biology,2.35,2019-11-30,2025-01-06,,Full-time,off campus,868-repeat,Advisor not assigned,
+869,Cloe,Maydway,23,Biology,2.95,2019-07-18,04/25/2024, Cloe Maydway ,Full-time,off campus,869,Advisor not assigned,
+870,Ram,Bigg,22,Computer Science,0.1,2020-02-19,2025-04-10,,Online,,870,,ABC999
+871,Isaac,Kayley,18,Hcstory,3.45,11/16/2020,04/24/2023,Isaac Kayley,Hybrid,oncampus ,871,,
+872,Bordie,Squibb,24,CompSci,0.96,2025-02-17,06/04/2019,Bordie Squibb,Full-time, On-Campus ,872,Needs follow-up,
+873,Joshuah,Bartolijn,24,Biology,0.12,invalid-date,invalid-date,Joshuah Bartolijn,Part-time,oncampus ,873-repeat,Advisor not assigned,ABC999
+874,Christye,Freschini,23,Computer Science,2.78error,2020-07-22,2025-03-25, Christye Freschini ,Online,off campus,874 extra,,
+875,Odie,Valler,20,History,11.51,2020-11-02,06/18/2024, Odie Valler ,Full-time,on-campus,875-dup,,
+876,Iolanthe,Mawdsley,18,Biology,1.44,11/14/2019,02/05/2024,Iolanthe Mawdsley,Part-time, On-Campus ,876-dup,,
+877,Tonia,Trainor,19,COMPUTER SCIENCE,good,02/22/2021,02/15/2025, Tonia Trainor ,Part-time,off campus,877,,ABC999
+878,Ashely,Kiessel,13,History,2.82,2021-07-21,03/07/2024, Ashely Kiessel ,Online,on-campus,878_,Advisor not assigned,
+879,Melita,Tebbutt,twenty-five,Biology,0.88,11/07/2021,2024-12-04,Melita Tebbutt,Part-time,off campus,879_,Needs follow-up,
+880,Jedd,Paireman,25,HISTORY,0.53,04/05/2021,2023-07-24,Jedd Paireman,Full-time,off campus,880 extra,,
+881,Hale,Mc-Kerley,21,History,15.0,08/09/2020,09/01/2024, Hale Mc-Kerley ,Full-time,on-campus,881-dup,,
+882,Carmen,Rosas,23,Biology,2.14,12/13/2019,2024-10-31,Carmen Rosas,Part-time,off campus,882-dup,Advisor not assigned,
+883,Granthem,Spindler,25,Hibtory,3.8,08/11/2019,2025-02-04,Granthem Spindler,Part-time,off campus,883-dup,Check GPA,ABC999
+884,Kristofer,Dominichetti,22,Biology,1.31,2019-07-12,10/24/2023,Kristofer Dominichetti,Full-time,on-campus,884,,
+885,Aland,Pryke,twenty-five,History,0.7,2020-09-26,02/09/2024, Aland Pryke ,Full-time,on-campus,885_,Needs follow-up,
+886,Robbie,Griffey,25,Computer Science,3.52,01/31/2021,05/04/2025, Robbie Griffey ,Part-time,off campus,886-repeat,,
+887,Sherwood,Orringe,23,,11.59,2021-05-18,2023-11-01,Sherwood Orrinme,Full-time,oncampus ,887-repeat,,
+888,Fifine,Dewett,unknown,Computer Science,1.79,2020-06-17,2023-08-19,Fifine Dewett,Hybrid,off campus,888-repeat,Advisor not assigned,
+889,Dori,Curbishley,18,Computer Science,good,09/25/2019,03/07/2023, Dori Curbishley ,Online,,889 extra,OK,
+890,Cointon,Pendlebery,20,,3.35,05/30/2019,invalid-date, Cointon Pendlebery ,Part-time,on-campus,890_,,
+891,Frederico,Ceillier,22,History,0.03,2019-07-30,2025-11-10, Frederico Ceillier ,Online,off campus,891-repeat,,
+892,Krishna,Eskrick,22,History,1.06,2020-07-16,08/17/2023,,Full-time,on-campus,892,,
+893,Basilius,Clowney,24,Computer Science,1.95,2020-04-20,2024-02-11,Basilius Clowney,Full-time,off campus,893-dup,,
+894,Claudelle,Dunk,20,,2.81,2020-11-22,12/19/2025,Claudelle Dunk,Part-time, On-Campus ,894_,,
+895,Angelina,Swinley,24,CompSci,11.65,2020-01-08,,Angelina Swinley,Full-time,on-campus,895-repeat,Needs follow-up,XYZ895
+896,Brion,Brown,23,Biology,2.96,04/17/2021,10/25/2024,Brion Brown,Full-time,off campus,896-repeat,Check GPA,XYZ896
+897,Shirl,Foad,19,biology,13.77,02/10/2019,2025-12-28,Shirl Foad,Full-time,on-campus,897 extra,Needs follow-up,
+898,Dannie,Kleanthous,20,CompSci,2.0error,2021-02-23,02/07/2024, Dannie Kleanthous ,Part-time,OFFCAMPUS,898 extra,,
+899,Terry,Starton,19,,0.47error,11/13/2019,02/17/2023,Terry Starton,Online,on-campus,899,,XYZ899
+900,Ludwig,Jindrak,18,Computer Science,15.0,2024-04-11,09/04/2019,Ludwig Jindrak,Part-time,on-campus,900_,,
+901,Linet,Chadburn,23,,-3.0,04/06/2020,10/18/2023,Linet Chadburn,Full-time,off campus,901_,,XYZ901
+902,Karen,Zelland,22,History,3.75,2021-08-19,2024-06-05,Karen Zelland,Part-time,off campus,902 extra,Advisor not assigned,
+903,Mannie,Giamitti,twenty-five,History,1.82,2019-05-13,2025-09-03, Mannie Giamitti ,Part-time,oncampus ,903-dup,,
+904,Humfrey,Durden,24,,3.7,2019-12-10,2023-10-20,Humfrey Durden,Full-time, On-Campus ,904-dup,,
+905,Eduardo,Tow,22,History,1.17,03/30/2019,2024-01-21,Eduardo Tow,Full-time,on-campus,905,Needs follow-up,
+906,Maryann,Landsman,23,Computer Science,1.34,08/06/2019,2025-04-03, Maryann Landsman ,Part-time, On-Campus ,906-repeat,Check GPA,
+907,Somerset,Buckel,25,Biology,3.93,2020-10-15,01/21/2023,Somerseo Buckel,Hybrid,off campus,907_,Needs follow-up,ABC999
+908,Chery,Dorcey,21,COMPUTER SCIENCE,2.19,03/14/2020,2024-12-19,Chery Dorcey,Full-time,on-campus,908 extra,,
+909,Olav,Ewen,28,Computer Science,0.79,2021-02-04,2023-10-18, Olav Ewen ,Online,off campus,909-repeat,,
+910,Tallou,Elsbury,19,BIOLOGY,2.18,11/01/2019,invalid-date,Tallou Elsbury,Full-time,on-campus,910,Needs follow-up,
+911,Dyanna,Brise,twenty-five,,3.44,2019-03-19,01/08/2025,Dyanna Brise,Full-time,,911-repeat,Check GPA,
+912,Hendrick,Osanne,19,History,3.94,06/30/2021,2024-02-15,Hendrick Osanne,Online,off campus,912,Needs follow-up,
+913,Rickey,Varnam,24,Biology,3.13,,06/15/2025,Rickey Varnam,Full-time,off campus,913-dup,Check GPA,
+914,Amalie,Keeves,22,Biology,1.95,10/16/2020,12/21/2025,Amalie Keebes,Full-time,on-campus,914 extra,Good,
+915,Shawn,Gwyllt,24,Biology,1.08,02/25/2020,invalid-date,Shawn Gwyllt,Hybrid,off campus,915 extra,Needs follow-up,XYZ915
+916,Ulberto,Tatters,14,Historv,3.82,2020-04-19,2025-11-08, Ulberto Tatters ,Online,off campus,916_,Advisor not assigned,ABC999
+917,Cosmo,Jaycock,20,,1.04,2019-08-12,02/04/2025, Cosmo Jaycock ,Online,,917,Check GPA,ABC999
+918,Wynne,Louca,23,History,3.38,06/24/2021,2025-11-10, Wynne Louca ,Hybrid,off campus,918_,,
+919,Merwyn,MacAless,unknown,BIOLOGY,1.95,05/10/2023,10/24/2019, Merwyn MacAless ,Hybrid,OFFCAMPUS,919-dup,Check GPA,XYZ919
+920,Violante,Shemmin,24,history,2.92,07/12/2021,2024-04-06,Violante Shemmin,Part-time,oncampus ,920-repeat,Good,
+921,Ignacius,Tartt,25,History,15.0,2021-08-25,02/18/2024, Ignacius Tartt ,Hybrid,off campus,921-repeat,Needs follow-up,ABC999
+922,Florry,Valente,22,HISTORY,2.12,2020-09-04,03/26/2025, Florry Valente ,Full-time,on-campus,922 extra,Advisor not assigned,
+923,Catlee,Sagg,24,Computer Science,1.48,2019-12-16,2024-12-28,Catlee Sagg,Part-time,off campus,923-repeat,,ABC999
+924,Sandro,Sambedge,25,Computer Scienle,0.08,2021-02-04,04/21/2024,Sandro Sambedge,Full-time, On-Campus ,924,Check GPA,
+925,Maximilian,Gossling,-5,Biology,2.93,2021-08-16,2025-08-22,Maximilian Gossling,Part-time,off campus,925-dup,Check GPA,
+926,Alfy,Eastope,20,biology,2.06,01/25/2021,2024-04-28, Alfy Eastope ,Part-time,on-campus,926-repeat,,XYZ926
+927,Imojean,Sparkwill,20,Biology,1.85,01/22/2020,2023-09-11, Imojean Sparkwill ,Hybrid,on-campus,927 extra,,
+928,Matty,Calcutt,unknown,History,1.8,07/30/2019,11/18/2024,Matty Calcutt,Full-time, On-Campus ,928,,
+929,Nathanael,Kimmins,19,Computer Science,2.17,2021-06-08,2023-02-01,Nathanael Kimmins,Full-time,on-campus,929_,Needs follow-up,
+930,Carena,Spillard,unknown,Biology,1.31,03/21/2021,2024-08-22,Carena Spillarn,Part-time,off campus,930_,,
+931,Demetri,Parrot,23,,2.6,2019-02-24,10/05/2023,Demetri Parrot,Full-time,off campus,931 extra,Needs follow-up,XYZ931
+932,Kevon,Muscott,23,Hxstory,3.24,2021-06-02,08/06/2025, Kevon Muscott ,Full-time,off campus,932-dup,OK,
+933,Herrick,O'Neary,25,,15.0,,03/16/2024,Herrick O'Neary,Online,oncampus ,933-dup,OK,
+934,Culley,Snoxall,23,History,1.35,2021-07-29,05/08/2023,Culley Snoxall,Online,on-campus,934-repeat,,
+935,Chris,Cranefield,twenty-five,Biology,15.0,2020-12-27,2023-05-12,Chris Cranefield,Part-time,oncampus ,935,,
+936,Lanita,Costa,19,Biology,2.34,04/07/2021,09/26/2024, Lanita Costa ,Full-time,oncampus ,936-dup,Check GPA,
+937,Jenny,Giacovazzo,102,BIOLOGY,0.95,2020-06-02,02/02/2025,Jenny Giacovazzo,Hybrid, On-Campus ,937-repeat,Advisor not assigned,
+938,Milli,Slay,25,,0.96,,2025-11-05,Milli Slay,Online,oncampus ,938-dup,,
+939,Amalea,Boliver,23,History,0.61,2020-09-10,invalid-date,Amalea Boliver,Full-time,OFFCAMPUS,939,Needs follow-up,
+940,Allyn,Sandyford,22,,3.51,2025-12-30,2020-03-09,Allyn Sandyford,Full-time,on-campus,940-dup,Needs follow-up,
+941,Aggie,Pimlett,17,Computer Science,0.99,2020-10-03,11/16/2024,,Online,oncampus ,941-dup,OK,
+942,Hubey,Skyrm,22,,15.0,invalid-date,2023-08-21, Hubey Skyrm ,Part-time,on-campus,942-repeat,,XYZ942
+943,Drucie,Leivers,18,Biology,15.0,07/21/2020,05/13/2025,Drucie Leivers,Full-time,off campus,943-dup,Advisor not assigned,
+944,Felicio,Donizeau,23,Computer Science,0.76,08/23/2021,06/05/2023,Felicio Donizeau,Part-time,off campus,944,Check GPA,
+945,Daphna,Behnecken,102,ComputerpScience,1.82,2023-06-06,10/17/2021,Daphna Behnecken,Online,on-campus,945-repeat,Needs follow-up,
+946,Elisabet,Croxford,-5,Biology,3.65,2019-06-05,10/22/2024,Elisabet Croxford,Hybrid, On-Campus ,946_,Check GPA,
+947,Durant,Waplington,20,Computer Science,3.75,2020-05-01,09/14/2023,Durant Waplington,Hybrid,on-campus,947,Needs follow-up,XYZ947
+948,Kathryne,Belchamber,19,Biolohy,15.0,2019-04-05,2025-05-12,Kathryne Belchamber,Full-time,off campus,948-dup,Check GPA,
+949,Burl,Praundl,29,Computer Science,2.08,12/11/2020,2023-02-28,Burl Praundl,Full-time,off campus,949,,
+950,Todd,Drayton,24,,0.15,01/24/2021,invalid-date,Todd Drayton,Full-time, On-Campus ,950-repeat,,ABC999
+951,Ben,De Hailes,19,,0.4,2021-03-07,invalid-date,Ben De Hailes,Full-time,on-campus,951-dup,Advisor not assigned,
+952,Arnaldo,Van Der Hoog,unknown,Computer Science,1.92,01/28/2020,10/15/2023, Arnaldo Van Der Hoog ,Full-time,on-campus,952 extra,Check GPA,
+953,Aleta,Adamides,23,Biology,3.57,09/21/2021,07/08/2024, Aleta Adamides ,Online,oncampus ,953_,OK,
+954,Barrie,Cotter,21,,1.1,04/09/2021,03/26/2024, Barrie Cotter ,Full-time,OFFCAMPUS,954,OK,
+955,Shayna,Cooksey,22,History,3.91,03/17/2019,2025-05-21,,Part-time,on-campus,955-dup,,
+956,Yuma,Runnicles,23,Computer Science,2.61,2021-09-10,2024-12-14,Yuma Runnicles,Part-time,off campus,956,,XYZ956
+957,Wally,Donnersberg,24,Biology,2.21,2020-07-02,2024-06-11,Wally Donnersberg,Full-time,OFFCAMPUS,957-dup,Check GPA,ABC999
+958,Roobbie,Josh,22,Biology,1.48,01/27/2019,02/23/2023,Roobbie Josh,Full-time,on-campus,958,,
+959,Cullen,Phuprate,23,,1.88error,03/20/2020,12/12/2024, Cullen Phuprate ,Full-time,off campus,959,,
+960,Kippie,Nardoni,25,Biology,0.56,10/31/2021,04/16/2023,Kippie fardoni,Hybrid,,960 extra,Good,
+961,Noelyn,Merrisson,25,,3.19,02/16/2019,08/30/2023,Noelyn Merrisson,Hybrid,on-campus,961-dup,Advisor not assigned,
+962,Pegeen,Leinster,unknown,Computer Science,-3.0,2019-04-22,2023-03-15,Pegeen Leinster,Online,off campus,962 extra,Needs follow-up,
+963,Koressa,Bly,21,Biology,2.64,2020-03-19,,Koressa Bly,Full-time,off campus,963,Needs follow-up,
+964,Ingrim,Roggers,23,Biology,3.62,10/01/2020,12/27/2023, Ingrim Roggers ,Full-time,off campus,964_,Needs follow-up,
+965,Carlina,Meharry,20,History,-3.0,08/18/2020,2025-01-09, Carlina Meharry ,Part-time,off campus,965-dup,OK,
+966,Nappie,Aris,19,History,12.52,03/14/2019,,Nappie Aris,Full-time,on-campus,966,Needs follow-up,ABC999
+967,Stephan,Frude,23,,2.9,2019-07-16,08/29/2023,Stephan Frude,Full-time,OFFCAMPUS,967,,XYZ967
+968,Iggie,Anetts,unknown,Bidlogy,3.1,01/06/2019,2023-06-21, Iggie Anetts ,Full-time,on-campus,968,,XYZ968
+969,Jenda,Longland,23,Histlry,12.78,09/20/2019,11/03/2024,Jenda Longland,Part-time, On-Campus ,969-repeat,Good,
+970,Avril,Asaaf,18,,3.06,2019-09-14,12/16/2025,Avril Asaaf,Part-time,oncampus ,970_,,
+971,Marissa,Tuffrey,25,Biolzgy,3.89,02/13/2020,2025-02-11,Marissa Trffrey,Full-time,off campus,971-repeat,Needs follow-up,
+972,Madonna,Hazeldean,25,History,0.26,07/06/2021,2024-04-06,Madonna Hazeldean,Part-time,off campus,972-dup,,
+973,Moe,Brimley,25,,0.72,03/23/2021,2025-06-16,Moe Brimley,Full-time,off campus,973_,,ABC999
+974,Jannelle,Kleyn,19,Biology,12.66,09/09/2021,2025-07-05,Jannelle Kleyn,Part-time,off campus,974,,
+975,Faydra,Trippett,unknown,History,2.01,06/28/2019,02/09/2024, Faydra Trippett ,Online,oncampus ,975 extra,Needs follow-up,
+976,Brockie,Zuppa,25,Biology,good,2020-02-16,06/19/2025, Brockie Zuppa ,Full-time,off campus,976_,Check GPA,
+977,Norine,Geffcock,19,,2.99,2019-02-27,10/07/2025,Norine Geffcock,Part-time,off campus,977 extra,Advisor not assigned,XYZ977
+978,Herve,Sword,twenty-five,,0.84,07/23/2021,02/21/2024,Herve Sword,Full-time,on-campus,978_,OK,
+979,Laina,Traher,23,Biology,0.23,2020-11-06,09/24/2025,Laina Traher,Part-time, On-Campus ,979 extra,Advisor not assigned,
+980,Ina,Gustus,unknown,,2.33,2020-02-03,2023-04-05,Ina Guztus,Part-time,off campus,980-repeat,Advisor not assigned,ABC999
+981,Melesa,Kift,24,Biology,1.79,01/29/2019,2025-03-19, Melesa Kift ,Full-time,off campus,981 extra,OK,
+982,Ravi,Shafto,19,,2.63,2019-10-30,2024-08-25,Ravi Shafto,Hybrid,off campus,982-dup,Check GPA,XYZ982
+983,Tiffanie,Sagerson,23,Biology,2.19,2020-02-16,2024-10-24, Tiffanie Sagerson ,Part-time,,983,Advisor not assigned,XYZ983
+984,Mohandis,Flitcroft,20,ComputereScience,0.1,2019-08-15,2024-07-04,Mohandis Flitcroft,Full-time,off campus,984-repeat,Advisor not assigned,XYZ984
+985,Bartolomeo,Stichall,21,Biology,3.64,2021-05-22,08/20/2024,Bartolomeo Stiphall,Full-time,on-campus,985-repeat,Needs follow-up,
+986,Dita,Langstaff,23,computer suience,3.19,06/05/2021,04/15/2023, Dita Langstaff ,Part-time,,986_,Check GPA,ABC999
+987,Elisha,Stallworthy,twenty-five,Computer Science,10.02,2019-07-26,08/23/2024, Elisha Stallworthy ,Hybrid,oncampus ,987,Good,ABC999
+988,Brandy,Grieger,23,History,15.0,2019-08-20,2025-09-26,Brandy Grieger,Full-time,on-campus,988-dup,Advisor not assigned,ABC999
+989,Cherish,Merrison,19,History,1.8,11/12/2021,2025-08-23,Cherish Merrison,Full-time,oncampus ,989-repeat,Check GPA,
+990,Armando,Arnull,25,History,3.63,01/03/2020,2024-01-07,Armando Arnull,Full-time, On-Campus ,990 extra,,
+991,Klement,Latham,20,,0.48,01/24/2021,,Klement Latham,Full-time,oncampus ,991,Check GPA,XYZ991
+992,Port,Knok,22,Biology,3.29,2020-06-04,12/25/2025, Port Knok ,Part-time,on-campus,992-dup,Check GPA,
+993,Hurlee,Moses,twenty-five,BIOLOGY,15.0,2020-05-02,03/16/2024,Hurlee Moses,Hybrid, On-Campus ,993,,
+994,Rozelle,Felderer,25,,good,06/28/2019,11/15/2025,Rozelle Felderer,Full-time, On-Campus ,994_,Check GPA,
+995,Oliy,Goosey,22,Historp,0.18,2021-10-15,06/06/2025,Oliy Goosey,Part-time,oncampus ,995,,
+996,Elizabeth,Lobe,23,History,good,2020-02-06,01/15/2025, Elizabeth Lobe ,Full-time, On-Campus ,996-repeat,Needs follow-up,
+997,Ileana,Franzettoini,18,CompSci,3.5,2019-05-04,2023-04-18,Ileana Franzettoini,Hybrid,,997 extra,,
+998,Rollins,Gaskoin,21,History,-3.0,2020-08-14,08/15/2024, Rollins Gaskohn ,Full-time, On-Campus ,998-repeat,Check GPA,ABC999
+999,Lisetta,Hanley,25,Biology,3.47,04/05/2021,2024-12-15,,Full-time,on-campus,999_,OK,
+1000,Barrie,Dahlbom,19,,3.03,05/14/2021,2024-10-11,Barrie Dahlbom,Online, On-Campus ,1000-dup,Good,XYZ1000
+850,Abbie,Pettman,25,History,2.37,11/16/2020,10/22/2023,,Full-time,off campus,850_,Needs follow-up,
+777,Dalston,Walkden,19,History,0.84,12/07/2021,2025-04-16, Dalston Walkden ,Hybrid,,777,OK,XYZ777
+272,Reinald,Semmens,18,Biology,1.71,07/22/2019,2023-02-05,Reinald Semmens,Online,oncampus ,272-dup,Good,ABC999
+52,Isidoro,Vasnev,22,History,0.02,invalid-date,03/10/2023,Isidoro Vasnev,Full-time,on-campus,52 extra,Needs follow-up,
+59,Rudolph,Rosenblath,24,History,0.53,2019-04-15,08/10/2025, Rudolph Rosenblath ,Online,oncampus ,59-repeat,Needs follow-up,XYZ59
+374,Christiano,Palluschek,24,History,2.76,07/28/2021,2023-06-24,Christiano Palluschek,Full-time,oncampus ,374,OK,
+855,Honey,Kuschke,21,History,-3.0,2019-08-28,02/18/2023, Honey Kuschke ,Full-time,off campus,855-dup,Advisor not assigned,
+46,Beale,Orteu,25,Biology,1.45,01/31/2019,11/13/2024,Beale Orteu,Part-time,off campus,46-dup,,XYZ46
+742,Dolores,Dinan,23,biology,-3.0,2019-10-30,06/04/2023,Dolores Dinan,Full-time,off campus,742_,,
+74,Benn,Bottomore,21,Biology,3.51,2021-09-26,2025-11-09,Benn Bottomore,Full-time,on-campus,74_,Check GPA,
+444,Bond,Noirel,twenty-five,Biology,0.25,2021-12-04,2024-12-08,Bond Noirel,Part-time,on-campus,444-repeat,,ABC999
+938,Milli,Slay,25,History,0.96,,2025-11-05, Milli Slay ,Online,oncampus ,938-dup,,
+198,Clevie,Houdhury,22,Computer Science,0.55,2019-04-09,03/28/2023, Clevie Houdhury ,Full-time,on-campus,198-repeat,Needs follow-up,
+365,Burg,Nerne,22,History,0.43,2019-12-20,2025-02-24,Burg Nerne,Hybrid,off campus,365-repeat,Advisor not assigned,ABC999
+73,Huey,St. John,18,History,10.37,02/23/2019,2023-05-04,Huey St. John,Online,on-campus,73-repeat,Check GPA,
+229,Shandy,O'Regan,19,Biology,3.42error,07/15/2021,02/28/2025,Shandy O'Regan,Full-time,off campus,229,OK,
+619,Cobb,Mowling,21,HISTORY,good,2019-03-28,03/06/2023,Cobb Mowling,Full-time,on-campus,619,OK,
+407,Lu,Corton,twenty-five,History,1.46,2019-07-03,01/23/2024, Lu Corton ,Full-time,on-campus,407-repeat,OK,ABC999
+298,Jenine,Tilbrook,25,History,2.24,2021-02-01,2024-08-21,Jenine Tilbrokk,Full-time,off campus,298-repeat,,
+413,Jacquelynn,Wardle,twenty-five,Computer Science,2.01,2019-03-24,2024-10-06,Jacquelynn Wardle,Full-time,on-campus,413 extra,,XYZ413
+416,Wernher,Davy,twenty-five,Computer Science,12.6,11/23/2021,2025-05-05,Wernher Davy,Full-time,on-campus,416,Advisor not assigned,
+977,Norine,Geffcock,19,History,2.99,2019-02-27,10/07/2025,Norine Geffcock,Part-time,off campus,977 extra,Advisor not assigned,XYZ977
+709,Florentia,Meus,22,Computer Science,2.45,2019-02-18,10/31/2023, Florentia Meus ,Part-time, On-Campus ,709-repeat,,
+45,Shelly,Brigge,18,Computer Science,1.43,2019-04-08,2023-02-07,Shelly Brigge,Part-time,off campus,45,Advisor not assigned,
+310,Cort,Bellee,21,Biology,1.77,12/06/2023,03/24/2021,Cort Bellee,Full-time,off campus,310,,ABC999
+622,Heidi,Stait,19,Biology,0.62,2021-09-08,06/25/2023,Heidi Stait,Full-time,on-campus,622-repeat,Advisor not assigned,
+97,Hatti,Pasley,102,Biology,0.8,2021-09-13,2025-07-19,Hatti Pasley,Part-time,off campus,97 extra,OK,ABC999
+190,Hale,Rubenczyk,18,Biology,1.85,,2024-02-24,Hale Rubenczyk,Full-time,OFFCAMPUS,190 extra,Check GPA,XYZ190
+898,Dannie,Kleanthous,20,Historv,2.0error,2021-02-23,02/07/2024, Dannie Kleanthous ,Part-time,OFFCAMPUS,898 extra,,
+70,Lisette,Strothers,21,,-0.08,10/12/2021,08/22/2023,,Full-time,on-campus,70 extra,,ABC999
+569,Waiter,Dowry,24,history,0.01,01/04/2021,2025-05-30,Waiter Dowry,Online,,569 extra,Good,XYZ569
+664,Broddy,Belt,25,Biology,0.09,05/17/2020,09/22/2023, Broddy Belt ,Full-time,off campus,664,Advisor not assigned,XYZ664
+334,Ellswerth,Chason,21,Biology,2.03,2019-11-19,2025-11-30,Ellswerth Chason,Hybrid,on-campus,334-dup,Good,
+3,Cloris,Jouanny,102,,0.57,08/01/2020,09/12/2023,Cloris Jouanny,Full-time,on-campus,3-dup,Check GPA,XYZ3
+412,Denni,Sedger,19,Biology,10.2,02/05/2019,2023-07-18,Denni Sedger,Part-time,on-campus,412-repeat,Needs follow-up,
+468,Joshia,Patrone,18,Biology,2.06,02/19/2021,04/06/2024,Joshia Patrone,Part-time,on-campus,468,,
+217,Balduin,Dasent,24,,10.54,06/21/2021,2023-04-23,Balduin Dasent,Part-time, On-Campus ,217-repeat,Check GPA,
+548,Melisande,Smither,20,History,2.25,2019-08-12,01/19/2023, Meliaande Smither ,Part-time,on-campus,548-dup,Check GPA,
+653,Galven,Jellis,25,Bivlogy,0.98,12/23/2020,2023-02-04,,Hybrid,off campus,653-repeat,Needs follow-up,ABC999
+391,Westley,Hadden,102,Computer Science,1.32,07/20/2020,11/16/2023,Westley Hadden,Full-time, On-Campus ,391,,
+254,Giovanna,Maccari,23,Biology,0.28,invalid-date,,Giovanna Maccari,Full-time, On-Campus ,254,Check GPA,
+541,Selestina,Embury,20,Computer Science,12.57,2019-09-04,invalid-date,,Part-time,off campus,541 extra,Check GPA,
+254,Giovanna,Maccari,23,Biology,-3.0,invalid-date,, Giovanna Maccari ,Full-time, On-Campus ,254,Check GPA,
+920,Violante,Shemmin,24,History,2.92,07/12/2021,2024-04-06, Violante Shemmin ,Part-time,oncampus ,920-repeat,Good,ABC999
+601,Leanna,Gookey,25,Computer Science,0.93,12/09/2020,2024-04-14,Leanna Gookey,Part-time,oncampus ,601-dup,,
+955,Shayna,Cooksey,22,History,3.91,03/17/2019,2025-05-21,,Part-time,on-campus,955-dup,,
+418,Madelon,Foltin,20,Computer Science,3.28,02/09/2019,2024-10-26, Madelon Foltin ,Online,off campus,418 extra,Advisor not assigned,
+345,Bobby,Tookey,25,Biology,0.34,10/21/2019,11/13/2024,,Hybrid,off campus,345_,OK,
+823,Sloan,Calderon,24,Biology,2.82,12/07/2019,2025-06-01,Sloan Calderon,Online,off campus,823_,Check GPA,
+167,Berne,Pimblott,23,Computer Science,0.77,03/19/2021,04/02/2023, Berne Pimblott ,Full-time,off campus,167 extra,Good,ABC999
+968,Iggie,Anetts,unknown,bidlogy,3.1,01/06/2019,2023-06-21,Iggie Anetts,Full-time,on-campus,968,,
+141,Magdalene,Foreman,18,Computer Science,good,2021-05-16,2024-10-25, Magdalene Foreman ,Full-time,off campus,141-repeat,Advisor not assigned,
+733,Koenraad,Ogan,24,computer science,1.16,09/18/2025,2020-05-01, Koenraad Ogan ,Part-time,oncampus ,733 extra,Advisor not assigned,
+396,Myles,Batrip,19,Computer Science,2.9,04/04/2021,2025-02-20,Myles Batrip,Full-time,off campus,396 extra,,XYZ396
+579,Betti,Scurr,unknown,biologw,2.41,2021-04-07,2025-07-12,Betti Scurr,Full-time,off campus,579 extra,,ABC999
+452,Gabe,Emblow,21,Computer Science,2.02error,07/27/2020,invalid-date,Gabe Emblow,Full-time,off campus,452 extra,Check GPA,
+129,Sherye,Magauran,twenty-five,CompSci,0.13,02/05/2021,10/23/2025,Sherye Magauran,Full-time,,129 extra,,
+861,Adham,Profit,21,CompSci,13.61,2019-01-11,07/12/2025,Adham Profit,Full-time,off campus,861_,Needs follow-up,XYZ861
+715,Jeff,Durkin,21,giology,3.67,2025-02-04,04/02/2019, Jeff Durkin ,Full-time,on-campus,715 extra,,
+314,Lucila,Morriss,23,Computer Science,0.31,11/11/2019,2024-06-19,Lucila Morriss,Full-time,on-campus,314-dup,Check GPA,
+168,Horten,Schlagtmans,19,Hiseory,0.18,09/08/2020,2024-05-15,Horten Schlagtmans,Full-time,off campus,168-dup,Check GPA,
+622,Heidi,Stait,19,Biology,0.62,2021-09-08,06/25/2023,Heidi Stait,Full-time,on-campus,622-repeat,Advisor not assigned,
+588,Mitchell,Yurlov,24,Computer Science,3.14,07/15/2019,2025-12-16,Mitchell Yurlov,Part-time,on-campus,588-dup,Advisor not assigned,
+631,Cilka,Yurkin,23,Biology,15.0,2019-06-02,2023-10-12, Cilka Yurkin ,Hybrid,off campus,631-dup,Advisor not assigned,
+60,Gallagher,Barszczewski,21,Biology,11.85,2019-06-20,11/25/2024,Gallagher Barszczewski,Full-time, On-Campus ,60-repeat,Needs follow-up,XYZ60
+319,Cyndia,Bogges,19,Biology,2.04,2020-06-23,09/14/2023, Cyndia Bogges ,Full-time,off campus,319_,Needs follow-up,ABC999
+192,Katharina,McAlroy,18,Computer Science,1.03,2021-06-24,2023-08-24,Katharina McAlroy,Full-time,on-campus,192 extra,,XYZ192
+507,Maureene,Chisman,21,History,2.73,06/11/2020,03/23/2025,Maureene Chisman,Part-time, On-Campus ,507-dup,,
+622,Heidi,Stait,19,Biology,0.62,2021-09-08,06/25/2023,Heidi Stait,Full-time,on-campus,622-repeat,Advisor not assigned,XYZ622
+688,Louisette,Flament,20,Biulogy,2.91,01/08/2020,2024-07-22,Louisette Flament,Part-time, On-Campus ,688 extra,Needs follow-up,XYZ688
+844,Christie,Krzyzowski,24,History,0.67,08/14/2019,08/02/2024,Christie Krzyzowski,Full-time,on-campus,844 extra,OK,
+320,Ashly,Sudy,20,Computer Science,3.83,2021-04-06,2023-11-11,Ashly Sudy,Full-time,oncampus ,320_,Check GPA,
+778,Raul,Duinkerk,20,History,1.67,2019-01-23,2025-07-24,,Hybrid,off campus,778-repeat,Check GPA,
+425,Raul,De Winton,22,History,2.65,2019-06-03,01/11/2024,Raul De Winton,Full-time,on-campus,425,OK,
+588,Mitchell,Yurlov,24,Computer Science,3.14,07/15/2019,2025-12-16, Mitchell Yurlov ,Part-time,on-campus,588-dup,Advisor not assigned,
+367,Ramonda,Ivushkin,21,Computer Science,2.03,2019-08-07,2024-07-01, Ramonda Ivushkin ,Full-time,off campus,367-repeat,OK,
+612,Bobby,Fowle,22,Computer Science,1.1,2019-08-01,2023-09-20, Bobby Fowle ,Full-time,off campus,612_,OK,ABC999
+744,Theodosia,Flory,25,BIOLOGY,2.69,01/18/2019,07/30/2025,Theodosia Flozy,Hybrid,off campus,744_,Good,
+229,Shandy,O'Regan,19,Biology,3.42error,07/15/2021,02/28/2025,Shandy O'Regan,Full-time,off campus,229,OK,ABC999
+622,Heidi,Stait,19,,0.62,2021-09-08,06/25/2023,Heidi Stait,Full-time,on-campus,622-repeat,Advisor not assigned,
+864,Emmit,Orsman,twenty-five,Computer Science,2.11,2019-05-11,2025-04-10,Emmit Orsman,Full-time,,864 extra,Check GPA,
+74,Benn,Bottomore,21,Biology,3.51,2021-09-26,2025-11-09,Benn Bottomore,Full-time,on-campus,74_,Check GPA,
+346,Fremont,Sulley,25,Hiatory,good,08/20/2019,04/21/2023,Fremont Sulley,Online,on-campus,346-dup,Check GPA,XYZ346
+412,Denni,Sedger,19,Biology,10.2,02/05/2019,2023-07-18,Denni Sedger,Part-time,on-campus,412-repeat,Needs follow-up,ABC999
+669,Padget,Cosgry,20,CompSci,0.14,05/23/2019,05/23/2023,Padget Cosgry,Full-time,OFFCAMPUS,669_,Advisor not assigned,XYZ669
+971,Marissa,Tuffrey,25,Biolzgy,3.89,02/13/2020,2025-02-11,Marissa Trffrey,Full-time,off campus,971-repeat,Needs follow-up,
+501,Ernie,Dorkins,24,Biology,0.53,02/10/2021,09/18/2023,Ernie Dorkins,Full-time,off campus,501-dup,Needs follow-up,
+723,Hallie,Sexcey,23,History,0.71,2020-08-15,2025-05-20, Hallie Sexcey ,Full-time, On-Campus ,723 extra,Advisor not assigned,XYZ723
+337,Pegeen,Petry,20,Histbry,10.45,2021-01-19,10/06/2025, Pegeen Petry ,Full-time, On-Campus ,337,Needs follow-up,
+111,Guinevere,Van der Spohr,21,Computer Science,2.86,2020-07-27,10/16/2025, Guinevere Van der Spohr ,Part-time,oncampus ,111 extra,Needs follow-up,XYZ111
+327,Aldwin,Wines,-5,Biology,2.87,2019-07-14,08/20/2024,Aldwin Wines,Online, On-Campus ,327_,Check GPA,
+211,Taddeo,Skitt,21,Biology,0.55,07/20/2024,2019-06-27,Taddeo Skitt,Hybrid,on-campus,211_,Advisor not assigned,ABC999
+897,Shirl,Foad,19,Biology,15.0,02/10/2019,2025-12-28, Shirl Foad ,Full-time,on-campus,897 extra,Needs follow-up,XYZ897
+59,Rudolph,Rosenblath,24,History,0.53,2019-04-15,08/10/2025, Rudolph Rosenblath ,Online,oncampus ,59-repeat,Needs follow-up,XYZ59
+452,Gabe,Emblow,21,Computer Science,2.02error,07/27/2020,invalid-date,Gabe Emblow,Full-time,off campus,452 extra,Check GPA,
+984,Mohandis,Flitcroft,20,COMPUTERESCIENCE,0.1,2019-08-15,2024-07-04,Mohandis Flitcroft,Full-time,off campus,984-repeat,Advisor not assigned,
+838,Carmine,Fleote,19,History,1.48,10/14/2019,,Carmine Fleote,Full-time,off campus,838,Good,
+680,Roselia,Tongue,18,COMPUTER SCIENCE,2.85,2021-11-06,10/16/2023,Roselia Tojgue,Full-time,on-campus,680-repeat,Check GPA,XYZ680
+231,Elinore,Blucher,25,COMPUTER SCIENCE,3.58,04/07/2019,10/15/2023,Elinore Blucher,Full-time,oncampus ,231-dup,Check GPA,
+856,Kacy,Sconce,22,Computer Science,3.44,2020-02-20,2025-06-29,Kacy Sconce,Online,on-campus,856 extra,,
