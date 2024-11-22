@@ -1,0 +1,1001 @@
+student_id,first_name,last_name,age,funds,major,GPA,enrollment_date,graduation_date,advisor
+1,Neron,Elam,25,10992144.64,History,3.0,10/21/2021,10/8/2025,Neron Elam
+2,Freeland,Meenan,18,35874773.26,Computer Science,0.95,2/25/2020,3/21/2023,Freeland Meenan
+3,Kerk,Kiddy,21,,Biology,3.15,6/11/2020,2/12/2024,Kerk Kiddy
+4,Wilfrid,,22,92588350.39,Computer Science,2.19,9/13/2021,7/29/2023,Wilfrid Dunsmore
+5,Lanna,,23,6901767.12,History,0.03,8/9/2020,12/24/2023,Lanna Philpotts
+6,Olin,,23,97003203.01,History,2.78,6/8/2021,1/2/2023,Olin Brosio
+7,Addy,,20,,History,0.1,3/6/2021,5/20/2023,Addy Pardew
+8,Jasun,Quadri,22,,History,3.97,2/25/2020,12/23/2025,Jasun Quadri
+9,Keslie,Vaux,21,7174179.83,Biology,2.23,4/17/2021,4/21/2023,Keslie Vaux
+10,Marna,MacCarter,21,,Biology,0.36,12/23/2021,9/7/2023,Marna MacCarter
+11,Agatha,,23,13089408.93,History,0.91,10/16/2020,8/13/2023,Agatha Troup
+12,,Poel,23,37123904.67,Biology,2.0,8/14/2020,7/17/2023,Teddi Poel
+13,Karoline,Kilmurray,19,31794444.33,Computer Science,1.27,2/24/2020,6/20/2024,Karoline Kilmurray
+14,,Vany,20,20333072.84,Biology,3.05,3/6/2019,7/16/2025,Marty Vany
+15,Shannon,Rumke,25,38874140.8,Biology,1.04,5/3/2019,2/21/2025,Shannon Rumke
+16,Obidiah,Davenhall,25,,History,0.41,12/1/2021,3/4/2025,
+17,Reagan,Tillot,20,431713.07,Computer Science,3.64,10/14/2021,4/26/2024,
+18,Gwenni,,22,,Computer Science,3.78,6/3/2020,10/23/2025,Gwenni Thomtson
+19,Solomon,Yardley,20,,Computer Science,3.23,6/19/2021,3/21/2025,Solomon Yardley
+20,Kelley,Impey,21,74903270.86,History,3.2,12/14/2019,9/17/2024,
+21,,Schriren,23,71189815.11,Biology,3.11,10/29/2020,1/26/2023,Kellsie Schriren
+22,Hermione,,19,,Biology,3.05,1/27/2021,2/18/2024,Hermione De Carlo
+23,Erda,,25,22806295.72,History,3.12,6/21/2019,5/3/2025,Erda Halbard
+24,Rainer,,22,45642516.66,Biology,2.12,12/10/2021,11/27/2024,Rainer Aynsley
+25,Belinda,Gommowe,19,17786127.5,Computer Science,0.34,8/29/2019,6/1/2025,Belinda Gommowe
+26,Hadley,Daniello,22,13026226.45,Biology,1.02,7/24/2020,5/2/2024,Hadley Daniello
+27,Rodger,Northen,21,79036252.98,Computer Science,2.88,3/21/2021,4/4/2023,Rodger Northen
+28,Kent,Pestridge,18,53260975.19,History,2.13,2/9/2019,3/17/2024,Kent Pestridge
+29,Irving,,21,44798249.56,History,0.47,7/12/2020,1/18/2024,Irving Faber
+30,Faith,Foat,22,,Computer Science,3.87,1/31/2021,6/26/2025,Faith Foat
+31,,,24,62478357.88,History,3.3,8/28/2020,2/18/2023,Noach Donlon
+32,Maurine,Culy,21,72594043.91,History,0.95,1/27/2019,6/7/2025,Maurine Culy
+33,Melany,McIlmorow,21,40453997.77,History,2.6,6/19/2021,8/17/2023,Melany McIlmorow
+34,,Haslehurst,21,90786247.83,Computer Science,1.42,10/14/2020,2/5/2025,Erminia Haslehurst
+35,Wanda,,23,77443552.46,History,1.83,9/26/2020,9/27/2025,Wanda Magwood
+36,,Bourgaize,20,45174513.45,Computer Science,3.86,6/8/2021,5/8/2023,Franky Bourgaize
+37,,,20,59865965.75,Computer Science,2.94,8/2/2021,7/4/2024,Ennis Runnacles
+38,Cad,,25,8021941.7,Computer Science,2.12,3/7/2020,1/14/2025,Cad Cobello
+39,Daphna,McDonnell,24,42710344.23,Biology,1.12,11/22/2020,12/24/2023,Daphna McDonnell
+40,Jarrid,,21,74146749.06,Computer Science,2.42,2/17/2019,2/5/2024,Jarrid Abthorpe
+41,Lari,Slesser,20,,Computer Science,3.82,2/4/2019,11/1/2025,Lari Slesser
+42,Archy,Hadcroft,23,3947502.02,History,3.59,1/24/2021,12/11/2023,Archy Hadcroft
+43,Rodolph,,19,95523220.19,History,0.7,5/27/2020,7/2/2024,Rodolph Clyne
+44,Diena,Tingey,22,30622319.0,Biology,3.89,3/12/2019,8/17/2024,Diena Tingey
+45,Alejandrina,,23,,History,1.28,6/16/2019,9/22/2024,Alejandrina Goddert.sf
+46,Ailey,Colebourn,21,12330236.81,History,2.84,4/8/2019,8/22/2025,Ailey Colebourn
+47,Derry,Pridmore,19,,Biology,0.62,1/2/2020,12/30/2025,Derry Pridmore
+48,Letty,Simony,18,43591796.31,Biology,0.63,4/16/2021,5/16/2023,Letty Simony
+49,,,21,20721008.42,Biology,2.98,5/31/2021,12/22/2023,Johannah Garfield
+50,Candide,Meneo,23,70028432.88,Biology,1.89,5/4/2021,10/19/2024,Candide Meneo
+51,Adelaida,Popplestone,19,12336490.65,Computer Science,3.23,5/12/2020,8/24/2025,Adelaida Popplestone
+52,Dwayne,Rubra,24,81215406.79,History,2.45,7/7/2020,12/11/2025,Dwayne Rubra
+53,Glyn,,18,82869974.8,Biology,0.03,8/14/2019,6/16/2024,Glyn Gullifant
+54,Robbi,Rielly,18,60544834.13,Computer Science,2.14,7/25/2021,7/1/2024,Robbi Rielly
+55,Teodoro,Hinemoor,22,6295198.72,History,1.2,9/22/2020,8/3/2023,Teodoro Hinemoor
+56,Crin,Maltby,21,39109346.42,Biology,2.17,6/17/2021,5/7/2024,Crin Maltby
+57,,Covely,21,47595770.71,History,3.45,9/4/2021,7/16/2024,Margette Covely
+58,Gib,Marklin,22,61056863.93,Biology,2.12,4/2/2019,8/9/2024,Gib Marklin
+59,Harv,,22,53150265.38,History,1.89,4/21/2019,4/23/2024,Harv Birkmyre
+60,Angelle,,25,71458029.35,Computer Science,1.13,6/30/2019,11/14/2023,
+61,Junia,,23,,History,2.22,8/22/2020,12/18/2025,Junia Bandy
+62,Elenore,,23,4046915.42,History,2.5,9/27/2021,6/12/2025,Elenore Zorer
+63,Celinda,,19,,Computer Science,0.62,6/28/2021,1/30/2023,Celinda Portress
+64,Ebonee,,21,3513826.42,Biology,2.71,6/20/2021,7/13/2023,Ebonee Guille
+65,Agustin,Cragell,19,,Computer Science,1.45,10/6/2021,3/1/2023,Agustin Cragell
+66,Moira,,18,31416629.57,History,2.05,6/19/2020,12/30/2025,Moira Gentzsch
+67,Arlinda,Yabsley,22,87098469.99,History,1.21,6/29/2021,12/22/2024,Arlinda Yabsley
+68,Biddie,Soanes,25,12155149.98,Biology,0.99,11/6/2019,12/17/2023,Biddie Soanes
+69,Daisie,,24,61501770.72,Biology,0.56,7/4/2020,5/8/2025,Daisie Heskins
+70,Charisse,Firbanks,19,11525342.45,Computer Science,3.4,5/5/2020,1/10/2023,
+71,Riccardo,Dixcee,21,38591038.5,Computer Science,3.6,10/25/2021,11/8/2023,Riccardo Dixcee
+72,,Dulling,23,68898566.54,History,0.65,10/30/2021,10/13/2024,Yelena Dulling
+73,Shalne,Hutten,22,14935602.53,Biology,1.47,2/16/2021,11/11/2025,Shalne Hutten
+74,Jennilee,,23,43727891.44,Computer Science,2.78,12/16/2021,12/11/2023,Jennilee Nystrom
+75,Delainey,,19,7734395.3,History,3.69,7/14/2019,12/22/2023,
+76,Ilaire,,19,,Biology,0.42,5/29/2020,8/30/2025,Ilaire Goby
+77,Tiffani,,24,33062184.97,History,3.92,5/14/2019,12/13/2023,Tiffani Scutching
+78,Joeann,,20,18183328.96,Biology,2.02,5/12/2020,12/7/2025,Joeann Gamlen
+79,,,24,12202930.74,Computer Science,3.86,11/18/2021,5/14/2025,Carmella Primmer
+80,Allard,Lyall,20,53582824.07,Computer Science,0.63,7/7/2021,12/5/2024,Allard Lyall
+81,Massimiliano,Kerrane,24,,Computer Science,0.77,9/19/2019,11/4/2025,Massimiliano Kerrane
+82,Richy,Driscoll,18,,Computer Science,0.17,11/13/2020,7/13/2024,Richy Driscoll
+83,Ulises,Cockland,22,93142480.92,History,1.03,1/9/2020,10/3/2025,
+84,Stephine,,25,71040918.56,History,0.12,6/21/2019,11/6/2025,Stephine Marfield
+85,Orelle,,24,66906280.42,Computer Science,2.69,9/1/2019,4/19/2023,Orelle Iglesiaz
+86,Fredi,Krammer,20,,Biology,2.61,5/4/2019,8/28/2023,Fredi Krammer
+87,Brandais,Ruthen,19,8339560.29,Computer Science,2.67,11/4/2021,10/17/2024,Brandais Ruthen
+88,Babara,Benjefield,23,21835553.59,Computer Science,0.14,7/7/2021,3/13/2023,Babara Benjefield
+89,Danette,,25,20519392.56,History,0.47,9/16/2020,6/26/2023,Danette Tocqueville
+90,Vilma,,23,59579107.96,Computer Science,2.74,7/29/2021,12/25/2024,Vilma Sowle
+91,Wenonah,Sinnatt,25,9425519.52,History,3.14,1/13/2021,7/30/2025,Wenonah Sinnatt
+92,Jerry,,19,,Computer Science,3.75,4/21/2021,11/21/2024,Jerry Winspurr
+93,Gregorio,Brandts,22,89940014.05,Biology,0.67,5/10/2019,7/6/2025,Gregorio Brandts
+94,Ira,Burnapp,25,63284749.08,Computer Science,3.84,10/16/2019,5/28/2023,Ira Burnapp
+95,Priscella,,20,37286217.64,Biology,2.5,8/6/2020,9/13/2023,Priscella Quartermaine
+96,Lucinda,Callen,21,32348383.38,Computer Science,3.5,10/8/2021,9/20/2023,Lucinda Callen
+97,,,23,73149318.81,Biology,1.82,7/10/2021,2/28/2023,Rebecca Brumpton
+98,Brnaby,Belbin,23,,History,1.76,8/11/2019,3/1/2024,
+99,Fredia,,20,11082547.82,Biology,1.37,1/13/2021,10/18/2023,Fredia Pocknell
+100,Ann,,23,76210554.32,Biology,3.34,2/29/2020,11/1/2024,Ann Collingham
+101,Lucie,Piggen,25,16581355.41,History,2.06,9/14/2019,12/24/2023,
+102,Angeli,,22,4236250.99,Computer Science,0.2,7/8/2021,2/2/2024,Angeli Chisnall
+103,,,21,27731511.73,Computer Science,3.81,5/20/2019,10/1/2023,Karlens Vedeniktov
+104,Vernor,Seamon,25,40330353.77,Biology,1.8,12/10/2021,2/10/2025,Vernor Seamon
+105,Chanda,Dransfield,21,,History,1.55,5/12/2019,1/16/2025,Chanda Dransfield
+106,Godart,Beddin,23,,Computer Science,0.54,7/8/2020,7/25/2024,Godart Beddin
+107,Rey,Makepeace,21,,History,1.19,10/12/2020,2/11/2024,Rey Makepeace
+108,Nikolaus,Plenty,20,,Biology,0.34,12/10/2019,7/17/2024,Nikolaus Plenty
+109,Gene,Leal,22,,History,1.01,7/8/2020,5/1/2024,Gene Leal
+110,Polly,,24,6385975.92,Computer Science,3.98,6/18/2021,12/7/2024,Polly Grevile
+111,Debbi,Benam,25,,Computer Science,1.34,10/18/2020,5/14/2023,Debbi Benam
+112,Immanuel,,25,,Computer Science,2.07,2/17/2019,5/5/2025,Immanuel Bellie
+113,Ilyse,Tow,18,27881657.49,History,0.82,9/10/2019,7/12/2025,
+114,Rayner,,23,94402246.95,Biology,2.58,3/11/2021,2/20/2025,Rayner Boadby
+115,Israel,,20,99660087.49,History,1.29,3/20/2021,8/7/2023,Israel Clayborn
+116,Chrystel,Virr,22,89117338.88,Computer Science,3.59,3/20/2020,3/21/2023,Chrystel Virr
+117,Fidel,Fridd,20,79934989.54,Computer Science,1.58,3/3/2021,4/24/2025,Fidel Fridd
+118,Tracey,,18,21873049.85,Biology,2.13,2/22/2021,4/25/2024,Tracey Catonne
+119,Angel,,20,18238984.65,History,0.84,6/18/2021,5/4/2023,Angel Lasslett
+120,Kate,Volet,23,,Biology,3.91,7/11/2019,4/12/2024,Kate Volet
+121,Juditha,Craigg,18,,Computer Science,2.28,3/16/2019,12/12/2025,Juditha Craigg
+122,,,23,33287433.49,Biology,2.24,2/11/2020,1/4/2023,Filberte Goozee
+123,,Vondruska,24,74196285.64,Computer Science,2.97,8/17/2021,9/27/2024,Rica Vondruska
+124,Lucien,Poxton,25,758278.07,Biology,2.58,9/9/2020,7/4/2023,Lucien Poxton
+125,Tani,Burkinshaw,23,97784816.22,Computer Science,3.62,7/16/2019,12/26/2025,Tani Burkinshaw
+126,Jarrad,,24,17934960.44,History,2.24,7/1/2019,3/1/2024,Jarrad Rignall
+127,Camel,,24,14356739.71,Biology,3.85,9/1/2020,12/14/2025,Camel MacGuffie
+128,Amelie,Peddel,18,,History,2.28,9/11/2020,10/8/2025,Amelie Peddel
+129,Delmor,Bealing,19,,Biology,3.87,3/29/2021,3/6/2025,Delmor Bealing
+130,Jory,Kellar,19,57518672.53,History,1.97,6/11/2021,10/18/2024,Jory Kellar
+131,Lazarus,Mc Menamin,18,99810259.22,Computer Science,1.25,7/2/2019,12/14/2023,Lazarus Mc Menamin
+132,,Mee,24,5560931.72,Computer Science,3.98,3/12/2021,3/30/2023,Elvis Mee
+133,Alick,Bickerstasse,19,17389682.28,History,0.17,9/14/2021,10/14/2024,Alick Bickerstasse
+134,Yvon,Shulem,23,,History,1.21,5/13/2020,5/13/2025,Yvon Shulem
+135,Myrna,McGurk,21,50578655.79,Biology,0.18,8/26/2019,3/7/2025,Myrna McGurk
+136,Blaine,Garroch,20,86400731.03,Computer Science,0.5,3/17/2021,11/14/2025,Blaine Garroch
+137,,Jiruch,18,,History,2.31,5/5/2021,6/22/2025,Tiebold Jiruch
+138,Lori,,20,56644404.98,Computer Science,2.65,2/3/2020,4/17/2023,Lori McNelis
+139,Marisa,Beszant,24,72153120.45,Biology,2.84,12/30/2021,2/19/2024,
+140,Arline,,20,76358884.81,Biology,3.67,8/5/2021,8/31/2024,Arline Filipyev
+141,Aubrie,Akitt,24,22393166.05,Computer Science,2.67,12/29/2021,5/3/2024,Aubrie Akitt
+142,Ezmeralda,Currington,23,47303523.22,Computer Science,0.49,10/19/2021,12/17/2024,Ezmeralda Currington
+143,Vera,Grimsdyke,24,31195114.41,History,1.42,12/13/2020,11/9/2025,Vera Grimsdyke
+144,Mozelle,Freschini,19,24192041.14,History,1.36,5/7/2021,7/21/2025,
+145,Ryan,Yuryaev,24,27626360.88,Computer Science,2.63,8/1/2020,6/20/2025,Ryan Yuryaev
+146,Gordon,,18,61732103.1,Computer Science,0.31,10/25/2020,12/11/2024,Gordon Muat
+147,Clemmie,Wellbeloved,24,84505684.76,Computer Science,2.64,10/8/2019,10/14/2024,Clemmie Wellbeloved
+148,Cherida,,23,64649857.67,Computer Science,3.96,9/4/2020,9/29/2024,Cherida Tollerfield
+149,Lonny,Karlik,21,46686693.94,Computer Science,1.45,12/6/2019,10/18/2023,Lonny Karlik
+150,Guido,Bice,19,,Biology,2.59,7/1/2021,7/31/2024,Guido Bice
+151,,Prangle,19,1642879.84,Biology,2.93,6/7/2021,10/13/2023,Simeon Prangle
+152,,Robertelli,21,44864530.63,Biology,1.06,4/3/2020,6/19/2024,Lucita Robertelli
+153,Carlee,Huggard,22,69369846.28,Computer Science,1.31,7/1/2020,8/21/2024,Carlee Huggard
+154,Katina,,22,32885680.91,History,2.02,3/7/2020,5/8/2024,Katina Whorall
+155,Immanuel,Stoeckle,24,73084712.86,Computer Science,3.91,11/30/2021,11/17/2024,Immanuel Stoeckle
+156,Arley,,25,78323282.66,Computer Science,0.99,3/4/2020,7/10/2023,Arley Silson
+157,Izak,Loftin,22,77806592.21,Biology,3.59,4/18/2019,6/20/2024,
+158,Dorian,Renney,19,76139959.42,Biology,2.92,1/30/2019,8/21/2024,Dorian Renney
+159,Perry,Dumbarton,22,,History,0.72,2/27/2019,6/22/2025,
+160,,Lightowler,20,19574827.43,History,2.16,9/4/2019,12/16/2024,Sally Lightowler
+161,Eda,Wimbury,21,,Computer Science,3.6,3/17/2020,7/17/2025,
+162,Morly,Gellately,19,80317601.74,History,3.86,11/29/2020,9/14/2024,Morly Gellately
+163,Dominica,Hewins,21,97542217.55,Computer Science,0.87,6/14/2021,5/22/2025,Dominica Hewins
+164,Charyl,Piggins,23,76169641.27,Computer Science,0.63,11/3/2020,12/25/2024,Charyl Piggins
+165,Alfonse,,23,85906159.48,Computer Science,1.33,6/28/2020,2/8/2025,Alfonse Caley
+166,Charlie,Danbi,24,,History,1.05,4/19/2020,7/18/2024,Charlie Danbi
+167,Rey,,20,77355927.24,Computer Science,3.08,6/9/2019,5/29/2024,Rey Book
+168,Britta,Wippermann,21,31051784.77,Biology,3.3,8/13/2021,9/26/2024,Britta Wippermann
+169,,Langlands,20,,History,0.68,8/25/2020,10/8/2023,Charisse Langlands
+170,Pauly,Denley,25,,Computer Science,2.54,7/26/2021,4/23/2024,Pauly Denley
+171,Fifine,Luney,25,97589935.28,Biology,2.89,11/28/2020,2/23/2025,
+172,,Mityakov,23,55670465.03,History,3.53,3/27/2019,8/20/2023,Trixi Mityakov
+173,Bob,Crafter,21,12921198.38,History,2.09,5/4/2021,4/16/2025,Bob Crafter
+174,Shane,Chessell,19,5167936.07,Computer Science,1.21,6/8/2021,4/27/2024,Shane Chessell
+175,Jackson,Dominetti,21,39250595.96,Biology,0.57,4/9/2020,4/17/2023,Jackson Dominetti
+176,Fredi,Richin,24,39557608.57,Biology,3.91,11/2/2021,10/31/2023,Fredi Richin
+177,Philippe,Rafter,23,,History,1.02,6/18/2019,2/16/2023,Philippe Rafter
+178,Vito,Gloyens,22,,Biology,2.93,4/5/2020,3/12/2023,Vito Gloyens
+179,Goldarina,Bernaciak,19,97807087.34,History,0.18,4/8/2021,11/18/2024,Goldarina Bernaciak
+180,Lammond,Joskowitz,19,38673770.07,Biology,3.41,5/20/2020,4/15/2023,Lammond Joskowitz
+181,Packston,Fellgett,25,77964295.4,History,2.05,3/18/2020,3/24/2024,Packston Fellgett
+182,Jase,Mollatt,20,29363622.01,History,0.42,1/19/2020,3/2/2024,Jase Mollatt
+183,Branden,Ballefant,19,920604.49,Computer Science,2.99,7/22/2019,2/18/2025,Branden Ballefant
+184,Guntar,Serrels,21,82063386.47,History,2.25,2/12/2020,3/24/2025,
+185,Robbyn,Summerley,18,,History,3.26,3/17/2019,10/14/2024,Robbyn Summerley
+186,Marcie,Bessell,21,71605224.91,Biology,0.53,9/22/2019,8/11/2024,Marcie Bessell
+187,Blair,Idel,20,59787897.39,History,1.79,9/20/2020,7/14/2025,
+188,Laurella,Biaggioni,22,73293862.6,History,0.77,9/29/2020,6/2/2023,
+189,Brose,,21,96927571.26,Biology,1.99,6/20/2020,5/11/2025,Brose Allot
+190,Tully,Marikhin,20,81079243.48,Computer Science,1.07,12/15/2020,5/8/2025,Tully Marikhin
+191,Garrott,Bolt,23,37835447.69,Computer Science,3.98,11/23/2020,10/29/2023,
+192,Moses,,20,66751623.81,Computer Science,0.36,7/12/2019,11/28/2024,Moses Craw
+193,Bentlee,Bestwall,20,81801455.64,History,1.56,7/11/2020,8/5/2024,Bentlee Bestwall
+194,Darrick,,22,45436343.67,History,1.65,10/17/2021,7/28/2023,Darrick Quinet
+195,Pincas,,19,70883442.09,Computer Science,2.2,7/15/2019,4/15/2024,Pincas Sammut
+196,,Fellis,18,65169680.87,Computer Science,0.08,10/2/2020,2/16/2024,Carmelina Fellis
+197,Dale,Coll,25,36418979.73,Computer Science,1.11,6/3/2020,2/16/2023,Dale Coll
+198,Iosep,McHarry,20,,Biology,0.75,8/4/2021,6/1/2023,Iosep McHarry
+199,Charin,,23,78391017.76,History,2.44,10/6/2019,4/12/2023,Charin Fust
+200,Barnett,,19,31074100.33,Computer Science,0.66,7/5/2020,1/26/2023,Barnett Hunn
+201,Torey,Winship,24,90228110.07,Computer Science,0.53,7/26/2020,3/20/2023,Torey Winship
+202,,Pellitt,20,64219446.26,Biology,3.21,7/4/2020,4/30/2023,Inge Pellitt
+203,Vince,Geaney,25,43840190.66,Computer Science,0.51,5/3/2021,3/18/2025,Vince Geaney
+204,Lenora,Hamlin,23,18023052.37,Biology,1.69,12/1/2021,1/27/2024,
+205,Vitia,,21,54117773.18,Computer Science,1.0,6/1/2020,12/5/2023,Vitia Bentick
+206,Sherry,Topaz,24,3408160.21,Computer Science,3.47,7/22/2020,11/26/2023,Sherry Topaz
+207,Otto,,23,15638611.12,Biology,0.84,1/19/2020,1/10/2025,Otto Folca
+208,Bruis,Hanburry,21,7953467.36,Computer Science,0.7,7/10/2021,11/30/2024,Bruis Hanburry
+209,,,24,16129813.05,Computer Science,3.85,9/5/2021,12/5/2025,
+210,,Harrop,18,7358798.18,Computer Science,1.36,3/4/2021,5/21/2023,Jenda Harrop
+211,Lorette,Mountlow,18,52087192.66,Computer Science,0.78,11/25/2020,10/24/2023,Lorette Mountlow
+212,,Kuzma,21,,Biology,0.26,10/5/2021,9/26/2025,Steffie Kuzma
+213,,Fick,24,17859118.61,History,0.12,11/20/2019,9/6/2025,Abbe Fick
+214,Sam,,25,26594076.2,Computer Science,0.8,9/4/2019,12/9/2024,Sam Cobbald
+215,Hunt,,24,31380509.29,Biology,1.86,4/29/2020,9/4/2023,Hunt Edinburough
+216,Kristal,Sterman,24,10876484.21,Computer Science,0.95,2/5/2021,1/24/2025,Kristal Sterman
+217,Kati,Delooze,24,97905331.61,Computer Science,0.38,5/20/2019,10/31/2023,Kati Delooze
+218,Anjela,Scraggs,18,5872685.07,History,2.73,3/18/2019,7/31/2023,Anjela Scraggs
+219,Cordy,Joris,25,,History,1.05,4/21/2019,6/25/2024,Cordy Joris
+220,,Faire,19,,Biology,3.59,5/23/2021,11/4/2025,Miriam Faire
+221,Ariadne,,24,,Computer Science,3.74,8/30/2021,10/23/2025,Ariadne Georgi
+222,Leese,Prys,19,81893942.98,Biology,1.71,8/27/2021,9/6/2023,Leese Prys
+223,Cori,,23,24423100.35,Biology,0.27,11/12/2021,4/18/2025,Cori Yeates
+224,,Shannahan,19,50354169.52,History,2.83,2/15/2019,11/2/2025,Torey Shannahan
+225,Goldy,Ballay,24,,History,2.11,5/18/2019,7/5/2023,Goldy Ballay
+226,Gertruda,,19,62128754.69,Computer Science,2.94,3/19/2021,9/12/2025,Gertruda Lembke
+227,Emmanuel,McWard,20,53588314.47,Biology,0.3,5/22/2020,6/27/2024,
+228,Joby,,20,46413785.23,Computer Science,3.73,2/1/2019,4/14/2024,Joby Barnicott
+229,Arthur,,24,79161918.43,Biology,3.27,9/10/2021,2/10/2023,Arthur Petrushanko
+230,Celine,,22,7744584.28,Biology,2.48,6/7/2020,11/7/2025,Celine Pellew
+231,,Hardman,18,55162703.8,Computer Science,1.62,6/21/2019,4/4/2025,Dannel Hardman
+232,Blondelle,Hawney,22,13519165.04,Computer Science,3.34,11/16/2020,8/26/2024,Blondelle Hawney
+233,Willi,Hovey,22,40072364.04,Biology,1.49,5/1/2021,12/29/2024,Willi Hovey
+234,Kelcie,Antusch,25,,Biology,0.58,11/5/2020,10/26/2025,Kelcie Antusch
+235,Blinnie,Hamflett,18,,Biology,3.8,11/10/2020,6/14/2023,Blinnie Hamflett
+236,Tucky,,21,44453976.78,History,0.34,10/9/2020,3/2/2023,Tucky Medland
+237,Lorene,,20,42340678.02,Computer Science,0.9,7/6/2021,10/28/2023,Lorene Lahiff
+238,Westbrook,Gladbach,22,18841969.49,Biology,3.28,8/16/2020,11/16/2023,Westbrook Gladbach
+239,Benn,Kluger,21,15224334.09,History,0.88,8/28/2021,9/27/2025,Benn Kluger
+240,Etienne,Reace,25,27868879.14,History,3.84,3/2/2021,5/29/2023,Etienne Reace
+241,Molly,Kennermann,23,1660635.86,Biology,1.58,3/7/2019,10/27/2024,Molly Kennermann
+242,Eleen,Pallis,19,10250362.72,History,1.03,9/26/2020,10/20/2023,Eleen Pallis
+243,Kelci,Sibary,20,60850766.27,History,3.8,3/24/2020,10/4/2024,Kelci Sibary
+244,Ermengarde,,18,,History,0.09,9/28/2019,2/3/2025,Ermengarde Cutcliffe
+245,Rodney,,20,38616919.51,Computer Science,0.94,9/10/2020,4/16/2025,Rodney Dron
+246,Shermie,Buntin,18,47856631.86,Biology,3.26,4/17/2019,1/16/2025,Shermie Buntin
+247,Mirelle,Grzelczyk,22,96827688.9,Computer Science,1.97,2/17/2021,7/14/2023,Mirelle Grzelczyk
+248,Anthea,,23,15442738.5,Computer Science,3.9,1/29/2020,7/14/2025,Anthea Donnellan
+249,Emelina,Halladey,22,,Biology,1.97,1/10/2020,5/4/2025,Emelina Halladey
+250,Cheslie,D'Elia,21,55905412.2,History,1.21,12/18/2020,12/25/2025,Cheslie D'Elia
+251,Cesare,Itzkovich,18,80272586.84,Biology,0.34,5/19/2021,9/4/2025,Cesare Itzkovich
+252,Cynthy,Klouz,25,59472341.85,Biology,0.45,12/30/2019,2/12/2024,Cynthy Klouz
+253,Rocky,Garrand,22,63351258.65,Biology,2.84,12/29/2021,9/3/2024,Rocky Garrand
+254,Clementina,,23,22898733.76,Computer Science,2.5,8/26/2019,7/19/2023,Clementina Wandrey
+255,Eveleen,Antonopoulos,22,43767873.93,History,3.33,9/29/2019,6/1/2025,Eveleen Antonopoulos
+256,Victoria,Dimitrijevic,19,94866449.1,History,3.4,5/25/2020,8/3/2025,Victoria Dimitrijevic
+257,Daron,Pasby,21,52401492.4,Biology,2.24,6/17/2021,6/15/2024,
+258,Delilah,Clail,21,75409037.24,History,2.13,9/13/2019,8/28/2025,Delilah Clail
+259,Yehudi,,21,,History,1.52,8/24/2019,3/16/2023,Yehudi Saben
+260,Alberik,Handaside,22,,Biology,1.2,12/23/2020,5/5/2023,Alberik Handaside
+261,Richart,Hawkings,20,73220985.27,History,1.76,5/7/2020,7/10/2024,Richart Hawkings
+262,,,21,8412245.25,Biology,2.43,6/4/2020,2/29/2024,
+263,,Wince,21,,Computer Science,0.72,4/16/2020,6/5/2023,Randolf Wince
+264,Guinevere,Mc Mechan,18,73575170.57,Biology,2.42,10/15/2019,5/25/2024,Guinevere Mc Mechan
+265,Mariam,,23,68009473.71,History,2.26,4/17/2020,12/3/2024,Mariam Lester
+266,Melissa,Cronchey,22,81917181.63,History,1.71,11/13/2019,4/15/2025,Melissa Cronchey
+267,Minta,,21,35981246.41,History,2.31,10/20/2021,12/5/2025,Minta Clover
+268,Rob,,19,69487474.36,Biology,3.79,3/27/2019,10/20/2025,Rob Matevosian
+269,Annalee,Loudian,22,,History,2.54,7/15/2019,8/25/2025,Annalee Loudian
+270,Milli,Forlonge,24,,Computer Science,3.32,7/14/2020,6/19/2023,
+271,Corbet,Croad,25,86611032.76,History,1.19,3/9/2020,8/5/2023,Corbet Croad
+272,Phylys,Angus,24,99616765.62,History,0.48,9/2/2021,10/4/2023,Phylys Angus
+273,Merrill,,24,60767011.3,History,1.2,10/7/2021,6/2/2024,Merrill Goddert.sf
+274,Marget,Key,19,4847762.87,History,1.87,3/22/2021,6/11/2024,Marget Key
+275,Maressa,Bleackley,18,,Biology,2.58,3/21/2020,6/2/2025,Maressa Bleackley
+276,Aleece,Snoddin,25,,Biology,0.29,5/30/2019,6/12/2023,Aleece Snoddin
+277,Carey,McLae,18,16727070.42,Computer Science,1.43,8/5/2021,1/5/2025,
+278,Aldous,O'Glessane,22,,Biology,1.09,6/6/2021,12/13/2024,Aldous O'Glessane
+279,Talyah,Weeke,24,69978392.67,Computer Science,1.17,1/10/2019,12/11/2025,Talyah Weeke
+280,Jozef,Caswall,18,,Computer Science,2.43,9/1/2019,6/6/2024,Jozef Caswall
+281,Saunderson,Cowland,22,,History,2.49,12/25/2020,7/19/2025,Saunderson Cowland
+282,Guido,,25,64881967.81,Computer Science,2.3,3/24/2021,2/16/2024,
+283,Jacquette,Bassom,23,27661758.09,History,1.43,9/16/2021,1/30/2023,Jacquette Bassom
+284,,Mauvin,21,53430855.1,Computer Science,2.42,6/3/2019,11/22/2023,Hasheem Mauvin
+285,Mace,,20,35383091.51,Computer Science,2.13,6/30/2019,6/19/2024,Mace Tunkin
+286,Joey,Duignan,18,,History,2.97,4/27/2021,1/17/2025,Joey Duignan
+287,Woodman,Reddy,24,89513013.67,History,2.72,12/11/2021,12/22/2025,Woodman Reddy
+288,Tildy,Lemerie,18,97978551.09,Biology,1.08,7/28/2021,1/3/2024,
+289,Jakob,Fearnall,20,92256470.3,Biology,2.56,8/17/2020,11/26/2024,Jakob Fearnall
+290,Jammie,Piwell,19,51754225.51,History,2.9,7/19/2019,12/11/2023,Jammie Piwell
+291,Bernard,Twycross,21,38403772.14,Computer Science,0.68,10/2/2021,10/16/2023,Bernard Twycross
+292,Conni,De Ruggero,21,1008537.03,Computer Science,1.51,4/7/2020,5/15/2024,Conni De Ruggero
+293,Fidel,,21,,Computer Science,3.51,11/20/2019,8/23/2025,Fidel Henighan
+294,Holt,,20,18996776.32,Biology,1.95,11/28/2020,9/2/2025,Holt Haken
+295,Gaylord,Todeo,18,57252890.84,History,3.23,4/20/2021,9/26/2025,Gaylord Todeo
+296,Jeddy,Giannini,20,,History,3.89,6/8/2019,5/6/2024,
+297,Phillida,Ginglell,20,49425416.63,Biology,2.34,9/27/2021,7/3/2024,Phillida Ginglell
+298,Augie,,21,22943913.88,History,0.34,8/11/2021,7/5/2024,Augie Izakson
+299,Wash,,25,36758018.81,Biology,3.05,1/6/2020,2/13/2025,Wash Trafford
+300,Tanny,,22,62661356.92,Computer Science,0.05,1/21/2019,1/13/2024,Tanny Spyby
+301,Ardenia,Leschelle,22,,Biology,0.28,6/23/2021,12/27/2024,Ardenia Leschelle
+302,Gard,Speir,20,,Biology,1.93,11/25/2019,7/3/2025,Gard Speir
+303,Marlyn,Wyant,25,19542613.32,History,1.0,5/9/2021,2/4/2023,Marlyn Wyant
+304,Catlaina,Benedict,19,72447082.53,History,0.81,6/29/2020,10/10/2023,Catlaina Benedict
+305,Katharyn,Iacapucci,22,88465308.49,Computer Science,1.69,4/6/2020,4/2/2024,
+306,Haslett,,23,83442542.49,Computer Science,0.34,7/6/2020,9/18/2024,Haslett Priestley
+307,Martie,,18,37607466.92,Computer Science,1.78,1/8/2020,4/19/2023,Martie St Angel
+308,Barbee,Sugar,23,5195624.71,Biology,0.91,4/18/2019,12/1/2024,Barbee Sugar
+309,Umberto,,20,54372475.46,Biology,0.67,2/24/2020,12/4/2025,Umberto Skace
+310,Jeramie,,25,,Biology,1.29,10/22/2021,11/15/2024,Jeramie Tettley
+311,Ellen,,22,40490723.59,History,0.89,6/13/2020,6/22/2025,Ellen Achurch
+312,Kenton,Armatage,21,68106432.01,History,3.81,6/23/2021,10/2/2024,Kenton Armatage
+313,Romona,Pedrazzi,18,,History,2.35,10/21/2021,8/24/2025,
+314,Roana,,21,,Computer Science,2.65,5/8/2021,11/27/2025,Roana O'Nion
+315,Edgardo,Farrent,19,28855219.68,Biology,0.91,1/13/2019,8/1/2023,Edgardo Farrent
+316,Menard,Litherborough,23,79393822.54,History,1.83,1/10/2020,1/12/2025,Menard Litherborough
+317,Abba,Pember,19,42910217.64,Biology,2.83,8/24/2021,8/24/2024,Abba Pember
+318,Monique,Jacqueme,19,54860005.3,History,1.85,12/12/2019,6/2/2023,Monique Jacqueme
+319,Kennedy,,18,84702119.63,Biology,3.39,6/1/2019,8/17/2025,
+320,Laurent,Ryding,24,96623990.44,Computer Science,3.72,8/22/2019,12/24/2025,Laurent Ryding
+321,Tybi,Sizzey,20,,History,3.99,4/15/2019,4/27/2023,Tybi Sizzey
+322,Gifford,,22,82817171.82,Biology,2.22,11/17/2020,10/3/2024,Gifford Watkiss
+323,Rasia,,18,27175282.95,History,2.22,10/11/2019,12/13/2023,
+324,Shelley,Twelvetrees,24,69582368.93,History,3.35,6/22/2019,3/20/2023,
+325,Xylia,Kevane,24,78464683.9,History,3.53,9/3/2020,9/13/2024,Xylia Kevane
+326,Thelma,Hallan,23,24618448.0,Biology,2.93,10/14/2020,10/19/2025,Thelma Hallan
+327,Gilles,Emerton,23,30589731.51,Computer Science,1.67,10/26/2021,6/10/2024,Gilles Emerton
+328,Pat,,19,83968945.86,History,3.89,11/6/2021,10/29/2024,Pat Bugby
+329,Jens,Druitt,20,75337141.12,Computer Science,0.22,6/29/2019,5/28/2023,
+330,Jeana,Fleg,25,22373381.86,Biology,0.0,11/25/2021,8/6/2023,Jeana Fleg
+331,Tiffanie,Blacklidge,21,31382714.26,History,3.91,12/3/2020,3/22/2023,Tiffanie Blacklidge
+332,Lenard,,24,72092179.01,Biology,0.48,4/16/2020,4/22/2024,Lenard Thomson
+333,Beverly,,18,45076747.42,Biology,2.27,8/26/2021,6/12/2025,Beverly Belhome
+334,Porter,,19,19621458.06,Biology,3.96,8/20/2020,3/25/2023,Porter Jann
+335,Tam,Louche,24,92195490.04,History,2.67,11/7/2019,1/28/2025,
+336,Padget,Applewhite,22,68918549.09,Biology,3.16,9/29/2021,8/2/2025,Padget Applewhite
+337,,Wickersley,19,87762479.5,Computer Science,0.58,8/18/2021,11/11/2024,Idell Wickersley
+338,Michelle,Woolacott,24,11684565.29,Computer Science,2.26,11/11/2020,6/12/2024,Michelle Woolacott
+339,Blair,MacMenamie,18,91179562.27,Biology,0.79,9/23/2019,6/28/2025,Blair MacMenamie
+340,Crissie,Vuittet,21,51268036.2,Biology,1.11,6/17/2020,2/26/2024,
+341,Danya,Canfield,21,,Biology,3.77,1/3/2019,10/31/2025,Danya Canfield
+342,Ethelda,Rikel,23,10396665.27,Biology,3.78,6/16/2020,10/29/2023,Ethelda Rikel
+343,Koren,Fattori,22,79313248.54,History,1.89,12/14/2020,1/25/2025,Koren Fattori
+344,Orella,Hun,23,27640818.48,History,1.87,11/29/2020,1/13/2023,Orella Hun
+345,Haywood,,23,79221089.59,Biology,0.57,12/9/2021,2/26/2023,Haywood Onions
+346,Wendell,,20,943602.59,Biology,2.13,6/3/2019,3/25/2025,
+347,Riley,McBayne,22,1857677.74,Biology,1.42,11/9/2021,7/25/2024,Riley McBayne
+348,Wayland,,23,,Computer Science,0.83,2/23/2021,10/6/2025,Wayland Vogt
+349,Pascale,,18,51192299.73,Computer Science,0.25,7/14/2019,8/10/2025,Pascale Bambury
+350,Abran,Brimham,21,97533577.27,Computer Science,2.94,8/21/2019,12/4/2025,Abran Brimham
+351,Timmy,,18,91278921.45,Computer Science,3.98,10/10/2019,4/17/2025,Timmy Aiken
+352,Kerby,,23,20413702.79,Biology,1.57,3/22/2021,6/7/2024,Kerby Molian
+353,Joshia,Tripony,24,12132019.35,Biology,1.49,9/20/2020,5/7/2024,Joshia Tripony
+354,Clare,Dumbrall,25,94781487.97,History,0.05,11/23/2021,7/4/2024,Clare Dumbrall
+355,Jill,,20,,Biology,3.35,1/2/2019,11/6/2025,Jill Cometti
+356,Domini,,20,7806326.68,Computer Science,0.22,10/15/2021,12/11/2025,Domini Lucks
+357,Chicky,Nacci,21,21688433.77,History,3.15,9/17/2019,1/14/2023,Chicky Nacci
+358,Filmore,Ebbotts,19,6689134.75,History,3.81,3/3/2019,1/31/2024,Filmore Ebbotts
+359,Towny,,19,47736672.44,Biology,0.11,3/26/2020,7/21/2023,Towny Pedroli
+360,Ignace,Anchor,23,91415729.13,Computer Science,3.58,8/11/2019,5/24/2024,Ignace Anchor
+361,Francisco,,25,78482801.31,History,3.24,5/24/2020,5/22/2023,
+362,Blythe,D'Elia,21,,History,2.61,6/21/2020,10/24/2024,Blythe D'Elia
+363,Marven,,18,98031682.62,Computer Science,0.53,2/20/2021,8/15/2024,Marven Twells
+364,Gayelord,,18,,History,0.36,11/16/2020,6/20/2023,Gayelord Chominski
+365,Ahmad,Ambrosini,22,,Computer Science,0.32,12/11/2020,7/7/2023,
+366,Sela,Marvin,25,3753732.99,Computer Science,1.64,6/12/2019,5/20/2023,Sela Marvin
+367,Roseann,Yoell,20,41723969.2,Computer Science,3.12,4/21/2019,2/17/2025,Roseann Yoell
+368,Sidney,Yoakley,22,98492528.91,Biology,1.04,3/24/2021,9/6/2023,Sidney Yoakley
+369,Grannie,MacAlpin,21,94448840.46,Computer Science,2.97,7/8/2019,1/5/2025,Grannie MacAlpin
+370,,Harle,25,18920241.37,Computer Science,0.55,2/24/2021,9/28/2025,Miguela Harle
+371,Gill,Pre,23,51323009.47,Computer Science,0.24,9/18/2019,4/9/2025,Gill Pre
+372,Caryl,Burgett,25,,Computer Science,0.61,8/11/2021,4/7/2025,Caryl Burgett
+373,Lusa,Suddock,18,,Biology,1.07,3/20/2019,4/13/2024,Lusa Suddock
+374,Flory,Barnewille,25,35387436.95,History,0.24,9/7/2021,6/8/2023,Flory Barnewille
+375,Genvieve,,23,35724266.93,Computer Science,3.94,10/18/2019,6/14/2023,Genvieve Vasiljevic
+376,Tommy,Nottingam,22,23625619.17,Biology,1.84,11/16/2021,5/4/2024,Tommy Nottingam
+377,Perri,Petrelli,19,,Biology,2.85,10/28/2021,7/3/2024,Perri Petrelli
+378,Natalya,Norcliff,23,29517964.49,History,0.54,5/7/2020,4/17/2024,Natalya Norcliff
+379,Dianemarie,Costelow,23,,Biology,1.01,6/19/2019,6/4/2025,Dianemarie Costelow
+380,Anya,,19,1141940.61,History,3.63,2/20/2020,5/24/2025,Anya Megainey
+381,Ashleigh,Barson,20,95943828.68,Computer Science,3.16,5/5/2020,5/31/2023,Ashleigh Barson
+382,Cirstoforo,Habron,25,80849052.52,Biology,0.48,2/28/2019,4/28/2025,Cirstoforo Habron
+383,Fredrick,Phipson,20,54831814.04,Biology,3.55,4/4/2019,2/28/2024,Fredrick Phipson
+384,Janaya,,20,,History,3.12,3/18/2021,1/5/2025,Janaya Kellett
+385,Anatole,Achromov,24,46944979.93,History,1.23,7/7/2020,6/14/2024,Anatole Achromov
+386,Reece,Grishaev,20,31938792.81,Computer Science,2.1,9/16/2019,4/2/2024,
+387,Marillin,Bradburn,24,28813434.69,Computer Science,2.44,7/8/2020,9/27/2024,Marillin Bradburn
+388,Stephenie,Chern,25,99896527.14,History,0.44,5/26/2021,7/11/2025,Stephenie Chern
+389,Rufe,Grimston,23,37274578.46,Computer Science,1.21,2/13/2019,11/26/2024,Rufe Grimston
+390,Annice,Klimek,22,73122298.19,Computer Science,3.84,8/3/2019,9/28/2023,Annice Klimek
+391,Thibaut,Chatt,20,42337979.63,Computer Science,3.99,8/18/2021,1/27/2023,Thibaut Chatt
+392,Kathy,Mighele,20,,Computer Science,0.32,4/18/2020,6/1/2023,Kathy Mighele
+393,Orel,Manchester,21,,Computer Science,2.38,1/3/2020,9/12/2024,Orel Manchester
+394,Gannon,Lemme,22,16218635.9,Computer Science,0.66,11/10/2021,8/21/2024,Gannon Lemme
+395,,Josefsohn,22,51170508.46,Computer Science,2.39,6/14/2019,8/8/2023,
+396,Deb,Abbey,23,,Computer Science,1.16,11/15/2020,3/25/2024,
+397,,Wix,23,,Computer Science,2.34,5/29/2019,4/20/2024,Reina Wix
+398,Brooks,MacAfee,20,44224948.94,Computer Science,0.69,6/15/2019,8/10/2024,Brooks MacAfee
+399,Sib,,20,77010195.12,Biology,1.04,7/25/2019,9/25/2023,Sib Connal
+400,Brand,M'Chirrie,19,54024647.67,History,0.58,1/7/2021,11/16/2023,Brand M'Chirrie
+401,Cherie,Antonetti,23,10744790.53,Biology,2.24,7/26/2020,5/6/2024,Cherie Antonetti
+402,Thibaut,Ducrow,21,,History,2.25,7/20/2019,12/1/2023,Thibaut Ducrow
+403,Bert,Birtwisle,21,5325186.24,Biology,3.06,11/10/2019,11/19/2024,Bert Birtwisle
+404,Blondell,Briereton,19,69699574.35,Computer Science,3.87,11/2/2021,11/17/2024,Blondell Briereton
+405,Conny,Mattisssen,20,38604802.84,History,0.71,6/11/2020,12/7/2025,Conny Mattisssen
+406,,Bridie,25,97466955.46,Biology,0.22,3/25/2019,6/1/2025,
+407,Lettie,Desseine,22,14712913.09,Biology,3.32,1/25/2020,5/9/2025,Lettie Desseine
+408,Maggie,Coventry,22,,History,2.57,5/16/2019,1/27/2025,Maggie Coventry
+409,Shanon,,19,94093108.3,Computer Science,1.86,2/17/2020,7/12/2023,Shanon Beadham
+410,,Delong,22,970433.1,Computer Science,0.58,4/9/2021,1/13/2025,
+411,Nicholas,Shildrick,22,97440488.74,Computer Science,1.67,8/16/2021,5/6/2025,Nicholas Shildrick
+412,Lodovico,Jowsey,24,58871457.18,Computer Science,3.14,8/23/2021,9/29/2025,Lodovico Jowsey
+413,Lynn,Didsbury,24,,History,3.82,12/29/2019,4/24/2024,Lynn Didsbury
+414,Kayne,,22,,Computer Science,3.02,3/20/2021,11/22/2023,Kayne Bernadot
+415,Parnell,Laister,20,48976335.2,History,0.72,6/13/2019,7/14/2024,Parnell Laister
+416,Ive,Pasmore,22,1434253.23,Biology,0.18,5/5/2021,6/13/2024,Ive Pasmore
+417,Christos,Drissell,20,66952215.61,History,0.79,8/25/2021,10/4/2023,
+418,Edward,,19,46344130.86,Biology,2.23,1/4/2020,10/26/2025,Edward Edmeads
+419,Vidovik,Simonot,20,91102431.78,Biology,3.79,11/11/2021,3/19/2023,Vidovik Simonot
+420,Janenna,Legen,20,90909616.31,Biology,0.17,4/1/2020,7/10/2024,Janenna Legen
+421,Deerdre,,24,25382811.76,Biology,0.32,11/21/2019,11/25/2024,Deerdre Gilbertson
+422,Salvidor,,25,14773701.49,Biology,1.7,11/7/2019,11/19/2023,Salvidor Figgures
+423,Keenan,Bramhill,21,13323964.54,Computer Science,2.96,7/16/2019,12/1/2023,Keenan Bramhill
+424,Hobard,,22,,History,1.89,3/14/2021,1/27/2024,Hobard Killich
+425,Leandra,Pauluzzi,21,14556311.45,History,0.11,7/14/2021,3/31/2023,Leandra Pauluzzi
+426,,,23,51034927.62,Biology,2.8,6/24/2019,1/28/2023,Lisbeth Jubert
+427,Lisha,Janssens,24,,Computer Science,1.05,8/11/2021,2/18/2024,Lisha Janssens
+428,Hew,McKibben,20,89747615.73,Biology,2.41,3/20/2020,10/31/2025,
+429,Dinny,MacNess,21,76897490.37,History,2.24,7/8/2019,1/20/2025,Dinny MacNess
+430,,,24,65825236.59,Computer Science,1.88,12/22/2021,4/17/2025,Jocelyn Dobkin
+431,Ingrid,Hanington,18,,Computer Science,1.23,8/2/2019,12/14/2023,Ingrid Hanington
+432,Niki,Mitskevich,21,29036255.81,History,2.02,6/15/2020,12/5/2024,Niki Mitskevich
+433,Allix,Harpur,25,,History,0.74,7/31/2019,4/27/2025,Allix Harpur
+434,Jerrie,Makiver,24,25832541.04,History,2.54,5/11/2021,4/20/2023,Jerrie Makiver
+435,Dasha,Goldsworthy,21,20335555.84,Computer Science,0.75,7/2/2021,7/4/2023,Dasha Goldsworthy
+436,Gweneth,Pietrzak,21,23693028.47,Computer Science,2.52,2/9/2020,10/11/2024,Gweneth Pietrzak
+437,Judith,,24,29452710.41,History,2.14,4/15/2020,2/19/2025,Judith Files
+438,Lance,McGuire,18,6962335.02,History,1.37,6/13/2019,4/12/2025,Lance McGuire
+439,Holly,Palatino,19,68602760.13,History,1.01,2/21/2019,5/8/2023,Holly Palatino
+440,,,22,69212938.73,Computer Science,1.75,6/21/2021,12/2/2023,Egan MacKey
+441,Torin,,22,50554553.09,History,3.01,7/6/2021,8/11/2023,Torin Pellant
+442,Pepito,,18,52270903.24,Computer Science,2.44,2/1/2019,11/12/2023,Pepito Boniface
+443,Gabriella,Shaplin,24,8225472.51,Computer Science,3.13,10/12/2019,10/9/2024,Gabriella Shaplin
+444,Sheila,Heam,18,31029907.93,Biology,2.32,3/7/2021,6/10/2024,Sheila Heam
+445,Kirsteni,,18,,Computer Science,0.72,5/15/2019,5/29/2024,Kirsteni Danbi
+446,Shane,,21,,Computer Science,1.14,5/2/2019,9/21/2024,
+447,Traci,,21,35623250.92,Computer Science,0.6,6/12/2020,9/6/2023,Traci Castelli
+448,Rona,,22,42444884.95,Biology,3.59,11/1/2020,4/25/2023,Rona Shenley
+449,Yolanthe,,20,42580626.5,Biology,2.53,1/29/2021,9/17/2025,Yolanthe Jailler
+450,Harlie,Jeanes,21,40446127.43,History,2.36,9/3/2021,1/19/2025,Harlie Jeanes
+451,Karol,McGlynn,19,67651286.91,History,1.46,3/2/2021,4/20/2024,Karol McGlynn
+452,Rubetta,,20,,Computer Science,1.54,7/6/2019,10/7/2025,
+453,Audrey,Hellin,25,8498440.98,History,3.24,4/5/2021,2/22/2025,Audrey Hellin
+454,Sunshine,Forrester,22,41574326.95,Computer Science,3.72,8/10/2019,12/5/2023,Sunshine Forrester
+455,Morton,Gabbett,21,27724865.96,History,3.21,10/5/2020,1/4/2023,Morton Gabbett
+456,Kennedy,,18,29694018.55,History,3.2,6/10/2019,2/3/2024,Kennedy Utley
+457,Wendie,Battram,22,50806490.73,Biology,0.52,8/4/2021,3/29/2024,Wendie Battram
+458,Lorilyn,,23,33810044.86,Biology,1.44,12/11/2021,10/19/2025,Lorilyn Hawkyens
+459,,Base,25,1404547.39,Computer Science,3.56,1/20/2019,12/14/2025,Ximenes Base
+460,Kele,,23,88510958.01,History,1.12,3/15/2019,11/30/2025,Kele Alfonsini
+461,Dex,McAline,25,,History,1.49,7/27/2019,7/1/2024,Dex McAline
+462,Reena,Agron,18,77224806.66,Biology,3.54,5/24/2021,7/13/2024,Reena Agron
+463,Mitzi,,19,91518820.96,Computer Science,3.22,3/7/2021,5/6/2023,Mitzi Placido
+464,,Ruegg,20,96734718.16,History,1.3,10/8/2020,10/28/2024,Carla Ruegg
+465,Antonie,McEntee,25,60668684.55,Biology,1.01,2/16/2021,7/5/2023,Antonie McEntee
+466,Ddene,Tregunna,25,45942773.07,Computer Science,1.96,9/4/2019,7/30/2024,Ddene Tregunna
+467,Conrado,Fairbrace,18,87494828.73,History,3.64,12/8/2021,10/6/2025,Conrado Fairbrace
+468,Jessika,O'Carrol,22,,Computer Science,0.04,9/6/2021,8/16/2025,Jessika O'Carrol
+469,Morena,Clatworthy,21,7521350.0,History,0.24,5/24/2020,11/7/2025,Morena Clatworthy
+470,Leonhard,Spadari,22,47217449.11,History,2.75,6/15/2019,8/29/2024,Leonhard Spadari
+471,Seline,,21,37368947.27,Computer Science,0.28,11/24/2020,10/18/2025,Seline Brakewell
+472,Kermit,Brilleman,24,32512857.29,Computer Science,1.38,4/6/2019,1/8/2025,Kermit Brilleman
+473,Kesley,Braghini,25,1007115.74,History,1.73,12/23/2020,8/26/2025,Kesley Braghini
+474,Berenice,Wort,25,46427995.44,History,2.62,7/26/2020,9/9/2023,Berenice Wort
+475,Sergeant,,24,36117203.54,History,3.88,5/17/2020,3/20/2024,Sergeant Girault
+476,Amara,Brownill,19,62425426.42,Biology,0.86,3/8/2020,4/5/2025,
+477,Lyda,Raistrick,23,15320278.95,Biology,0.64,2/17/2019,5/31/2023,Lyda Raistrick
+478,Pippy,Fairhurst,24,60762783.16,Biology,0.68,9/25/2020,2/21/2024,Pippy Fairhurst
+479,Robbie,Roydon,21,52239559.36,Biology,0.5,4/21/2021,12/9/2024,
+480,Guillemette,,20,98553890.63,Biology,0.48,7/2/2019,8/14/2024,Guillemette Fackrell
+481,Delmer,Cullum,23,63448360.09,Biology,2.07,11/24/2019,5/14/2023,Delmer Cullum
+482,Costanza,Yerrington,20,79702123.52,Computer Science,1.98,6/5/2021,7/2/2023,Costanza Yerrington
+483,Chandal,,21,58850782.63,Biology,0.62,5/7/2019,7/18/2023,Chandal Knifton
+484,Bibbie,,24,28764231.85,History,1.59,11/10/2019,7/6/2025,Bibbie Corradengo
+485,Rois,Locket,21,84412715.96,Biology,2.99,1/25/2019,11/19/2024,Rois Locket
+486,Aloisia,Gehring,22,27444360.01,Computer Science,1.88,6/29/2021,1/20/2024,Aloisia Gehring
+487,Barret,Boyland,25,86838159.93,History,2.96,3/12/2019,8/19/2024,Barret Boyland
+488,Bliss,,21,42826318.95,History,3.21,9/26/2021,3/27/2023,Bliss Smeeth
+489,,,18,,History,0.41,9/18/2020,11/30/2024,Barbi Loudon
+490,Romy,,23,56290728.02,History,3.14,5/30/2021,8/18/2024,Romy Loynton
+491,Dianne,Rowly,18,64341482.5,Biology,1.01,12/25/2020,8/3/2025,
+492,Lissi,,18,,History,2.3,1/3/2020,1/20/2025,Lissi Yurmanovev
+493,Lynna,Solley,19,12704138.42,Biology,3.42,5/4/2019,12/17/2025,
+494,Urson,Eixenberger,19,32932437.31,Computer Science,0.26,7/25/2019,7/16/2024,Urson Eixenberger
+495,,,24,89905113.8,Biology,2.08,2/12/2019,2/29/2024,Tucky Penhale
+496,Laura,Bjorkan,25,46393715.85,Computer Science,3.65,3/3/2020,1/3/2025,
+497,Granger,Keohane,18,21618252.59,Computer Science,1.0,5/12/2019,4/7/2024,Granger Keohane
+498,Shannon,Fawdrey,22,,Biology,2.85,10/23/2020,2/15/2024,
+499,Janene,De Bischop,20,24081729.44,Biology,1.63,5/2/2021,12/18/2025,Janene De Bischop
+500,Shell,Brisley,25,,Biology,3.71,6/3/2021,9/7/2023,Shell Brisley
+501,Fletcher,Elves,22,70717426.15,Biology,2.81,3/16/2020,4/24/2025,Fletcher Elves
+502,Shamus,Chess,18,72433586.77,Biology,1.9,4/8/2020,8/29/2023,Shamus Chess
+503,Ransom,,21,,Biology,3.69,10/29/2019,1/12/2023,Ransom McArthur
+504,,Swadden,18,,History,3.26,3/28/2021,2/23/2024,Dniren Swadden
+505,Rock,Bigham,22,68625648.78,Biology,1.68,5/27/2019,1/23/2024,Rock Bigham
+506,Loutitia,Aynscombe,19,98689063.34,Biology,3.23,2/14/2020,7/7/2024,Loutitia Aynscombe
+507,Diahann,Phippard,24,93506758.57,Computer Science,3.84,2/7/2019,2/17/2023,Diahann Phippard
+508,Balduin,,21,,Computer Science,0.96,7/29/2020,5/18/2025,Balduin Bargh
+509,Davidson,Vaughton,25,12700693.84,Biology,3.22,6/6/2019,8/3/2025,Davidson Vaughton
+510,Baxie,,18,80304683.24,History,0.61,3/13/2021,6/21/2024,Baxie Embling
+511,Jed,,19,4641211.03,History,1.73,9/25/2020,1/22/2025,Jed Haddock
+512,Carolin,Rene,23,24829002.43,Biology,3.75,7/22/2020,11/19/2024,Carolin Rene
+513,Bernette,Clewlowe,19,42433124.9,Computer Science,2.73,2/24/2019,10/6/2024,Bernette Clewlowe
+514,Kerrin,Saladino,24,,Computer Science,3.89,12/28/2020,10/23/2024,
+515,Lorita,Hacquel,19,44476742.42,History,3.69,12/9/2020,9/1/2024,Lorita Hacquel
+516,,,24,85081431.89,Biology,3.97,9/29/2020,11/16/2025,Allyn Maleham
+517,Lucio,Wrack,19,,Biology,1.34,1/30/2020,3/10/2024,Lucio Wrack
+518,Deirdre,Loder,21,28508652.78,History,3.82,5/26/2020,5/4/2025,Deirdre Loder
+519,Caterina,,21,,Biology,1.44,9/1/2021,12/16/2024,Caterina Youell
+520,Emmalyn,,19,22841558.5,History,2.83,5/26/2020,9/2/2025,Emmalyn Kruschov
+521,Liza,Dugald,20,69664516.92,Biology,3.65,10/1/2020,6/5/2025,Liza Dugald
+522,Jinny,,19,45651740.95,Computer Science,3.0,3/25/2019,10/25/2025,Jinny Lidgerton
+523,Aloise,Wiltshear,22,,Biology,3.15,1/5/2021,5/26/2023,Aloise Wiltshear
+524,Scott,Spindler,22,28078962.56,Biology,2.79,6/1/2021,1/23/2023,Scott Spindler
+525,Cami,,25,82618087.2,Computer Science,0.03,4/3/2021,1/12/2023,Cami Gonet
+526,Ruddie,Jeeves,24,40720622.48,Computer Science,2.43,8/15/2019,7/10/2023,Ruddie Jeeves
+527,Tonnie,Matiashvili,22,17409697.12,Biology,1.03,5/16/2020,8/15/2023,Tonnie Matiashvili
+528,Corrie,Grabert,18,,Computer Science,1.23,8/15/2020,11/12/2023,Corrie Grabert
+529,Gwyneth,,18,76934247.99,Biology,0.5,7/27/2019,10/6/2023,Gwyneth Siseland
+530,Legra,MacDonogh,25,96084225.57,Biology,1.8,10/28/2020,9/12/2023,Legra MacDonogh
+531,Ferdinand,Benneton,23,,Computer Science,2.1,12/5/2021,3/21/2023,Ferdinand Benneton
+532,Dru,Gillon,23,20606012.44,History,3.24,9/25/2019,6/25/2024,Dru Gillon
+533,Adamo,Jermyn,19,79775670.7,Biology,0.37,12/20/2019,1/10/2023,Adamo Jermyn
+534,Marlowe,,18,33207021.54,Computer Science,1.03,6/2/2020,12/13/2024,Marlowe Scoines
+535,Arie,,25,3478311.77,Computer Science,1.01,2/4/2019,12/24/2023,Arie Brehat
+536,Loise,Hatcliffe,20,71989592.69,Computer Science,1.54,5/6/2021,11/24/2025,Loise Hatcliffe
+537,Sybila,,21,37612631.03,History,3.42,1/25/2021,6/15/2024,Sybila Suffe
+538,Esmaria,Snasdell,25,71900929.88,History,0.18,10/12/2019,7/19/2023,
+539,Orville,Biscomb,24,48619523.13,History,2.8,1/20/2020,2/22/2025,Orville Biscomb
+540,Reynolds,,19,91409602.5,Biology,3.83,8/6/2020,1/17/2025,Reynolds Champneys
+541,Gradey,Sivell,24,72974602.75,History,0.32,4/7/2020,8/24/2024,Gradey Sivell
+542,Kerstin,,22,,History,3.17,2/11/2021,3/20/2023,Kerstin Manjin
+543,Winna,Pizzie,23,42934469.21,Biology,1.14,2/22/2020,12/1/2023,Winna Pizzie
+544,Haskell,,23,88627070.46,Computer Science,3.28,2/9/2021,12/9/2024,Haskell Gallimore
+545,,Larter,23,60631760.95,Computer Science,3.6,12/24/2021,1/7/2024,Ashla Larter
+546,Frederic,,23,51056713.15,History,1.97,1/22/2021,2/22/2025,Frederic Glanz
+547,Harp,Holmyard,21,32256375.39,Computer Science,3.47,10/18/2020,11/25/2023,Harp Holmyard
+548,Anna-maria,Scutt,20,31378681.57,Computer Science,3.88,1/4/2019,12/19/2024,Anna-maria Scutt
+549,,,22,61526881.02,Computer Science,2.57,2/9/2019,5/29/2023,Franzen Exer
+550,Burch,,21,19669914.13,Biology,2.79,7/29/2019,5/20/2025,Burch Ivel
+551,Angelique,,21,74485628.69,History,3.08,9/9/2021,5/12/2024,Angelique Barnett
+552,Johnathon,,19,97350340.52,Computer Science,1.89,12/15/2019,8/14/2024,
+553,Forest,Perrycost,24,,Computer Science,2.26,5/27/2021,10/20/2025,Forest Perrycost
+554,Wynne,Iiannoni,23,1911738.84,Computer Science,1.96,6/15/2019,7/12/2023,Wynne Iiannoni
+555,Cecilia,,24,7716906.14,Computer Science,1.17,7/5/2020,6/2/2025,Cecilia Weinham
+556,Wini,,23,29824510.3,Biology,2.78,4/2/2021,3/4/2025,Wini Hearsum
+557,Andre,Wollers,25,42034435.34,Biology,0.72,6/30/2020,4/9/2023,Andre Wollers
+558,Karlan,East,19,74065365.43,Computer Science,3.34,5/3/2020,5/1/2025,Karlan East
+559,Fabian,,20,7908891.51,Biology,2.57,8/5/2019,1/27/2025,Fabian Scard
+560,Galven,Ewbank,23,83073794.02,History,1.21,3/28/2019,2/1/2025,Galven Ewbank
+561,Minne,Back,22,78182405.07,Computer Science,0.17,3/3/2021,9/5/2024,Minne Back
+562,Orelle,Bend,20,22544672.68,Biology,2.99,10/3/2021,8/2/2023,Orelle Bend
+563,Rafferty,Dello,19,12743056.93,Biology,1.33,9/21/2020,5/8/2023,Rafferty Dello
+564,Melvyn,,18,4482623.8,Computer Science,3.77,10/26/2020,7/2/2024,Melvyn Lamp
+565,Hurley,Ivashnyov,20,46141110.55,History,0.95,4/13/2021,9/10/2024,Hurley Ivashnyov
+566,Dru,,18,,Biology,3.62,3/17/2020,7/28/2024,Dru Neles
+567,,Keenlyside,24,67434280.32,History,2.02,7/7/2020,5/28/2023,Travers Keenlyside
+568,Lowell,,20,,Biology,3.49,10/13/2019,3/23/2025,Lowell Merrill
+569,Conan,Hardwell,18,92815773.35,Computer Science,3.57,2/5/2020,12/22/2025,Conan Hardwell
+570,Allard,Cutsforth,21,,Computer Science,3.17,9/13/2019,10/18/2023,Allard Cutsforth
+571,Aubert,Daintier,21,,Biology,3.79,8/10/2021,11/27/2024,Aubert Daintier
+572,Easter,,21,63007297.88,Biology,3.84,12/18/2019,4/17/2025,
+573,Binni,,22,46837394.88,Biology,3.59,4/23/2021,1/12/2023,Binni Mundall
+574,,Naisbit,25,80584480.15,History,0.51,4/10/2021,9/12/2025,Benji Naisbit
+575,Felice,Plumb,20,82179193.06,History,1.18,10/1/2019,6/18/2023,
+576,Nomi,Mullany,25,61651077.94,Biology,2.87,4/3/2019,9/23/2025,Nomi Mullany
+577,Zane,Dziwisz,25,43574130.21,Biology,2.98,10/1/2021,3/5/2025,Zane Dziwisz
+578,Virgie,,21,44467425.52,Computer Science,2.1,2/5/2020,12/4/2025,Virgie Littlefield
+579,Leonie,,18,,Biology,2.19,6/19/2019,3/14/2023,Leonie Gronou
+580,,Laxton,19,,Computer Science,2.36,5/20/2020,4/7/2025,Fraze Laxton
+581,Kimmi,,22,25044996.91,Biology,3.88,6/4/2020,10/17/2023,Kimmi Agnolo
+582,Tye,Crohan,18,26034694.77,Computer Science,3.0,11/15/2019,10/21/2024,Tye Crohan
+583,Krisha,Brunelli,21,35112452.17,History,0.25,4/26/2019,1/11/2025,
+584,Audy,McShirie,24,20482602.09,Biology,1.93,1/22/2019,8/13/2023,Audy McShirie
+585,Libbey,,21,,History,1.59,8/11/2020,3/12/2023,Libbey Gateshill
+586,Arliene,Meachem,19,41956077.55,Computer Science,3.98,8/18/2019,2/22/2023,Arliene Meachem
+587,,Hagstone,23,,History,2.03,8/5/2019,9/18/2025,
+588,Stanfield,Struijs,25,6476084.06,Biology,0.46,2/18/2021,7/14/2023,
+589,Arliene,,20,93163817.84,Computer Science,3.15,3/26/2019,1/29/2025,Arliene Costell
+590,Launce,Ankrett,21,95636458.01,Computer Science,2.75,3/16/2020,7/4/2023,Launce Ankrett
+591,Denna,Kareman,24,11450089.66,Computer Science,3.66,12/6/2019,8/23/2023,Denna Kareman
+592,Tobie,Matthewson,25,67930092.2,Biology,2.12,6/28/2021,4/13/2023,Tobie Matthewson
+593,Joachim,O'Currane,23,14828929.52,Biology,2.8,12/1/2020,6/26/2024,Joachim O'Currane
+594,Aarika,Jansema,23,43160633.83,History,1.56,1/16/2020,1/18/2024,Aarika Jansema
+595,Ozzie,Terbeek,18,43914763.2,Biology,0.73,10/29/2021,4/7/2025,Ozzie Terbeek
+596,Dulcy,,25,46173618.59,Computer Science,2.11,8/6/2019,7/5/2025,
+597,Hyacintha,Fulkes,23,93344440.55,Biology,3.02,4/21/2020,3/8/2025,Hyacintha Fulkes
+598,Warden,,21,3313237.69,Biology,3.03,2/16/2021,8/13/2025,Warden Kupper
+599,Chan,,25,,History,0.61,1/26/2020,10/29/2025,Chan Roskruge
+600,Aeriell,Abele,22,2023128.71,History,0.19,9/12/2021,10/5/2025,Aeriell Abele
+601,Salome,,24,90921203.09,Computer Science,0.96,10/4/2020,8/22/2023,Salome Heskin
+602,Marijo,Terris,24,10632920.01,History,0.07,2/25/2021,6/1/2023,Marijo Terris
+603,Jarrad,Mallatratt,20,30834649.04,Computer Science,1.44,9/6/2019,12/14/2025,
+604,Agathe,,24,,Biology,1.75,11/17/2019,10/12/2023,Agathe Leatham
+605,Andras,Persence,22,4072115.4,Biology,3.77,1/4/2019,2/26/2024,Andras Persence
+606,Abramo,,24,76395644.67,Biology,1.91,1/3/2021,11/23/2023,Abramo Alyukin
+607,Jasmin,Plaskitt,24,58423239.7,History,3.59,7/23/2021,2/26/2024,Jasmin Plaskitt
+608,Patrick,,21,15170774.02,Computer Science,2.49,2/21/2021,1/18/2024,Patrick Claris
+609,Temple,Robrose,22,,Computer Science,1.62,10/19/2020,10/24/2025,Temple Robrose
+610,Jasper,Burgot,25,37122229.32,History,3.49,9/3/2019,11/30/2023,Jasper Burgot
+611,Michaeline,Hazzard,18,75501731.62,Biology,2.75,4/7/2019,9/2/2024,
+612,Blair,Bonham,22,6248928.07,History,2.08,6/28/2019,10/21/2024,Blair Bonham
+613,,Eisold,23,68025318.33,Biology,3.9,9/4/2019,7/19/2025,Sigvard Eisold
+614,Babette,,18,,Computer Science,0.38,5/12/2021,9/14/2023,Babette Michelotti
+615,Alejoa,,24,87818848.95,History,0.9,3/13/2020,3/27/2025,Alejoa Langlais
+616,Godart,Palfrie,22,58753198.97,History,3.07,9/15/2021,4/8/2025,Godart Palfrie
+617,Catherine,,18,82103230.45,Biology,3.61,5/28/2019,7/27/2024,Catherine Somerfield
+618,Fancie,Bartod,20,,History,3.97,9/10/2020,11/8/2025,Fancie Bartod
+619,Annalee,d'Arcy,22,94971583.19,Biology,0.27,4/17/2021,4/20/2024,Annalee d'Arcy
+620,Bamby,,25,25071537.69,Computer Science,1.81,5/27/2021,10/27/2023,
+621,Creigh,Boobier,18,82444394.67,Biology,0.42,7/7/2019,9/14/2024,Creigh Boobier
+622,Luce,Grieswood,21,,Computer Science,3.76,3/16/2019,11/19/2023,Luce Grieswood
+623,Caitlin,Dreye,25,47498313.27,Computer Science,3.6,3/1/2021,5/5/2024,Caitlin Dreye
+624,Liam,Rogliero,21,96210989.28,Computer Science,0.09,8/6/2020,6/17/2023,Liam Rogliero
+625,Celina,Bener,23,41108401.86,Biology,0.16,2/8/2019,1/8/2024,Celina Bener
+626,Berti,Ellaway,20,16867794.53,History,1.15,9/26/2020,10/24/2024,Berti Ellaway
+627,Georgine,Wynch,24,94030791.19,History,1.76,10/8/2021,6/24/2023,Georgine Wynch
+628,Annette,Hammerstone,23,8746094.78,History,2.1,8/5/2021,2/9/2025,Annette Hammerstone
+629,Rafaellle,Hackley,21,,Computer Science,3.68,8/4/2019,9/19/2024,Rafaellle Hackley
+630,Janka,Kaufman,18,69006860.44,Computer Science,3.25,11/13/2019,11/1/2023,Janka Kaufman
+631,Conway,,18,31576869.68,Biology,3.93,3/23/2019,10/24/2025,Conway Pincked
+632,Shelton,Murfill,22,79411245.79,History,0.26,7/9/2020,9/28/2024,Shelton Murfill
+633,Lombard,Frounks,25,32398283.21,Biology,1.25,2/26/2021,4/1/2025,Lombard Frounks
+634,Jule,Sauter,18,69733507.69,Biology,0.2,2/11/2020,10/8/2025,Jule Sauter
+635,Mikaela,Euplate,22,46794533.43,History,2.6,1/3/2019,5/24/2025,Mikaela Euplate
+636,Edee,,24,10350814.36,Biology,1.02,4/24/2019,5/28/2023,
+637,Stewart,Niave,19,24665593.3,Biology,3.78,9/13/2019,5/6/2025,Stewart Niave
+638,Carlynne,Symes,22,35230004.52,Computer Science,1.78,9/23/2019,6/25/2025,Carlynne Symes
+639,Walther,Piers,19,65575575.97,History,0.05,2/24/2019,12/11/2025,Walther Piers
+640,Burlie,Hantusch,23,41083619.7,History,2.21,2/22/2019,7/6/2023,Burlie Hantusch
+641,Sander,,20,89960255.93,Biology,1.23,6/30/2020,2/12/2024,Sander Catlette
+642,Kendra,Sweeny,24,75134376.69,Biology,3.05,12/15/2020,9/11/2023,Kendra Sweeny
+643,Beryl,Franzotto,24,70459799.0,History,1.21,12/3/2020,5/30/2023,Beryl Franzotto
+644,Astrid,,24,98495880.79,Computer Science,1.59,4/10/2020,11/18/2024,Astrid Benito
+645,Paolo,,18,7016933.62,Biology,3.8,2/15/2019,6/18/2024,Paolo Di Meo
+646,Lucie,Roback,20,31499365.53,History,2.54,4/19/2021,2/22/2024,Lucie Roback
+647,Tuesday,Sultana,23,82402776.32,History,1.67,12/23/2021,8/4/2025,Tuesday Sultana
+648,Archer,Morrad,18,,History,0.9,5/13/2019,11/20/2025,Archer Morrad
+649,Maximilien,Balmadier,20,24273674.5,Computer Science,2.03,6/14/2019,10/10/2025,Maximilien Balmadier
+650,Waring,Playdon,23,74251180.33,Biology,0.39,7/27/2019,2/9/2024,Waring Playdon
+651,Wesley,Barkaway,25,75344974.16,History,2.01,11/28/2021,2/3/2023,Wesley Barkaway
+652,Marillin,Archdeacon,21,71132690.74,Biology,0.65,12/26/2020,3/2/2025,Marillin Archdeacon
+653,Clerkclaude,Palley,21,68247801.14,Biology,0.21,6/5/2020,4/24/2024,
+654,Susanna,Lorman,24,87400143.53,Computer Science,1.99,2/10/2019,7/7/2023,
+655,Shannon,Usborn,25,20106663.43,Biology,0.25,2/15/2020,4/17/2025,Shannon Usborn
+656,Whittaker,Bidewel,24,55304628.19,Computer Science,0.88,10/11/2019,10/27/2024,Whittaker Bidewel
+657,Sidnee,Bachman,21,,Biology,3.11,4/7/2021,5/16/2024,Sidnee Bachman
+658,Ike,Yanez,24,,Biology,0.41,4/25/2019,6/30/2023,Ike Yanez
+659,,Fullerd,24,84377355.65,Computer Science,2.48,11/1/2019,2/25/2023,
+660,Barney,Le Port,19,,Biology,0.2,6/25/2021,3/28/2023,Barney Le Port
+661,Nanny,Iacovazzi,23,29580616.09,History,0.34,12/29/2019,12/11/2025,Nanny Iacovazzi
+662,Leeanne,Gornall,20,81765659.86,Biology,0.15,8/30/2019,5/10/2023,
+663,Sophronia,McSpirron,24,2535221.09,Computer Science,1.08,12/15/2019,4/18/2024,Sophronia McSpirron
+664,Harlen,Lincoln,23,20227753.25,Biology,3.74,8/22/2019,6/25/2025,Harlen Lincoln
+665,Chantalle,Niemiec,18,68922998.05,Biology,0.78,7/23/2020,7/13/2024,Chantalle Niemiec
+666,Georgeta,Kaindl,23,62655664.32,Biology,1.87,2/28/2019,5/18/2024,Georgeta Kaindl
+667,Sheri,Abbes,24,18881243.42,History,2.79,2/11/2020,2/4/2024,Sheri Abbes
+668,Nichole,,22,,Biology,1.45,5/5/2021,9/10/2023,Nichole Lynds
+669,Dyann,,20,,History,2.07,3/29/2020,9/11/2025,Dyann Hazley
+670,Emilio,,23,45895019.12,Biology,3.5,9/21/2021,8/12/2025,Emilio Doorey
+671,Alessandro,Primak,21,67983152.02,Biology,0.96,3/26/2020,7/5/2023,Alessandro Primak
+672,,,19,,Computer Science,0.2,3/10/2020,1/10/2024,Roselia Landsbury
+673,Harley,,18,38139675.73,History,0.48,8/31/2020,11/2/2024,Harley Leverage
+674,Stillman,,21,42345417.12,Biology,1.01,6/27/2021,10/24/2024,Stillman Cappell
+675,Rafaela,Rivett,20,24095549.72,Computer Science,1.12,11/12/2021,3/20/2023,Rafaela Rivett
+676,Weidar,,19,84888667.91,History,0.86,12/2/2019,6/18/2024,
+677,Buddie,Beckensall,20,,History,2.01,11/9/2021,4/2/2024,Buddie Beckensall
+678,Eleanora,,18,84063502.27,Biology,2.66,1/6/2020,3/15/2023,Eleanora Perigeaux
+679,,,20,,Biology,3.06,3/23/2019,12/24/2025,Fernandina Tousy
+680,Kristoforo,,22,60778462.86,Biology,3.75,3/24/2020,11/29/2025,
+681,Mandel,Heartfield,19,,Computer Science,0.23,4/14/2021,4/21/2023,Mandel Heartfield
+682,Dennis,Klimochkin,18,33801066.52,Computer Science,1.59,2/23/2019,11/23/2024,Dennis Klimochkin
+683,Laurella,,23,69318606.86,History,3.79,6/7/2021,10/26/2025,Laurella Sywell
+684,Afton,Swanwick,24,,History,0.81,2/11/2019,8/15/2024,Afton Swanwick
+685,Morena,,24,37657921.68,History,0.85,5/10/2021,12/9/2024,
+686,Aldo,Kalinowsky,18,20193135.1,Biology,2.26,6/26/2021,9/7/2024,Aldo Kalinowsky
+687,Fran,,25,99524845.56,History,1.08,10/29/2021,1/6/2025,Fran McHarry
+688,Lorita,,21,2779430.18,Computer Science,2.98,4/17/2019,8/14/2024,Lorita Dossett
+689,Pearce,,24,,Computer Science,0.13,10/22/2020,1/6/2025,
+690,Grant,Heathcoat,21,26962233.6,History,0.88,10/1/2019,12/30/2023,Grant Heathcoat
+691,Flo,,22,,Biology,1.52,1/31/2019,1/27/2023,
+692,Karlee,Ruben,20,,Biology,3.85,12/1/2019,2/13/2025,Karlee Ruben
+693,Berte,,21,54685002.74,History,3.67,7/19/2020,8/14/2025,Berte Musselwhite
+694,Cleavland,Sains,24,56793790.84,Computer Science,1.92,3/25/2021,2/26/2023,
+695,Emmalynn,,19,46893962.58,Biology,2.96,12/28/2020,4/15/2024,Emmalynn Willman
+696,Rancell,Deniso,25,51696739.04,Biology,1.25,12/11/2020,9/19/2024,Rancell Deniso
+697,Normy,,25,93711241.79,Biology,0.93,9/12/2021,12/15/2023,Normy Hawksworth
+698,Alwyn,,18,6580442.41,Biology,0.48,8/13/2019,10/8/2025,Alwyn Hazle
+699,Pierce,Kiebes,20,94905390.4,History,0.59,7/17/2020,10/12/2023,Pierce Kiebes
+700,Timi,,23,,Biology,3.55,8/31/2019,10/17/2024,Timi Benterman
+701,Billie,Fabler,24,,Computer Science,1.91,4/16/2021,1/28/2025,Billie Fabler
+702,Ambrose,Soutter,21,10329400.81,History,1.42,12/23/2019,8/2/2023,Ambrose Soutter
+703,Glenna,,18,41833250.76,Biology,1.63,3/28/2021,5/13/2023,Glenna McTurley
+704,Cozmo,Spatig,20,1013264.11,Biology,2.12,6/10/2021,7/17/2024,Cozmo Spatig
+705,Nonna,,19,15810128.4,Computer Science,3.02,11/7/2021,1/25/2023,Nonna Jewell
+706,Gerti,Holdall,25,,Computer Science,0.47,8/15/2019,9/13/2023,Gerti Holdall
+707,Sissy,Melin,25,61133227.04,Biology,0.91,2/16/2019,11/24/2023,
+708,Kania,Andrei,21,72802012.74,Biology,0.57,8/10/2020,4/16/2023,Kania Andrei
+709,Foster,Jordine,25,4701805.31,Computer Science,1.92,2/28/2020,4/9/2023,Foster Jordine
+710,Mimi,Creese,24,71601914.95,Biology,2.91,7/1/2020,10/16/2023,Mimi Creese
+711,Cody,Swainsbury,22,30342059.64,Computer Science,2.93,8/16/2020,3/29/2024,Cody Swainsbury
+712,,Jaxon,18,76030829.94,Computer Science,0.38,7/1/2021,3/10/2024,Vivienne Jaxon
+713,Laurianne,,19,87793530.17,Computer Science,0.57,12/20/2019,3/11/2025,Laurianne Moulster
+714,Skipton,Coverdill,19,88829804.46,History,2.79,8/1/2020,8/28/2023,
+715,Corie,,23,7149714.86,Computer Science,0.96,9/30/2020,7/3/2023,Corie Jacobi
+716,Bran,,22,48184121.89,History,3.71,6/26/2021,2/17/2023,
+717,Janeva,,20,81003002.87,Computer Science,0.42,3/21/2019,5/15/2023,Janeva Priddy
+718,Miquela,Dunnaway,22,27837063.97,Computer Science,2.93,1/28/2019,5/28/2023,Miquela Dunnaway
+719,Gae,,24,79952126.08,Biology,3.87,1/8/2019,2/12/2024,Gae Deveril
+720,Brade,,20,47366758.08,Biology,1.41,3/23/2019,3/18/2024,
+721,Cesaro,Persicke,24,14685917.76,Biology,2.9,5/12/2020,8/19/2024,Cesaro Persicke
+722,Ericka,Lortz,20,72345320.6,Biology,3.43,10/20/2021,4/8/2025,Ericka Lortz
+723,Ethelin,,20,81314829.7,Biology,3.01,2/28/2019,7/27/2024,Ethelin Defew
+724,Maiga,,23,97987807.06,Computer Science,2.57,6/25/2021,1/14/2024,Maiga Duddle
+725,Obediah,,21,,History,0.48,8/28/2020,4/4/2024,
+726,Turner,Brevitt,23,47264197.65,Computer Science,3.65,7/22/2020,9/4/2024,Turner Brevitt
+727,Zabrina,Partkya,23,44102821.83,History,1.17,1/7/2021,8/9/2024,Zabrina Partkya
+728,Caren,Dennerley,18,76857186.24,Computer Science,0.59,1/14/2019,11/19/2024,Caren Dennerley
+729,Alain,Veljes,20,38253753.0,History,2.88,10/22/2020,5/15/2023,Alain Veljes
+730,Zea,,20,75581748.8,Biology,3.41,8/7/2019,2/18/2024,Zea Keford
+731,Delly,Adlard,18,63071040.69,History,0.23,2/9/2021,8/29/2023,
+732,Guy,,22,34306436.16,History,0.4,10/12/2021,3/25/2023,Guy Ezzle
+733,Orbadiah,McNirlan,25,74280393.04,Biology,3.2,1/4/2019,11/11/2023,Orbadiah McNirlan
+734,Claudie,Broggelli,18,94902124.56,Computer Science,2.98,2/20/2021,3/11/2024,Claudie Broggelli
+735,Mercy,,18,19546510.0,Biology,3.0,11/9/2020,12/20/2023,Mercy Gouldie
+736,Ainslie,,18,51975326.69,Biology,0.39,10/19/2020,4/22/2023,
+737,Bibbie,Poltun,19,81732390.51,Biology,1.98,5/25/2021,12/24/2024,Bibbie Poltun
+738,Vina,Toulson,22,77570097.88,Biology,2.57,12/26/2020,5/3/2023,Vina Toulson
+739,Lucina,,25,69465901.18,Computer Science,2.34,10/17/2020,3/6/2023,Lucina Luetchford
+740,Lorianna,Mungin,19,31522637.78,Computer Science,0.33,4/7/2019,4/15/2023,
+741,Florie,,22,62248563.35,Computer Science,2.49,10/12/2019,11/13/2024,Florie Balding
+742,Rickie,Brittle,20,11247065.19,Biology,1.15,10/19/2021,12/24/2024,Rickie Brittle
+743,Harcourt,Carmody,24,59545634.78,Biology,1.31,1/24/2020,3/4/2023,
+744,Delbert,,20,,Computer Science,1.08,10/16/2020,3/29/2023,Delbert Drinan
+745,,,21,56486934.07,History,0.67,2/26/2019,1/13/2023,Guillermo Garrad
+746,Phil,Flaxon,20,76255842.59,Biology,2.33,4/5/2019,2/1/2023,Phil Flaxon
+747,Eileen,Beaumont,24,,Computer Science,3.7,11/1/2019,10/1/2023,
+748,Kara,,20,,Computer Science,0.42,9/15/2019,2/8/2024,Kara Eayres
+749,Torey,,21,18701764.91,History,0.51,9/9/2021,4/6/2025,Torey Slight
+750,Enrichetta,Zieme,18,75618248.46,Computer Science,1.02,10/31/2020,5/30/2023,Enrichetta Zieme
+751,,Slegg,19,61701318.67,Biology,0.12,1/30/2021,5/20/2024,Karlyn Slegg
+752,Kaye,Sturney,19,11115145.08,History,2.02,9/27/2020,10/10/2023,Kaye Sturney
+753,,Cloney,24,,History,3.63,3/1/2019,4/2/2023,Gordon Cloney
+754,Sisely,Georgiev,23,21978715.57,Computer Science,3.19,3/12/2020,4/1/2025,Sisely Georgiev
+755,Thorpe,Kocher,20,37584609.7,Computer Science,3.37,2/10/2019,3/24/2023,Thorpe Kocher
+756,Findlay,Bowller,18,51030584.3,Computer Science,0.61,12/4/2020,2/27/2023,Findlay Bowller
+757,Catrina,Scoyne,23,59012988.15,History,1.03,1/16/2021,10/8/2024,
+758,Lianne,Lyenyng,23,28679730.43,History,3.1,5/12/2019,1/30/2024,Lianne Lyenyng
+759,Darice,,21,35690186.55,Computer Science,2.81,2/18/2021,12/4/2023,Darice Retter
+760,Debee,Fance,19,83875207.26,History,1.98,2/22/2020,1/27/2023,Debee Fance
+761,Forrester,Starkie,22,,Biology,2.03,12/17/2021,12/6/2024,Forrester Starkie
+762,,Langhorne,24,,Computer Science,2.2,12/25/2021,2/7/2025,Perren Langhorne
+763,Bernete,Easterling,20,24831693.71,Computer Science,2.97,5/11/2020,4/20/2024,Bernete Easterling
+764,Gustaf,Wellbelove,25,,History,3.99,12/10/2021,2/23/2024,Gustaf Wellbelove
+765,Chrissy,Dennant,25,71626467.49,Computer Science,2.55,10/11/2020,1/5/2024,Chrissy Dennant
+766,Clement,Rowsell,22,,Computer Science,3.97,6/21/2021,6/17/2024,Clement Rowsell
+767,,Coomer,24,82343938.93,Computer Science,2.08,10/26/2020,10/9/2023,Leonerd Coomer
+768,Hilde,,24,78418903.2,Biology,1.76,12/13/2020,9/30/2023,Hilde Brisse
+769,Marijo,Showen,20,91349510.03,Computer Science,2.25,5/26/2020,1/20/2024,Marijo Showen
+770,Kamila,,23,40808854.09,Computer Science,3.06,8/30/2020,11/18/2023,Kamila Chittleburgh
+771,Hazel,,24,52332102.19,Biology,2.41,11/29/2021,6/13/2023,Hazel Hateley
+772,Corri,,19,39434549.1,History,0.67,4/26/2019,11/26/2025,Corri Goodbur
+773,Morgen,,24,99983431.22,Computer Science,1.13,12/13/2021,12/6/2025,Morgen Gladhill
+774,Marlon,,19,7382783.44,Computer Science,2.81,9/10/2020,4/25/2024,Marlon Stranaghan
+775,Jasen,Innocenti,22,11485332.3,Computer Science,3.89,4/10/2020,6/20/2025,Jasen Innocenti
+776,Munmro,Frascone,24,6478838.2,Biology,3.54,4/12/2021,3/30/2025,Munmro Frascone
+777,,,23,15730759.78,History,2.34,5/15/2021,1/19/2025,Douglass Braisted
+778,Eveline,,24,47566264.66,History,0.8,6/24/2021,3/5/2023,Eveline Gilberthorpe
+779,Joby,,25,73681918.2,Biology,1.99,1/23/2020,6/24/2023,Joby Gammons
+780,Lonny,Thomazet,18,9883091.05,History,0.02,5/15/2020,2/1/2025,
+781,Cherie,McDell,18,77507159.69,Computer Science,0.17,9/22/2019,9/28/2023,Cherie McDell
+782,Darlleen,Duham,18,78992365.65,Computer Science,1.88,4/24/2021,1/31/2025,Darlleen Duham
+783,Aindrea,,22,8332188.08,Biology,3.22,7/7/2019,10/29/2025,Aindrea Shervil
+784,Evelyn,Aspole,25,44009588.7,History,2.31,4/22/2021,2/25/2023,Evelyn Aspole
+785,Morna,Daughtrey,22,95391481.38,Biology,3.98,5/20/2020,9/1/2025,Morna Daughtrey
+786,Carlee,Robion,23,55629467.24,Biology,2.6,3/27/2019,3/27/2024,
+787,Charleen,Gisbey,25,82589473.71,Computer Science,0.82,8/29/2021,12/19/2024,Charleen Gisbey
+788,Emiline,,25,6191994.78,History,3.72,8/19/2019,2/7/2023,Emiline Quiddington
+789,Cris,Tinsey,20,,Computer Science,2.25,11/12/2020,1/27/2024,
+790,Arlette,,23,49857291.37,Biology,1.86,8/15/2019,4/23/2023,Arlette Dee
+791,Kirbie,,21,46622597.58,History,1.58,3/9/2019,3/27/2023,Kirbie Carleman
+792,Flory,Millis,20,58380270.25,Biology,1.39,3/15/2019,10/11/2023,Flory Millis
+793,Daune,McGuiney,24,33471868.14,History,2.24,1/27/2020,10/22/2025,Daune McGuiney
+794,Fax,McKinn,25,2627286.81,Biology,3.63,7/16/2019,10/27/2024,Fax McKinn
+795,Coop,Roast,21,2632847.34,Computer Science,0.46,12/29/2021,12/4/2023,Coop Roast
+796,Kerwin,Nunn,18,99047770.96,Computer Science,1.98,5/10/2019,1/20/2025,Kerwin Nunn
+797,Kristo,Plesing,25,68354712.68,Computer Science,3.29,10/10/2019,2/16/2025,Kristo Plesing
+798,Ailyn,,25,23332674.58,History,3.72,2/2/2019,5/7/2024,Ailyn Drinkhall
+799,Giff,Gemlbett,24,87484211.97,Computer Science,3.18,4/15/2019,1/23/2024,Giff Gemlbett
+800,Cornie,,18,,History,2.34,2/17/2020,8/9/2025,Cornie Benezet
+801,Mab,Gutridge,19,58107530.01,Computer Science,2.06,9/22/2020,4/6/2023,Mab Gutridge
+802,Sapphira,,20,46873739.66,Biology,2.5,9/2/2019,1/17/2023,Sapphira Hugnot
+803,Elsy,Cady,23,32002784.36,History,1.56,8/2/2021,4/8/2025,
+804,Rubia,Kobierzycki,21,,History,0.72,10/30/2020,1/24/2024,Rubia Kobierzycki
+805,Doralia,Krout,20,,History,3.49,10/29/2020,12/27/2023,Doralia Krout
+806,Sol,Hazlehurst,25,,Computer Science,1.87,3/23/2021,12/28/2023,Sol Hazlehurst
+807,Fern,,24,50135670.89,Computer Science,2.02,10/1/2021,9/29/2023,Fern Pawden
+808,,Rodenburg,21,99940507.19,History,3.63,5/7/2020,5/22/2023,Ethe Rodenburg
+809,Fianna,Witcherley,22,49469527.72,Biology,3.36,6/9/2021,1/24/2025,Fianna Witcherley
+810,Gard,Daice,18,63099202.76,History,0.71,11/15/2020,7/15/2025,
+811,Virgie,Stentiford,23,1777715.45,History,3.2,4/11/2020,4/3/2025,Virgie Stentiford
+812,Cariotta,,19,54723522.22,Biology,2.35,6/18/2020,3/4/2025,Cariotta Kelshaw
+813,Jaynell,,24,64399730.3,Biology,1.65,5/1/2021,4/12/2024,Jaynell Sloat
+814,,,25,11556867.53,Computer Science,1.02,2/3/2020,11/20/2025,Hilario George
+815,Helaina,Moryson,22,15695240.64,History,0.52,9/22/2021,6/7/2024,Helaina Moryson
+816,,Lafranconi,24,69398698.4,Biology,2.78,11/21/2020,2/17/2025,Hilliard Lafranconi
+817,Heall,Koppe,23,43935610.08,Biology,1.43,9/9/2021,12/14/2023,Heall Koppe
+818,Gizela,Antonov,18,39784690.52,Biology,2.43,9/16/2019,12/7/2023,Gizela Antonov
+819,Tulley,Ianson,19,96234580.84,History,2.21,3/16/2019,10/17/2024,Tulley Ianson
+820,Kalila,Votier,22,13314559.04,Biology,3.7,7/20/2019,9/11/2023,Kalila Votier
+821,Kynthia,Boullen,24,92698075.67,History,3.0,2/21/2019,11/29/2023,Kynthia Boullen
+822,Valera,Stothard,19,24239991.0,Biology,2.84,6/30/2021,5/3/2023,Valera Stothard
+823,Bennie,Spreull,23,56961225.83,Biology,1.74,9/28/2019,2/14/2025,Bennie Spreull
+824,Livvie,Cattrell,19,,History,3.7,10/7/2020,9/26/2023,Livvie Cattrell
+825,Moises,Starie,23,,History,1.86,4/17/2021,5/30/2023,Moises Starie
+826,Constantine,,23,92783054.49,Biology,3.73,9/30/2019,2/18/2025,Constantine Androck
+827,Isabelita,Thoday,21,2079328.94,Biology,1.4,7/11/2020,12/17/2025,
+828,Herta,,25,,Computer Science,3.9,6/10/2020,6/30/2024,Herta Kensett
+829,Norrie,Cuxon,18,59772660.0,Computer Science,0.66,12/5/2020,8/26/2023,Norrie Cuxon
+830,Ophelia,Fairbourne,25,80080015.72,History,2.37,7/21/2020,1/24/2023,Ophelia Fairbourne
+831,Maddi,Beggs,23,25388236.6,Biology,3.59,11/24/2020,11/29/2024,Maddi Beggs
+832,Malynda,Siggins,21,76675877.58,Biology,1.95,1/12/2020,1/14/2024,Malynda Siggins
+833,Paolina,Crust,25,99971265.46,History,0.52,5/11/2020,10/29/2024,Paolina Crust
+834,Denney,Morrison,23,,Computer Science,2.04,8/7/2019,7/1/2023,Denney Morrison
+835,Maddie,Trendle,19,,History,1.5,7/27/2019,1/11/2024,Maddie Trendle
+836,Umberto,,18,34067095.25,History,1.56,12/8/2020,3/18/2024,Umberto Gronous
+837,,Craddy,25,51299649.78,Biology,3.64,3/17/2021,7/11/2023,Garreth Craddy
+838,Car,Gollop,22,60098564.83,Computer Science,1.07,12/19/2020,10/4/2024,Car Gollop
+839,,Biner,19,65581717.26,Computer Science,1.02,9/23/2021,8/11/2024,Richart Biner
+840,Matteo,,22,38965537.77,Computer Science,1.02,9/29/2021,11/6/2024,Matteo Vonderdell
+841,Skyler,Workes,22,,History,2.47,8/27/2020,3/19/2025,Skyler Workes
+842,Elihu,,22,49535486.34,Biology,2.47,3/31/2019,11/5/2023,Elihu Meech
+843,Claudian,Hanby,23,81706979.42,Computer Science,1.99,5/4/2021,4/19/2023,Claudian Hanby
+844,Kelley,,18,58655640.85,Biology,1.7,10/8/2019,9/16/2024,Kelley Lantoph
+845,Ailee,,22,,History,2.38,12/2/2019,3/17/2024,Ailee Carwithen
+846,Marlow,Crimin,24,77869206.08,Computer Science,3.64,1/9/2020,9/24/2025,Marlow Crimin
+847,,Authers,23,29136877.51,Biology,1.78,1/24/2021,12/9/2024,Konrad Authers
+848,Alyda,,25,3788725.8,Computer Science,1.83,3/31/2021,6/20/2025,Alyda Higford
+849,Rosemonde,Uwins,22,9974561.11,History,2.13,4/26/2019,2/10/2024,Rosemonde Uwins
+850,Mendie,,18,11978310.17,Biology,2.94,7/10/2019,9/17/2024,Mendie Train
+851,Samuele,Le Barre,19,69926073.56,Biology,2.5,8/4/2020,11/3/2025,Samuele Le Barre
+852,Solomon,,19,50862982.39,History,3.69,10/4/2020,11/5/2024,Solomon Bending
+853,Sibylle,,23,,Computer Science,1.48,8/25/2019,11/10/2023,Sibylle Shaylor
+854,Laureen,Asbrey,24,68141777.48,Computer Science,2.4,9/5/2021,4/5/2023,Laureen Asbrey
+855,Jasper,Tiuit,25,9856308.42,Computer Science,3.74,6/19/2019,9/4/2025,Jasper Tiuit
+856,,Abethell,18,34854786.87,History,1.5,6/10/2019,10/22/2023,Aloysius Abethell
+857,Kellie,,19,7220718.4,Biology,1.0,9/10/2020,8/7/2023,Kellie Wenham
+858,Arty,Pagram,19,82174855.34,History,0.81,12/22/2020,11/3/2024,Arty Pagram
+859,Georg,Bister,19,,Computer Science,1.46,9/13/2021,5/26/2025,Georg Bister
+860,Siana,McElhinney,18,,Computer Science,2.67,9/13/2021,1/27/2024,
+861,Trista,Rafter,21,3616039.49,Computer Science,0.04,9/19/2020,12/4/2023,Trista Rafter
+862,Gabbie,Sneesbie,24,78529679.41,Computer Science,1.18,10/25/2021,9/28/2024,Gabbie Sneesbie
+863,Amandy,Pratten,21,,History,0.1,2/17/2019,3/10/2023,Amandy Pratten
+864,Sumner,Barnhart,21,73433582.26,Biology,3.18,10/16/2021,9/24/2025,Sumner Barnhart
+865,Lannie,Rebichon,22,85110170.66,History,3.55,1/30/2020,10/19/2023,Lannie Rebichon
+866,Valentine,,25,13029353.53,History,3.55,2/19/2020,5/20/2023,
+867,Saundra,Hillatt,18,65603614.75,History,2.12,5/17/2019,8/15/2024,Saundra Hillatt
+868,Roderic,Dowtry,19,,Biology,2.29,9/7/2019,8/20/2025,Roderic Dowtry
+869,Cindy,Haddleton,23,63280049.05,Computer Science,1.19,8/15/2021,10/18/2024,
+870,Jilli,,24,73689672.08,History,0.93,5/14/2021,3/3/2024,Jilli Dondon
+871,,Gourlie,20,27283147.35,History,2.36,3/4/2019,11/13/2023,Aryn Gourlie
+872,Rori,,19,17154817.17,Biology,1.73,3/26/2019,10/20/2024,Rori St Angel
+873,Susana,,25,,History,0.35,1/24/2020,8/4/2025,Susana Fannon
+874,Ardine,,20,,Biology,2.74,6/1/2020,1/14/2023,Ardine Varndell
+875,Vassily,Rolfi,21,34130369.85,Biology,1.22,10/12/2021,7/21/2025,
+876,Frederica,Timmons,24,83136123.3,History,3.98,7/25/2021,4/3/2023,Frederica Timmons
+877,Marcelle,,20,15259857.61,History,2.71,10/26/2020,5/25/2024,Marcelle Hitter
+878,Lilias,Brunnen,18,,History,1.31,5/25/2020,6/16/2024,Lilias Brunnen
+879,Nicolai,Wroth,21,28917157.03,History,2.71,5/26/2021,10/6/2025,Nicolai Wroth
+880,Othelia,McAllester,21,6354093.55,Computer Science,0.03,2/11/2019,3/21/2024,Othelia McAllester
+881,Robers,Mewis,20,13729481.26,Computer Science,3.57,4/5/2019,10/1/2024,
+882,Oliy,,21,89732069.4,Biology,2.45,4/6/2020,5/11/2024,Oliy Chittim
+883,Vanny,Seston,20,56411647.22,Computer Science,3.8,8/26/2019,5/19/2025,Vanny Seston
+884,Xenia,Grigore,22,55958069.4,History,1.82,5/31/2020,10/7/2024,Xenia Grigore
+885,Husain,Mottini,23,,History,0.52,12/17/2020,1/5/2023,Husain Mottini
+886,Arluene,Behan,25,,Computer Science,2.83,10/22/2021,9/2/2023,Arluene Behan
+887,Zulema,,19,40593368.21,Biology,1.46,4/23/2021,12/29/2025,Zulema Agglio
+888,Lanie,Cawthorn,25,60260562.02,History,3.36,7/20/2019,7/21/2024,Lanie Cawthorn
+889,Raven,Pockey,24,,Biology,3.1,10/27/2020,3/15/2023,Raven Pockey
+890,Dasi,Finnimore,18,74718849.85,History,2.7,7/8/2019,4/6/2023,Dasi Finnimore
+891,Viole,,23,,History,3.21,5/27/2019,3/23/2023,
+892,,,24,81096749.55,Computer Science,2.26,9/23/2020,6/13/2024,Sibelle Sealand
+893,Donal,,20,13524781.98,Computer Science,2.05,4/20/2020,10/21/2024,Donal Strass
+894,Domenico,Greenman,18,14316978.28,History,2.04,4/24/2020,4/30/2024,
+895,Natty,,19,,Biology,2.04,9/6/2019,4/2/2023,Natty Cardero
+896,Norean,Acock,25,87696094.04,Computer Science,2.55,11/19/2019,12/13/2023,Norean Acock
+897,Merna,Mothersole,21,41968277.38,History,0.65,8/16/2020,6/14/2025,Merna Mothersole
+898,Curt,Scud,20,99181566.76,History,0.41,1/14/2020,8/18/2025,
+899,Meagan,,20,86779066.36,Biology,0.02,1/22/2021,10/30/2025,Meagan Duckerin
+900,Rube,Assard,23,56419110.06,Computer Science,3.13,4/25/2019,4/6/2025,Rube Assard
+901,Darcy,Chappelow,19,64207557.68,Biology,0.69,10/7/2019,6/16/2025,Darcy Chappelow
+902,Grace,Howsin,24,23259647.81,Biology,0.2,8/21/2019,8/25/2025,Grace Howsin
+903,Rosabella,Kimpton,20,72220555.71,Computer Science,3.31,12/7/2019,1/15/2024,Rosabella Kimpton
+904,Benyamin,,25,39141069.97,History,0.9,2/27/2021,11/25/2025,Benyamin Loughman
+905,Bob,Musson,18,50901847.22,Biology,3.68,10/5/2021,12/31/2023,
+906,Jori,,19,88451523.78,History,0.28,8/22/2019,4/29/2025,
+907,Byrann,De Leek,23,92672218.7,Biology,0.99,8/22/2019,10/27/2025,
+908,Adele,,23,43075280.44,History,2.78,6/9/2019,1/8/2025,Adele Surmeyer
+909,,,18,15158969.51,Biology,0.84,1/22/2021,1/25/2024,Seamus Moseby
+910,Hamlin,Kosiada,21,42052702.77,Biology,0.12,10/1/2021,11/23/2023,Hamlin Kosiada
+911,Woodrow,Colquitt,25,10759962.44,Computer Science,3.48,4/15/2021,5/26/2025,Woodrow Colquitt
+912,Trista,,23,55343558.14,History,3.32,6/12/2020,10/1/2024,Trista Tooley
+913,Avivah,Ranahan,19,78300423.68,Computer Science,1.79,3/28/2019,5/24/2025,Avivah Ranahan
+914,Ernesto,Swinnerton,25,49818278.1,Biology,2.1,6/22/2019,1/17/2024,Ernesto Swinnerton
+915,,Stirtle,18,31243316.6,Biology,2.96,1/15/2021,5/22/2024,Margarethe Stirtle
+916,Lorilyn,Yegorshin,23,87299815.8,Computer Science,2.02,8/5/2020,11/27/2024,Lorilyn Yegorshin
+917,Samantha,,18,13144831.66,History,0.84,3/17/2019,3/8/2023,Samantha Cisneros
+918,Ardelis,,21,35679981.17,Biology,1.62,10/22/2020,4/28/2024,Ardelis Comettoi
+919,Maxim,,22,,History,3.42,4/30/2020,7/30/2024,Maxim Mackro
+920,Carissa,Chaudron,25,,Computer Science,0.23,9/4/2021,1/25/2024,Carissa Chaudron
+921,Alysa,Dungey,21,42532693.46,History,2.08,5/15/2019,4/30/2025,Alysa Dungey
+922,Rosita,Colvie,25,70160032.74,Biology,3.11,7/28/2021,1/4/2025,Rosita Colvie
+923,Sophey,Quantick,24,81169150.14,History,3.51,10/8/2020,1/31/2024,Sophey Quantick
+924,Merle,Booeln,25,37946262.45,History,3.44,2/10/2019,6/22/2025,Merle Booeln
+925,Udale,Peizer,19,53045567.03,Biology,1.64,4/9/2019,9/8/2024,Udale Peizer
+926,Son,Dahmke,21,91872835.87,Computer Science,1.31,3/30/2021,1/29/2024,Son Dahmke
+927,Jayme,Gruszecki,21,16986230.77,History,3.49,12/26/2021,8/1/2025,Jayme Gruszecki
+928,Franciskus,,18,18975640.24,History,0.07,11/22/2021,9/27/2023,Franciskus Bambra
+929,Pippa,,25,88604673.98,Biology,0.97,2/15/2020,6/8/2024,Pippa Durrant
+930,Lucius,Stolting,21,14698358.39,Biology,2.36,1/13/2021,5/11/2023,
+931,Euphemia,,24,77885514.18,Computer Science,2.31,4/15/2021,4/13/2024,Euphemia Ackwood
+932,Juliette,Brogiotti,21,44998756.87,Computer Science,0.17,2/27/2020,5/2/2024,Juliette Brogiotti
+933,Giulio,,24,87616220.42,Computer Science,2.59,1/26/2019,8/15/2023,Giulio Backe
+934,Elli,Rentcome,23,84311209.28,Computer Science,2.01,8/8/2020,7/26/2024,
+935,Elset,Thompsett,18,73596823.0,Computer Science,1.62,11/22/2021,8/19/2025,Elset Thompsett
+936,Leighton,,21,95505031.17,Biology,2.14,8/21/2021,5/8/2023,Leighton Spitaro
+937,Shell,Naismith,18,17161397.36,Biology,2.84,4/15/2019,3/7/2025,Shell Naismith
+938,Aleksandr,Broadhead,18,27346993.8,Computer Science,2.81,2/14/2020,7/5/2023,Aleksandr Broadhead
+939,Nona,Oylett,19,87807697.43,Biology,1.12,11/22/2021,9/4/2025,Nona Oylett
+940,Rodolfo,Alpin,21,97995605.6,History,3.57,8/6/2020,1/26/2025,Rodolfo Alpin
+941,Fidole,Schechter,19,54653960.24,Computer Science,2.53,8/28/2021,9/21/2023,Fidole Schechter
+942,Mallorie,Olivello,23,22295464.84,Computer Science,2.29,10/23/2020,6/19/2024,Mallorie Olivello
+943,Otes,Stewartson,22,40098952.05,History,3.52,3/27/2021,7/24/2023,Otes Stewartson
+944,Clerkclaude,,19,,Biology,0.99,4/14/2021,3/19/2024,Clerkclaude Phelps
+945,Bay,Surfleet,23,59851319.7,Biology,1.18,3/26/2019,7/29/2025,Bay Surfleet
+946,Gracia,,20,79692191.03,History,2.8,1/11/2020,9/14/2023,Gracia Toynbee
+947,Allie,,24,26830518.63,Computer Science,3.6,10/14/2021,3/3/2024,Allie Branscombe
+948,Nanci,Gai,19,,Computer Science,1.89,2/28/2019,2/12/2024,Nanci Gai
+949,Isadora,,21,73049283.28,History,1.23,10/15/2020,12/28/2025,Isadora Weldrick
+950,Susy,Ropert,18,99873056.14,Biology,1.47,2/28/2021,5/1/2024,Susy Ropert
+951,Ellen,,21,35247792.19,Computer Science,1.77,10/19/2019,8/16/2025,Ellen Ibarra
+952,Kit,Matuszynski,18,,History,3.79,6/24/2021,11/4/2025,Kit Matuszynski
+953,Juliette,Macveigh,22,83364241.54,Computer Science,1.22,1/4/2020,4/12/2025,Juliette Macveigh
+954,Cherise,Cadigan,25,93190690.59,History,3.79,12/24/2020,9/1/2025,
+955,Phyllys,,20,,Biology,3.15,5/16/2019,6/27/2024,Phyllys Ackroyd
+956,Lanny,MacNeely,24,94447733.46,Biology,0.51,3/14/2021,8/5/2024,Lanny MacNeely
+957,Crista,Kiln,20,23226089.36,History,1.43,12/8/2021,12/12/2024,Crista Kiln
+958,Ingemar,,18,44338699.61,History,0.84,5/7/2020,2/18/2025,Ingemar Denham
+959,Gasparo,,21,16697756.31,Computer Science,2.41,8/16/2020,3/17/2025,
+960,Arch,Trowle,22,,History,1.54,4/29/2020,1/12/2025,Arch Trowle
+961,Ilka,,19,1281020.97,Computer Science,1.77,3/19/2021,7/20/2024,Ilka Rivelin
+962,Dorice,,21,17158884.49,Biology,0.78,10/19/2020,10/22/2023,Dorice Medlen
+963,Vincents,Brosi,18,,History,3.07,8/25/2019,11/21/2023,Vincents Brosi
+964,Gradeigh,Carillo,21,,Biology,2.44,8/23/2021,12/14/2025,Gradeigh Carillo
+965,Brier,Elliot,18,,Biology,2.21,3/23/2021,10/26/2023,Brier Elliot
+966,Claiborne,Iacomi,18,,Biology,2.96,10/24/2021,12/22/2024,Claiborne Iacomi
+967,Mariquilla,Gehrtz,23,12290701.01,Biology,3.17,5/9/2020,8/8/2023,Mariquilla Gehrtz
+968,Cleve,Fessler,18,57801356.67,Biology,3.9,10/16/2019,3/3/2025,Cleve Fessler
+969,Gradeigh,Sindle,22,,Computer Science,2.15,6/1/2020,7/2/2023,Gradeigh Sindle
+970,Ninon,Torrans,22,,Computer Science,2.1,12/14/2021,4/11/2023,Ninon Torrans
+971,Gan,,22,3634585.89,History,3.5,7/31/2021,7/25/2025,Gan de Banke
+972,Blondie,Scholtis,25,37725016.44,Biology,1.88,8/13/2020,3/18/2023,Blondie Scholtis
+973,Franciskus,,25,,Biology,3.2,12/9/2019,7/17/2024,Franciskus Hanwell
+974,Deny,Figiovanni,19,99983166.28,Biology,2.9,3/15/2020,5/13/2025,Deny Figiovanni
+975,,,18,32421877.15,Biology,1.76,12/10/2021,4/25/2023,Elvis Sedgemore
+976,Katee,,18,830602.57,Biology,1.76,4/7/2019,1/25/2024,Katee Dackombe
+977,Corny,MacSkeaghan,20,81879812.4,History,2.98,1/28/2021,4/17/2023,Corny MacSkeaghan
+978,Loreen,Alden,23,59828423.75,Biology,1.39,9/6/2020,5/5/2025,Loreen Alden
+979,Nanon,,21,72214253.23,Biology,3.21,10/12/2020,5/22/2024,Nanon Saladin
+980,Sullivan,Fozard,22,22184050.49,Computer Science,2.1,10/31/2019,11/29/2023,
+981,Cam,Grassett,24,33670304.37,Computer Science,2.7,8/15/2019,7/8/2024,Cam Grassett
+982,Meta,Wandrack,24,6668490.47,Computer Science,2.23,10/15/2019,11/4/2025,Meta Wandrack
+983,Kristien,Aime,19,84309560.52,History,3.93,5/22/2020,11/9/2025,Kristien Aime
+984,Kelli,Bustin,22,21303661.03,History,3.74,11/13/2021,4/19/2025,Kelli Bustin
+985,Roddy,Kee,22,17029979.32,Biology,2.55,11/29/2020,2/22/2024,
+986,Nan,Stanley,25,27666386.62,History,0.25,1/7/2020,4/10/2023,
+987,Marcy,Duckitt,21,,Computer Science,1.91,1/6/2020,6/30/2024,Marcy Duckitt
+988,Karlik,Harlick,20,10190180.85,Computer Science,1.16,3/29/2020,6/1/2023,Karlik Harlick
+989,Micky,Kettel,21,88945170.59,History,0.63,11/18/2021,3/23/2025,Micky Kettel
+990,Kaylyn,Herrero,21,52527895.35,History,2.51,9/26/2019,2/7/2024,Kaylyn Herrero
+991,Glori,,25,5755254.54,History,3.15,1/26/2020,10/27/2025,
+992,Robinetta,Gillcrist,24,,History,3.45,1/17/2019,9/19/2025,Robinetta Gillcrist
+993,Nickolas,Thom,24,8735131.47,Computer Science,3.52,9/29/2020,9/8/2025,Nickolas Thom
+994,Ivonne,Crozier,21,,Biology,3.58,11/23/2021,6/15/2024,Ivonne Crozier
+995,Marten,,19,57577450.57,Computer Science,1.05,2/12/2019,1/29/2023,Marten Favela
+996,Zerk,,25,,Computer Science,0.32,9/16/2021,3/10/2025,Zerk Muston
+997,Zoe,O'Mara,18,37581156.85,Computer Science,1.2,1/11/2019,10/15/2023,Zoe O'Mara
+998,Orelle,Fairrie,18,64034981.05,History,2.34,1/12/2021,2/10/2024,Orelle Fairrie
+999,Dallon,Thunder,23,,Computer Science,0.05,12/16/2021,11/16/2023,Dallon Thunder
+1000,Janka,Guillet,23,,Computer Science,1.44,12/16/2021,8/17/2023,Janka Guillet
