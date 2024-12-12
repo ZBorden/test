@@ -7,8 +7,8 @@ hs_file_path = 'hs_progess_report.csv'
 ms_df = pd.read_csv(ms_file_path)
 hs_df = pd.read_csv(hs_file_path)
 
-ms_duplicates = ms_df[ms_df.duplicated(keep = False)]
-hs_duplicates = hs_df[hs_df.duplicated(keep = False)]
+ms_duplicates = ms_df[ms_df.duplicated(keep = 'first')]
+hs_duplicates = hs_df[hs_df.duplicated(keep = 'first')]
 
 column_to_keep = ['KEY']
 
