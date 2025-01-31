@@ -19,7 +19,7 @@ def fetch_redash_query_results():
     df = pd.read_csv(DOMO_PLANNING_REPORT)
     pprint(df)
     
-    df.to_csv('Domo_Monthly_Data', index=false)')
+    df.to_csv('Domo_Monthly_Data.csv', index=False)
 
 fetch_redash_query_results()
 
